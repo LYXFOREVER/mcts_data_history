@@ -1,0 +1,70 @@
+{
+    "action_list": [
+        {
+            "action_type": "click",
+            "x": 0.81,
+            "y": 0.68
+        },
+        {
+            "action_type": "click",
+            "x": 0.86,
+            "y": 0.21
+        },
+        {
+            "action_type": "click",
+            "x": 0.78,
+            "y": 0.89
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "x": 0.5,
+            "y": 0.88
+        },
+        {
+            "action_type": "click",
+            "x": 0.52,
+            "y": 0.74
+        },
+        {
+            "action_type": "click",
+            "x": 0.88,
+            "y": 0.48
+        },
+        {
+            "action_type": "click",
+            "x": 0.18,
+            "y": 0.48
+        },
+        {
+            "action_type": "click",
+            "x": 0.85,
+            "y": 0.02
+        },
+        {
+            "action_type": "click",
+            "x": 0.52,
+            "y": 0.21
+        },
+        {
+            "action_type": "click",
+            "x": 0.74,
+            "y": 0.31
+        }
+    ],
+    "action_output_list": [
+        "The first step is to open the Kugou Music application. The icon is visible on the screen.,{'action_type': 'click', 'x': 0.81, 'y': 0.68}",
+        "The application just started, it displays an advertisement. I should click on the skip button to proceed to the main page.,{'action_type': 'click', 'x': 0.86, 'y': 0.21}",
+        "The user wants to create a new playlist named 'My Favorites' and add the currently playing song to it. I need to navigate to 'My Music' first. The current screen doesn't have a 'My Music' button. Need to find the button to enter personal page. From the layout, there are three icons in the bottom right corner, I'll try clicking them one by one to see if I can find 'My Music'. Since I am not sure which one of the bottom buttons is for navigating to 'My Music', I will start from the right one, which looks like a menu.,{'action_type': 'click', 'x': 0.78, 'y': 0.89}",
+        "The user wants to go to 'My Music' but it's not visible on the current screen. I should navigate back to the main page where it is usually located.,{'action_type': 'navigate_back'}",
+        "The user wants to navigate to 'My Music', create a playlist, and add the current song to it. The current screen is the main Kugou Music page. There is no \"My Music\" button directly visible. Based on the layout, there are some icons on the bottom. The one that looks like a profile icon is most likely the \"My Music\" entry.,{'action_type': 'click', 'x': 0.5, 'y': 0.88}",
+        "The user wants to create a new playlist and add the currently playing song to it. The current screen shows the playing song. To do this, I should first click on the 'More options' icon which is three dots to reveal the available actions.,{'action_type': 'click', 'x': 0.52, 'y': 0.74}",
+        "The user wants to add the currently playing song to a new playlist. From the current screen, I can click the \"More options\" icon (three dots) on the top right to reveal the available actions.,{'action_type': 'click', 'x': 0.88, 'y': 0.48}",
+        "The current screen does not allow for creating a playlist or adding a song to a playlist.,{'action_type': 'click', 'x': 0.18, 'y': 0.48}",
+        "The current screen is displaying some advertisement and incentives to encourage spending within the Kugou Music app. I need to close this to get back to the app's main interface, I should click the close button at the top right corner to close the promotion.,{'action_type': 'click', 'x': 0.85, 'y': 0.02}",
+        "The current screen is showing song playing screen. To add the currently playing song to a new playlist, I need to find an option to add it, which is likely under \"More options\". But the options are hidden and needs to be activated. I can click the \"More options\" icon which is the three dots to reveal the available actions.,{'action_type': 'click', 'x': 0.52, 'y': 0.21}",
+        "The user wants to add the current song to a new playlist. However, an advertisement pop-up is blocking the app. To proceed with the user's request, the advertisement needs to be closed first by clicking the \"close\" button. The 'close' button is usually located at the top right corner of the advertisement. In this case, the close button is number 1716 in the top right corner.,{'action_type': 'click', 'x': 0.74, 'y': 0.31}"
+    ]
+}

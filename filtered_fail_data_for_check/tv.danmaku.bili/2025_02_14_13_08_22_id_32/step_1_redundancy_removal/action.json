@@ -1,0 +1,60 @@
+{
+    "action_list": [
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 63
+        },
+        {
+            "action_type": "click",
+            "index": 86
+        },
+        {
+            "action_type": "click",
+            "index": 56
+        },
+        {
+            "action_type": "input_text",
+            "index": 121,
+            "text": "这个视频真不错!"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 124
+        },
+        {
+            "action_type": "click",
+            "index": 46
+        },
+        {
+            "action_type": "click",
+            "index": 116
+        },
+        {
+            "action_type": "click",
+            "index": 30
+        }
+    ],
+    "action_output_list": [
+        "The goal is to open bilibili app, so I will click on the app.{\"action_type\": \"click\", \"index\": 15}",
+        "The user wants to click on a video. Here, the video with title \"世人以为的最废技能 实际是个概念技\" seems like a reasonable choice from the recommendation list.{\"action_type\": \"click\", \"index\": 63}",
+        "To like the video, I can click the like button (index 86).{\"action_type\": \"click\", \"index\": 86}",
+        "To add a comment, I need to click the comment button.{\"action_type\": \"click\", \"index\": 56}",
+        "The current screen displays the comments section. To post a comment, I need to type the text \"这个视频真不错!\" into the comment input field. The comment input field is at index 121.{\"action_type\": \"input_text\", \"text\": \"这个视频真不错!\", \"index\": 121}",
+        "Navigate back to the previous screen{\"action_type\": \"navigate_back\"}",
+        "It seems I'm in a login page instead of back in the Bilibili app. I need to go back to the app to fulfill the request of liking and commenting on a video.{\"action_type\": \"navigate_back\"}",
+        "The user wants to comment on a video with the text '这个视频真不错!'. The previous steps show that I have typed in the desired comment text into the comment input field (UI element 121), so now I need to click the send button (UI element 124) which should be present on the screen to send the comment.{\"action_type\": \"click\", \"index\": 124}",
+        "It seems that the app is stuck and cannot proceed with the tasks as the video component has failed to load. Therefore, clicking on the reload button is a suitable first step.{\"action_type\": \"click\", \"index\": 46}",
+        "I need to click the input field to leave a comment.{\"action_type\": \"click\", \"index\": 116}",
+        "I need to log in to post the comment. I can try logging in using my phone number.{\"action_type\": \"click\", \"index\": 30}"
+    ]
+}

@@ -1,0 +1,4 @@
+{
+    "score": 3,
+    "reason": "The agent correctly opens the QQ browser and tries to search for an image to download. It makes a mistake in searching for news instead of the image at first, but quickly realizes that and corrects its action. The trajectory shows a decent understanding of the task, but it does not complete the action."
+}

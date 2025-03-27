@@ -1,0 +1,68 @@
+{
+    "action_list": [
+        {
+            "action_type": "click",
+            "x": 0.12,
+            "y": 0.53
+        },
+        {
+            "action_type": "click",
+            "x": 0.65,
+            "y": 0.52
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "x": 0.5,
+            "y": 0.81
+        },
+        {
+            "action_type": "scroll",
+            "x": 0.5,
+            "y": 0.5,
+            "direction": "up"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "x": 0.5,
+            "y": 0.8,
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "To start the task, I should open the QQ browser application.,{'action_type': 'click', 'x': 0.12, 'y': 0.53}",
+        "The app asks for location permission first. I need to click on \"Allow\" to proceed.,{'action_type': 'click', 'x': 0.65, 'y': 0.52}",
+        "I need to find a short video on the homepage and click on it. From the screenshot, I can't identify any elements that resemble a video player or have \"play\" buttons. So, I need to scroll down to explore more content on the homepage.,{'action_type': 'scroll', 'direction': 'down'}",
+        "I should scroll down to find the short video to click.,{'action_type': 'scroll', 'direction': 'down'}",
+        "I should scroll down to find the short video to click, since I still can't see any obvious video on the current screen.,{'action_type': 'scroll', 'direction': 'down'}",
+        "To find a short video, I can try to click on the home page button and explore more content on the new page.,{'action_type': 'click', 'x': 0.5, 'y': 0.81}",
+        "I need to scroll to find a short video to play.,{'action_type': 'scroll', 'direction': 'up', 'x': 0.5, 'y': 0.5}",
+        "Based on the current screen, I cannot identify any short video to play. However, I can try to scroll down the screen to find some short videos.,{'action_type': 'scroll', 'direction': 'down'}",
+        "The task requires me to find and play a short video. I haven't found such a video on the current screen. I need to scroll down to look for it.,{'action_type': 'scroll', 'direction': 'down'}",
+        "I need to find a short video on the page and play it. Based on the current screen, I can't identify any short video to click. So, I should scroll down the page to find a short video to click.,{'action_type': 'scroll', 'direction': 'down'}",
+        "I need to scroll down to find a short video on the homepage of the QQ browser.,{'action_type': 'scroll', 'direction': 'down', 'x': 0.5, 'y': 0.8}"
+    ]
+}

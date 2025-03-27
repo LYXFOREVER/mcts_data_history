@@ -1,0 +1,812 @@
+[
+    {
+        "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 7: {\"index\": 7, \"content_description\": \"返回\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            225,
+            63,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            57,
+            225,
+            94,
+            157
+        ]
+    },
+    {
+        "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            57,
+            99,
+            94,
+            157
+        ]
+    },
+    {
+        "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            225,
+            855,
+            63,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 11: {\"index\": 11, \"text\": \"添加卡片\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            225,
+            855,
+            63,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 12: {\"index\": 12, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            855,
+            1080,
+            63,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            855,
+            1080,
+            63,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            189,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            189,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 16: {\"index\": 16, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            189,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 17: {\"index\": 17, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            189,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 18: {\"index\": 18, \"text\": \"卡片池\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            189,
+            2012
+        ]
+    },
+    {
+        "ui_description": "UI element 19: {\"index\": 19, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            189,
+            2012
+        ]
+    },
+    {
+        "ui_description": "UI element 20: {\"index\": 20, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            189,
+            2012
+        ]
+    },
+    {
+        "ui_description": "UI element 21: {\"index\": 21, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            189,
+            2012
+        ]
+    },
+    {
+        "ui_description": "UI element 22: {\"index\": 22, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            189,
+            385
+        ]
+    },
+    {
+        "ui_description": "UI element 23: {\"index\": 23, \"text\": \"企鹅FM\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            238,
+            280
+        ]
+    },
+    {
+        "ui_description": "UI element 24: {\"index\": 24, \"text\": \"最懂你的电台，海量有声资源随心听。\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            275,
+            333
+        ]
+    },
+    {
+        "ui_description": "UI element 25: {\"index\": 25, \"content_description\": \"javascript:void(0);\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1080,
+            189,
+            385
+        ]
+    },
+    {
+        "ui_description": "UI element 26: {\"index\": 26, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1031,
+            246,
+            325
+        ]
+    },
+    {
+        "ui_description": "UI element 27: {\"index\": 27, \"text\": \"添加\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            918,
+            992,
+            265,
+            309
+        ]
+    },
+    {
+        "ui_description": "UI element 28: {\"index\": 28, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            49,
+            1031,
+            380,
+            383
+        ]
+    },
+    {
+        "ui_description": "UI element 29: {\"index\": 29, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            380,
+            580
+        ]
+    },
+    {
+        "ui_description": "UI element 30: {\"index\": 30, \"text\": \"NBA\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            430,
+            475
+        ]
+    },
+    {
+        "ui_description": "UI element 31: {\"index\": 31, \"text\": \"关注NBA赛事资讯，有我就够啦！\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            469,
+            527
+        ]
+    },
+    {
+        "ui_description": "UI element 32: {\"index\": 32, \"content_description\": \"javascript:void(0);\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1080,
+            380,
+            580
+        ]
+    },
+    {
+        "ui_description": "UI element 33: {\"index\": 33, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1031,
+            441,
+            519
+        ]
+    },
+    {
+        "ui_description": "UI element 34: {\"index\": 34, \"text\": \"添加\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            918,
+            992,
+            459,
+            504
+        ]
+    },
+    {
+        "ui_description": "UI element 35: {\"index\": 35, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            49,
+            1031,
+            574,
+            577
+        ]
+    },
+    {
+        "ui_description": "UI element 36: {\"index\": 36, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            574,
+            774
+        ]
+    },
+    {
+        "ui_description": "UI element 37: {\"index\": 37, \"text\": \"开心一刻\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            627,
+            669
+        ]
+    },
+    {
+        "ui_description": "UI element 38: {\"index\": 38, \"text\": \"笑到飙泪，根本停不下来。\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            666,
+            724
+        ]
+    },
+    {
+        "ui_description": "UI element 39: {\"index\": 39, \"content_description\": \"javascript:void(0);\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1080,
+            574,
+            774
+        ]
+    },
+    {
+        "ui_description": "UI element 40: {\"index\": 40, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1031,
+            635,
+            714
+        ]
+    },
+    {
+        "ui_description": "UI element 41: {\"index\": 41, \"text\": \"添加\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            918,
+            992,
+            653,
+            698
+        ]
+    },
+    {
+        "ui_description": "UI element 42: {\"index\": 42, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            49,
+            1031,
+            766,
+            774
+        ]
+    },
+    {
+        "ui_description": "UI element 43: {\"index\": 43, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            769,
+            966
+        ]
+    },
+    {
+        "ui_description": "UI element 44: {\"index\": 44, \"text\": \"生活助手\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            821,
+            863
+        ]
+    },
+    {
+        "ui_description": "UI element 45: {\"index\": 45, \"text\": \"实用信息查询，便捷服务入口。\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            861,
+            916
+        ]
+    },
+    {
+        "ui_description": "UI element 46: {\"index\": 46, \"content_description\": \"javascript:void(0);\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1080,
+            769,
+            966
+        ]
+    },
+    {
+        "ui_description": "UI element 47: {\"index\": 47, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1031,
+            829,
+            908
+        ]
+    },
+    {
+        "ui_description": "UI element 48: {\"index\": 48, \"text\": \"添加\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            918,
+            992,
+            847,
+            892
+        ]
+    },
+    {
+        "ui_description": "UI element 49: {\"index\": 49, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            49,
+            1031,
+            963,
+            966
+        ]
+    },
+    {
+        "ui_description": "UI element 50: {\"index\": 50, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            966,
+            1162
+        ]
+    },
+    {
+        "ui_description": "UI element 51: {\"index\": 51, \"text\": \"实时热点\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            1015,
+            1057
+        ]
+    },
+    {
+        "ui_description": "UI element 52: {\"index\": 52, \"text\": \"实时更新全网最热点\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            1052,
+            1110
+        ]
+    },
+    {
+        "ui_description": "UI element 53: {\"index\": 53, \"content_description\": \"javascript:void(0);\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1080,
+            966,
+            1162
+        ]
+    },
+    {
+        "ui_description": "UI element 54: {\"index\": 54, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1031,
+            1023,
+            1102
+        ]
+    },
+    {
+        "ui_description": "UI element 55: {\"index\": 55, \"text\": \"添加\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            918,
+            992,
+            1042,
+            1086
+        ]
+    },
+    {
+        "ui_description": "UI element 56: {\"index\": 56, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            49,
+            1031,
+            1157,
+            1160
+        ]
+    },
+    {
+        "ui_description": "UI element 57: {\"index\": 57, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1157,
+            1357
+        ]
+    },
+    {
+        "ui_description": "UI element 58: {\"index\": 58, \"text\": \"彩票\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            1207,
+            1252
+        ]
+    },
+    {
+        "ui_description": "UI element 59: {\"index\": 59, \"text\": \"全面彩票资讯，专业综合服务。\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            1246,
+            1304
+        ]
+    },
+    {
+        "ui_description": "UI element 60: {\"index\": 60, \"content_description\": \"javascript:void(0);\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1080,
+            1157,
+            1357
+        ]
+    },
+    {
+        "ui_description": "UI element 61: {\"index\": 61, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1031,
+            1218,
+            1296
+        ]
+    },
+    {
+        "ui_description": "UI element 62: {\"index\": 62, \"text\": \"添加\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            918,
+            992,
+            1236,
+            1281
+        ]
+    },
+    {
+        "ui_description": "UI element 63: {\"index\": 63, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            49,
+            1031,
+            1351,
+            1354
+        ]
+    },
+    {
+        "ui_description": "UI element 64: {\"index\": 64, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1351,
+            1551
+        ]
+    },
+    {
+        "ui_description": "UI element 65: {\"index\": 65, \"text\": \"微信热文\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            1404,
+            1446
+        ]
+    },
+    {
+        "ui_description": "UI element 66: {\"index\": 66, \"text\": \"微信热门文章推荐。\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            1443,
+            1501
+        ]
+    },
+    {
+        "ui_description": "UI element 67: {\"index\": 67, \"content_description\": \"javascript:void(0);\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1080,
+            1351,
+            1551
+        ]
+    },
+    {
+        "ui_description": "UI element 68: {\"index\": 68, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1031,
+            1412,
+            1491
+        ]
+    },
+    {
+        "ui_description": "UI element 69: {\"index\": 69, \"text\": \"添加\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            918,
+            992,
+            1430,
+            1475
+        ]
+    },
+    {
+        "ui_description": "UI element 70: {\"index\": 70, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            49,
+            1031,
+            1543,
+            1551
+        ]
+    },
+    {
+        "ui_description": "UI element 71: {\"index\": 71, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1546,
+            1743
+        ]
+    },
+    {
+        "ui_description": "UI element 72: {\"index\": 72, \"text\": \"时尚\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            1598,
+            1640
+        ]
+    },
+    {
+        "ui_description": "UI element 73: {\"index\": 73, \"text\": \"时尚集团授权杂志，资讯权威及时。\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            1638,
+            1693
+        ]
+    },
+    {
+        "ui_description": "UI element 74: {\"index\": 74, \"content_description\": \"javascript:void(0);\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1080,
+            1546,
+            1743
+        ]
+    },
+    {
+        "ui_description": "UI element 75: {\"index\": 75, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1031,
+            1606,
+            1685
+        ]
+    },
+    {
+        "ui_description": "UI element 76: {\"index\": 76, \"text\": \"添加\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            918,
+            992,
+            1624,
+            1669
+        ]
+    },
+    {
+        "ui_description": "UI element 77: {\"index\": 77, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            49,
+            1031,
+            1740,
+            1743
+        ]
+    },
+    {
+        "ui_description": "UI element 78: {\"index\": 78, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1743,
+            1939
+        ]
+    },
+    {
+        "ui_description": "UI element 79: {\"index\": 79, \"text\": \"李易峰\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            1792,
+            1834
+        ]
+    },
+    {
+        "ui_description": "UI element 80: {\"index\": 80, \"text\": \"峰峰最新独家美图，视频和新闻爆料。\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            1829,
+            1887
+        ]
+    },
+    {
+        "ui_description": "UI element 81: {\"index\": 81, \"content_description\": \"javascript:void(0);\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1080,
+            1743,
+            1939
+        ]
+    },
+    {
+        "ui_description": "UI element 82: {\"index\": 82, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1031,
+            1800,
+            1879
+        ]
+    },
+    {
+        "ui_description": "UI element 83: {\"index\": 83, \"text\": \"添加\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            918,
+            992,
+            1819,
+            1863
+        ]
+    },
+    {
+        "ui_description": "UI element 84: {\"index\": 84, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            49,
+            1031,
+            1934,
+            1937
+        ]
+    },
+    {
+        "ui_description": "UI element 85: {\"index\": 85, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1934,
+            2012
+        ]
+    },
+    {
+        "ui_description": "UI element 86: {\"index\": 86, \"text\": \"购实惠\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            210,
+            861,
+            1984,
+            2012
+        ]
+    },
+    {
+        "ui_description": "UI element 88: {\"index\": 88, \"content_description\": \"javascript:void(0);\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1080,
+            1934,
+            2012
+        ]
+    },
+    {
+        "ui_description": "UI element 89: {\"index\": 89, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            882,
+            1031,
+            1995,
+            2012
+        ]
+    },
+    {
+        "ui_description": "UI element 146: {\"index\": 146, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            63
+        ]
+    }
+]

@@ -1,0 +1,1262 @@
+[
+    {
+        "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            1883
+        ]
+    },
+    {
+        "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1112,
+            1883
+        ]
+    },
+    {
+        "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1112,
+            1883
+        ]
+    },
+    {
+        "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1189,
+            1420
+        ]
+    },
+    {
+        "ui_description": "UI element 9: {\"index\": 9, \"text\": \"夜间模式\", \"content_description\": \"夜间模式\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            270,
+            1270,
+            1378
+        ]
+    },
+    {
+        "ui_description": "UI element 10: {\"index\": 10, \"text\": \"无图模式\", \"content_description\": \"无图模式\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            270,
+            540,
+            1270,
+            1378
+        ]
+    },
+    {
+        "ui_description": "UI element 11: {\"index\": 11, \"text\": \"全屏模式\", \"content_description\": \"全屏模式\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            540,
+            810,
+            1270,
+            1378
+        ]
+    },
+    {
+        "ui_description": "UI element 12: {\"index\": 12, \"text\": \"无痕浏览\", \"content_description\": \"无痕浏览\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            810,
+            1080,
+            1270,
+            1378
+        ]
+    },
+    {
+        "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            74,
+            215,
+            1112,
+            1235
+        ]
+    },
+    {
+        "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            74,
+            197,
+            1112,
+            1235
+        ]
+    },
+    {
+        "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1420,
+            1421
+        ]
+    },
+    {
+        "ui_description": "UI element 16: {\"index\": 16, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1421,
+            1883
+        ]
+    },
+    {
+        "ui_description": "UI element 17: {\"index\": 17, \"text\": \"添加书签\", \"content_description\": \"添加书签\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            1,
+            270,
+            1422,
+            1653
+        ]
+    },
+    {
+        "ui_description": "UI element 18: {\"index\": 18, \"text\": \"书签/历史\", \"content_description\": \"书签/历史\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            270,
+            539,
+            1422,
+            1653
+        ]
+    },
+    {
+        "ui_description": "UI element 19: {\"index\": 19, \"text\": \"文件下载\", \"content_description\": \"文件下载\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            539,
+            808,
+            1422,
+            1653
+        ]
+    },
+    {
+        "ui_description": "UI element 20: {\"index\": 20, \"text\": \"刷新\", \"content_description\": \"刷新\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            808,
+            1077,
+            1422,
+            1653
+        ]
+    },
+    {
+        "ui_description": "UI element 21: {\"index\": 21, \"text\": \"设置\", \"content_description\": \"设置\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            1,
+            270,
+            1653,
+            1883
+        ]
+    },
+    {
+        "ui_description": "UI element 22: {\"index\": 22, \"text\": \"分享\", \"content_description\": \"分享\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            270,
+            539,
+            1653,
+            1883
+        ]
+    },
+    {
+        "ui_description": "UI element 23: {\"index\": 23, \"text\": \"工具箱\", \"content_description\": \"工具箱\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            539,
+            808,
+            1653,
+            1883
+        ]
+    },
+    {
+        "ui_description": "UI element 24: {\"index\": 24, \"text\": \"退出\", \"content_description\": \"退出\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            808,
+            1077,
+            1653,
+            1883
+        ]
+    },
+    {
+        "ui_description": "UI element 25: {\"index\": 25, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 26: {\"index\": 26, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            1883
+        ]
+    },
+    {
+        "ui_description": "UI element 27: {\"index\": 27, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            1883
+        ]
+    },
+    {
+        "ui_description": "UI element 28: {\"index\": 28, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            1883
+        ]
+    },
+    {
+        "ui_description": "UI element 29: {\"index\": 29, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 30: {\"index\": 30, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            21,
+            1059,
+            84,
+            168
+        ]
+    },
+    {
+        "ui_description": "UI element 31: {\"index\": 31, \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            21,
+            1059,
+            84,
+            168
+        ]
+    },
+    {
+        "ui_description": "UI element 32: {\"index\": 32, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            189,
+            1883
+        ]
+    },
+    {
+        "ui_description": "UI element 33: {\"index\": 33, \"text\": \"苏宁易购(Suning.com)-家电家装成套购，专注服务省心购！\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            189,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 34: {\"index\": 34, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            189,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 40: {\"index\": 40, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            15,
+            1068,
+            189,
+            315
+        ]
+    },
+    {
+        "ui_description": "UI element 41: {\"index\": 41, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            15,
+            1068,
+            189,
+            443
+        ]
+    },
+    {
+        "ui_description": "UI element 42: {\"index\": 42, \"text\": \"174011747930825496\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            15,
+            1068,
+            189,
+            443
+        ]
+    },
+    {
+        "ui_description": "UI element 43: {\"index\": 43, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            15,
+            1068,
+            189,
+            315
+        ]
+    },
+    {
+        "ui_description": "UI element 44: {\"index\": 44, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            63,
+            795,
+            189,
+            315
+        ]
+    },
+    {
+        "ui_description": "UI element 45: {\"index\": 45, \"content_description\": \"search\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            63,
+            795,
+            189,
+            315
+        ]
+    },
+    {
+        "ui_description": "UI element 46: {\"index\": 46, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            89,
+            144,
+            228,
+            283
+        ]
+    },
+    {
+        "ui_description": "UI element 47: {\"index\": 47, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            63,
+            795,
+            189,
+            315
+        ]
+    },
+    {
+        "ui_description": "UI element 48: {\"index\": 48, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            63,
+            795,
+            207,
+            299
+        ]
+    },
+    {
+        "ui_description": "UI element 49: {\"index\": 49, \"content_description\": \"157199320847433454\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            887,
+            942,
+            210,
+            296
+        ]
+    },
+    {
+        "ui_description": "UI element 50: {\"index\": 50, \"text\": \"157199320847433454\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            887,
+            942,
+            210,
+            296
+        ]
+    },
+    {
+        "ui_description": "UI element 51: {\"index\": 51, \"content_description\": \"157199321817918653\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            966,
+            1021,
+            210,
+            296
+        ]
+    },
+    {
+        "ui_description": "UI element 52: {\"index\": 52, \"text\": \"157199321817918653\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            966,
+            1021,
+            210,
+            296
+        ]
+    },
+    {
+        "ui_description": "UI element 53: {\"index\": 53, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            15,
+            1068,
+            189,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 172: {\"index\": 172, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            47,
+            530,
+            189,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 212: {\"index\": 212, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            47,
+            530,
+            189,
+            519
+        ]
+    },
+    {
+        "ui_description": "UI element 213: {\"index\": 213, \"content_description\": \"珀莱雅紧致肌密焕颜修护乳 120ml 保湿补水 乳液 ￥ 99 80+评价\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            47,
+            530,
+            189,
+            493
+        ]
+    },
+    {
+        "ui_description": "UI element 214: {\"index\": 214, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            47,
+            530,
+            189,
+            241
+        ]
+    },
+    {
+        "ui_description": "UI element 215: {\"index\": 215, \"text\": \"K2CyyBNTeU1DTVliGT3WbA.jpg?format=_is_300w_300h_4e\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            47,
+            530,
+            189,
+            241
+        ]
+    },
+    {
+        "ui_description": "UI element 216: {\"index\": 216, \"text\": \"珀莱雅紧致肌密焕颜修护乳 120ml 保湿补水 乳液\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            65,
+            514,
+            262,
+            359
+        ]
+    },
+    {
+        "ui_description": "UI element 217: {\"index\": 217, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            65,
+            443,
+            370,
+            409
+        ]
+    },
+    {
+        "ui_description": "UI element 218: {\"index\": 218, \"text\": \"163056848800641855\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            65,
+            136,
+            370,
+            409
+        ]
+    },
+    {
+        "ui_description": "UI element 219: {\"index\": 219, \"text\": \"￥\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            65,
+            102,
+            451,
+            493
+        ]
+    },
+    {
+        "ui_description": "UI element 220: {\"index\": 220, \"text\": \"99\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            97,
+            160,
+            435,
+            498
+        ]
+    },
+    {
+        "ui_description": "UI element 221: {\"index\": 221, \"text\": \"80+评价\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            175,
+            280,
+            448,
+            483
+        ]
+    },
+    {
+        "ui_description": "UI element 222: {\"index\": 222, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            47,
+            530,
+            540,
+            1414
+        ]
+    },
+    {
+        "ui_description": "UI element 223: {\"index\": 223, \"content_description\": \"法国 evian依云矿泉水 330ml*6瓶 组合装 ￥ 33 800+评价\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            47,
+            530,
+            540,
+            1278
+        ]
+    },
+    {
+        "ui_description": "UI element 224: {\"index\": 224, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            47,
+            530,
+            540,
+            1023
+        ]
+    },
+    {
+        "ui_description": "UI element 225: {\"index\": 225, \"text\": \"H-51hI-LQ7FxJV7QBkkwKg.jpg?format=_is_300w_300h_4e\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            47,
+            530,
+            540,
+            1023
+        ]
+    },
+    {
+        "ui_description": "UI element 226: {\"index\": 226, \"text\": \"法国 evian依云矿泉水 330ml*6瓶 组合装\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            65,
+            514,
+            1044,
+            1144
+        ]
+    },
+    {
+        "ui_description": "UI element 227: {\"index\": 227, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            65,
+            443,
+            1155,
+            1191
+        ]
+    },
+    {
+        "ui_description": "UI element 228: {\"index\": 228, \"text\": \"163056848800641855\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            65,
+            136,
+            1155,
+            1191
+        ]
+    },
+    {
+        "ui_description": "UI element 229: {\"index\": 229, \"text\": \"￥\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            65,
+            102,
+            1236,
+            1278
+        ]
+    },
+    {
+        "ui_description": "UI element 230: {\"index\": 230, \"text\": \"33\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            97,
+            160,
+            1220,
+            1281
+        ]
+    },
+    {
+        "ui_description": "UI element 231: {\"index\": 231, \"text\": \"800+评价\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            175,
+            296,
+            1231,
+            1267
+        ]
+    },
+    {
+        "ui_description": "UI element 232: {\"index\": 232, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            78,
+            498,
+            1302,
+            1307
+        ]
+    },
+    {
+        "ui_description": "UI element 233: {\"index\": 233, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            78,
+            498,
+            1328,
+            1391
+        ]
+    },
+    {
+        "ui_description": "UI element 234: {\"index\": 234, \"content_description\": \"苏宁国际\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            78,
+            498,
+            1328,
+            1391
+        ]
+    },
+    {
+        "ui_description": "UI element 235: {\"index\": 235, \"text\": \"154693491846973789\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            78,
+            141,
+            1328,
+            1391
+        ]
+    },
+    {
+        "ui_description": "UI element 236: {\"index\": 236, \"text\": \"苏宁国际\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            154,
+            291,
+            1328,
+            1391
+        ]
+    },
+    {
+        "ui_description": "UI element 237: {\"index\": 237, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            47,
+            530,
+            1435,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 238: {\"index\": 238, \"content_description\": \"贵州茅台酒 茅台1935单瓶装酱香型白酒53度500ml 百亿补贴 包邮 领券1376-686 ￥ 1379 2100+评价\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            47,
+            530,
+            1435,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 239: {\"index\": 239, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            47,
+            530,
+            1435,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 240: {\"index\": 240, \"text\": \"30tO4zpsXWMAqSVM9sqwwA.jpg?format=_is_300w_300h_4e\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            47,
+            530,
+            1435,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 333: {\"index\": 333, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            551,
+            1034,
+            189,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 367: {\"index\": 367, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            551,
+            1034,
+            189,
+            409
+        ]
+    },
+    {
+        "ui_description": "UI element 368: {\"index\": 368, \"content_description\": \"Galanz/格兰仕 微波炉微蒸烤箱一体机家用光波炉23升不锈钢内胆G80F23CSL-C2(S5) 领券899-200 ￥ 899 1100+评价\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            551,
+            1034,
+            189,
+            383
+        ]
+    },
+    {
+        "ui_description": "UI element 371: {\"index\": 371, \"text\": \"Galanz/格兰仕 微波炉微蒸烤箱一体机家用光波炉23升不锈钢内胆G80F23CSL-C2(S5)\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            569,
+            1018,
+            189,
+            249
+        ]
+    },
+    {
+        "ui_description": "UI element 372: {\"index\": 372, \"text\": \"领券899-200\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            569,
+            947,
+            259,
+            296
+        ]
+    },
+    {
+        "ui_description": "UI element 373: {\"index\": 373, \"text\": \"￥\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            569,
+            606,
+            341,
+            383
+        ]
+    },
+    {
+        "ui_description": "UI element 374: {\"index\": 374, \"text\": \"899\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            601,
+            693,
+            325,
+            388
+        ]
+    },
+    {
+        "ui_description": "UI element 375: {\"index\": 375, \"text\": \"1100+评价\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            706,
+            845,
+            338,
+            375
+        ]
+    },
+    {
+        "ui_description": "UI element 376: {\"index\": 376, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            551,
+            1034,
+            430,
+            1194
+        ]
+    },
+    {
+        "ui_description": "UI element 377: {\"index\": 377, \"content_description\": \"新品】otlan/奥特朗即热式电热水器家用洗澡小型快热F15H-Z70A ￥ 1999 60+评价\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            551,
+            1034,
+            430,
+            1168
+        ]
+    },
+    {
+        "ui_description": "UI element 378: {\"index\": 378, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            551,
+            1034,
+            430,
+            913
+        ]
+    },
+    {
+        "ui_description": "UI element 379: {\"index\": 379, \"text\": \"ncVjPb4zYHQtms4xKFvEOw.png?format=_is_300w_300h_4e\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            551,
+            1034,
+            430,
+            913
+        ]
+    },
+    {
+        "ui_description": "UI element 380: {\"index\": 380, \"text\": \"新品】otlan/奥特朗即热式电热水器家用洗澡小型快热F15H-Z70A\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            569,
+            1018,
+            934,
+            1031
+        ]
+    },
+    {
+        "ui_description": "UI element 381: {\"index\": 381, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            569,
+            947,
+            1044,
+            1081
+        ]
+    },
+    {
+        "ui_description": "UI element 382: {\"index\": 382, \"text\": \"163056848800641855\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            569,
+            640,
+            1044,
+            1081
+        ]
+    },
+    {
+        "ui_description": "UI element 383: {\"index\": 383, \"text\": \"￥\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            569,
+            606,
+            1126,
+            1168
+        ]
+    },
+    {
+        "ui_description": "UI element 384: {\"index\": 384, \"text\": \"1999\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            601,
+            721,
+            1110,
+            1173
+        ]
+    },
+    {
+        "ui_description": "UI element 385: {\"index\": 385, \"text\": \"60+评价\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            735,
+            842,
+            1120,
+            1157
+        ]
+    },
+    {
+        "ui_description": "UI element 386: {\"index\": 386, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            551,
+            1034,
+            1215,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 387: {\"index\": 387, \"content_description\": \"美的(Midea)欧式快热炉 取暖器 暖风机电暖器 电暖气片家用 浴室卧室书房居浴两用 节能轻音 防水速热HDY20K 领券99-5 ￥ 218 100+评价\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            551,
+            1034,
+            1215,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 388: {\"index\": 388, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            551,
+            1034,
+            1215,
+            1698
+        ]
+    },
+    {
+        "ui_description": "UI element 389: {\"index\": 389, \"text\": \"SqqMPZM4ezmwNgohmSR9aQ.jpg?format=_is_300w_300h_4e\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            551,
+            1034,
+            1215,
+            1698
+        ]
+    },
+    {
+        "ui_description": "UI element 390: {\"index\": 390, \"text\": \"美的(Midea)欧式快热炉 取暖器 暖风机电暖器 电暖气片家用 浴室卧室书房居浴两用 节能轻音 防水速热HDY20K\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            569,
+            1018,
+            1719,
+            1816
+        ]
+    },
+    {
+        "ui_description": "UI element 391: {\"index\": 391, \"text\": \"领券99-5\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            569,
+            947,
+            1829,
+            1866
+        ]
+    },
+    {
+        "ui_description": "UI element 491: {\"index\": 491, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            15,
+            1068,
+            1743,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 492: {\"index\": 492, \"content_description\": \"首页\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            15,
+            228,
+            1745,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 493: {\"index\": 493, \"text\": \"157543974786039763\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            86,
+            157,
+            1761,
+            1832
+        ]
+    },
+    {
+        "ui_description": "UI element 494: {\"index\": 494, \"text\": \"首页\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            91,
+            149,
+            1834,
+            1869
+        ]
+    },
+    {
+        "ui_description": "UI element 495: {\"index\": 495, \"content_description\": \"新品\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            225,
+            438,
+            1745,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 496: {\"index\": 496, \"text\": \"157562573743964714\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            296,
+            367,
+            1761,
+            1832
+        ]
+    },
+    {
+        "ui_description": "UI element 497: {\"index\": 497, \"text\": \"新品\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            301,
+            359,
+            1834,
+            1869
+        ]
+    },
+    {
+        "ui_description": "UI element 498: {\"index\": 498, \"content_description\": \"发现\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            435,
+            648,
+            1745,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 499: {\"index\": 499, \"text\": \"157543978244974042\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            506,
+            577,
+            1761,
+            1832
+        ]
+    },
+    {
+        "ui_description": "UI element 500: {\"index\": 500, \"text\": \"发现\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            511,
+            569,
+            1834,
+            1869
+        ]
+    },
+    {
+        "ui_description": "UI element 501: {\"index\": 501, \"content_description\": \"购物车\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            645,
+            858,
+            1745,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 502: {\"index\": 502, \"text\": \"157543979328589256\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            716,
+            787,
+            1761,
+            1832
+        ]
+    },
+    {
+        "ui_description": "UI element 503: {\"index\": 503, \"text\": \"购物车\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            708,
+            795,
+            1834,
+            1869
+        ]
+    },
+    {
+        "ui_description": "UI element 504: {\"index\": 504, \"content_description\": \"我的易购\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            855,
+            1068,
+            1745,
+            1886
+        ]
+    },
+    {
+        "ui_description": "UI element 505: {\"index\": 505, \"text\": \"157543980229048220\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            926,
+            997,
+            1761,
+            1832
+        ]
+    },
+    {
+        "ui_description": "UI element 506: {\"index\": 506, \"text\": \"我的易购\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            903,
+            1018,
+            1834,
+            1869
+        ]
+    },
+    {
+        "ui_description": "UI element 507: {\"index\": 507, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            918,
+            1063,
+            1485,
+            1630
+        ]
+    },
+    {
+        "ui_description": "UI element 508: {\"index\": 508, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            15,
+            1068,
+            1619,
+            1748
+        ]
+    },
+    {
+        "ui_description": "UI element 509: {\"index\": 509, \"content_description\": \"157588645542963955\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            15,
+            1068,
+            1619,
+            1748
+        ]
+    },
+    {
+        "ui_description": "UI element 510: {\"index\": 510, \"text\": \"157588645542963955\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            15,
+            1068,
+            1619,
+            1748
+        ]
+    },
+    {
+        "ui_description": "UI element 512: {\"index\": 512, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            1883
+        ]
+    },
+    {
+        "ui_description": "UI element 513: {\"index\": 513, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 514: {\"index\": 514, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            21,
+            1059,
+            84,
+            168
+        ]
+    },
+    {
+        "ui_description": "UI element 515: {\"index\": 515, \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            21,
+            1059,
+            84,
+            168
+        ]
+    },
+    {
+        "ui_description": "UI element 516: {\"index\": 516, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            189,
+            1883
+        ]
+    },
+    {
+        "ui_description": "UI element 517: {\"index\": 517, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1883,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 518: {\"index\": 518, \"content_description\": \"菜单\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            432,
+            648,
+            1883,
+            2009
+        ]
+    },
+    {
+        "ui_description": "UI element 519: {\"index\": 519, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 520: {\"index\": 520, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 521: {\"index\": 521, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            21,
+            933,
+            84,
+            168
+        ]
+    },
+    {
+        "ui_description": "UI element 522: {\"index\": 522, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            21,
+            126,
+            84,
+            168
+        ]
+    },
+    {
+        "ui_description": "UI element 523: {\"index\": 523, \"content_description\": \"支付网址\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            21,
+            126,
+            84,
+            168
+        ]
+    },
+    {
+        "ui_description": "UI element 524: {\"index\": 524, \"text\": \"苏宁易购(Suning.com)-家电家装成套购，专注服务省心购！\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            126,
+            933,
+            84,
+            168
+        ]
+    },
+    {
+        "ui_description": "UI element 525: {\"index\": 525, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            954,
+            1059,
+            63,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 526: {\"index\": 526, \"content_description\": \"刷新\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            954,
+            1059,
+            63,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 527: {\"index\": 527, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            184,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 528: {\"index\": 528, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            63
+        ]
+    }
+]

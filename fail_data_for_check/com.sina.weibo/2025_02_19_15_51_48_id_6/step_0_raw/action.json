@@ -1,0 +1,66 @@
+{
+    "action_list": [
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "click",
+            "index": 121
+        },
+        {
+            "action_type": "click",
+            "index": 7
+        },
+        {
+            "action_type": "input_text",
+            "index": 26,
+            "text": "hello world，我是一个机器人"
+        },
+        {
+            "action_type": "input_text",
+            "index": 26,
+            "text": "hello world，我是一个机器人"
+        },
+        {
+            "action_type": "click",
+            "index": 18
+        },
+        {
+            "action_type": "click",
+            "index": 18
+        },
+        {
+            "action_type": "input_text",
+            "index": 26,
+            "text": "hello world，我是一个机器人"
+        },
+        {
+            "action_type": "click",
+            "index": 18
+        },
+        {
+            "action_type": "input_text",
+            "index": 26,
+            "text": "hello world，我是一个机器人"
+        },
+        {
+            "action_type": "input_text",
+            "index": 26,
+            "text": "hello world，我是一个机器人"
+        }
+    ],
+    "action_output_list": [
+        "To post on Weibo, I should open the Weibo app.{\"action_type\": \"click\", \"index\": 16}",
+        "I need to find the button to create a new weibo post. The plus icon at the top right corner of the screen is the most likely candidate.{\"action_type\": \"click\", \"index\": 121}",
+        "The user wants to post a Weibo with specific content. I should input the text 'hello world，我是一个机器人' into the post. First I should click on post.{\"action_type\": \"click\", \"index\": 7}",
+        "Now I should type the content into the text box.{\"action_type\": \"input_text\", \"text\": \"hello world，我是一个机器人\", \"index\": 26}",
+        "I made a mistake in the previous steps. I should have input the text 'hello world，我是一个机器人' at the very beginning after I clicked on the '+' button in the home screen. Now I am going to input the text into the text field (index 26).{\"action_type\": \"input_text\", \"text\": \"hello world，我是一个机器人\", \"index\": 26}",
+        "I have already typed the content in the text field, now I need to send it. I can send the Weibo by clicking the \"Send\" button.{\"action_type\": \"click\", \"index\": 18}",
+        "The goal is to post a Weibo with content 'hello world，我是一个机器人'. I have already typed the text into the text field. Now, I need to click the \"Send\" button to publish the Weibo post.{\"action_type\": \"click\", \"index\": 18}",
+        "I previously input the text into the text field, but it was not saved. I should input the text again.{\"action_type\": \"input_text\", \"text\": \"hello world，我是一个机器人\", \"index\": 26}",
+        "I previously input the text. I should click \"Send\" to publish the Weibo.{\"action_type\": \"click\", \"index\": 18}",
+        "I need to input the text 'hello world，我是一个机器人' into the text field to create a new Weibo post.{\"action_type\": \"input_text\", \"text\": \"hello world，我是一个机器人\", \"index\": 26}",
+        "The user wants to create a Weibo post with the text \"hello world，我是一个机器人\". I need to first type that text into the text field (index 26) and then send it.{\"action_type\": \"input_text\", \"text\": \"hello world，我是一个机器人\", \"index\": 26}"
+    ]
+}

@@ -1,0 +1,4 @@
+{
+    "score": 3,
+    "reason": "The trajectory starts from the home screen and successfully clicks on the 腾讯视频 app. It then clicks on the '动漫' (anime) section twice. However, the initial instruction was to browse animation videos on Bilibili, not 腾讯视频. Although the agent successfully navigated to the anime section within 腾讯视频, the task was not completed based on the original instruction."
+}

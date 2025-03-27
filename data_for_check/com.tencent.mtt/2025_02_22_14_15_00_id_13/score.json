@@ -1,0 +1,4 @@
+{
+    "score": 3,
+    "reason": "The agent tried to complete the task, but it encountered issues with the QQ browser's search bar, specifically with clearing the previous search term. It then tried to use Google, inputting the correct text into the search bar. Since it searched using the Google search bar and input the right term, the task is partially completed."
+}

@@ -1,0 +1,4 @@
+{
+    "score": 2,
+    "reason": "The agent is stuck in a loop of inputting the same text and then attempting to send the post, but the text doesn't seem to be saved. It's also not clear why the input isn't sticking - perhaps the action is not implemented properly and it resets every time. It should continue inputting the text if it hasn't already."
+}

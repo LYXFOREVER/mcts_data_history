@@ -1,0 +1,4 @@
+{
+    "score": 4,
+    "reason": "The trajectory starts by attempting to open Chrome instead of QQ browser, and then attempts to navigate back to the home screen multiple times. Finally, it successfully opens the QQ browser and inputs the text '上古卷轴' into the search box. This completes the first part of the task."
+}

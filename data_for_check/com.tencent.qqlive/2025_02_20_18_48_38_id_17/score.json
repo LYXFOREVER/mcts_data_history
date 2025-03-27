@@ -1,0 +1,4 @@
+{
+    "score": 4,
+    "reason": "The agent successfully navigates to the Tencent Video app, selects the movie category, and attempts to open a movie's detail page. However, after clicking on a movie, the screen goes blank, and the agent navigates back, which can be considered a recovery action. After navigating back, the agent tries again to click another movie, demonstrating a continuation of the task. Therefore, I would rate the trajectory as mostly complete with some inefficiencies."
+}

@@ -1,0 +1,4 @@
+{
+    "score": 3,
+    "reason": "The trajectory begins by attempting to open Chrome instead of QQ Browser, and then attempts to input text into the wrong app. After a few steps, the agent correctly opens the QQ Browser and searches for \"冬天穿衣推荐\". The agent attempts to click on \"百度一下\" to initiate the search. The old version of the qq browser is also displayed. The agent made an adequate attempt at completing the first two tasks, but did not initiate the camera function."
+}

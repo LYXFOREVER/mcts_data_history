@@ -1,0 +1,4 @@
+{
+    "score": 4,
+    "reason": "The agent attempts to search \"今日新闻\" using QQBrowser and then the Google search bar. It encounters issues clearing the previous search term in QQBrowser, eventually navigates back home, and successfully inputs \"今日新闻\" into the Google search bar. The goal is achieved using an alternative approach after initial failures with QQBrowser."
+}

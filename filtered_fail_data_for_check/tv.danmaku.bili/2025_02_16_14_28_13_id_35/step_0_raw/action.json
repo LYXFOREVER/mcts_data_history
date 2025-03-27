@@ -1,0 +1,60 @@
+{
+    "action_list": [
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 34
+        },
+        {
+            "action_type": "click",
+            "index": 95
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 34
+        },
+        {
+            "action_type": "click",
+            "index": 82
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 34
+        },
+        {
+            "action_type": "click",
+            "index": 82
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        }
+    ],
+    "action_output_list": [
+        "The user wants to open Bilibili. It is visible on the screen.{\"action_type\": \"click\", \"index\": 15}",
+        "The user wants to go to the 'Live' section. The 'Live' section is at index 34.{\"action_type\": \"click\", \"index\": 34}",
+        "To fulfill the user's request to tap on any live streaming channel, I need to select one of the clickable elements that represent a live stream. Element 95, \"伊维雅Eviya\", appears to be a live streaming channel.{\"action_type\": \"click\", \"index\": 95}",
+        "The user wants to open Bilibili, but it seems the app is already open. I should navigate back to the Bilibili app.{\"action_type\": \"navigate_back\"}",
+        "I need to open the Bilibili app again to continue with the user's request.{\"action_type\": \"click\", \"index\": 15}",
+        "The previous attempts to open the Bilibili app and navigate to the live stream have failed. The current screen shows the Bilibili app is open, but it's on the \"recommend\" page. I need to click on the \"Live\" section again.{\"action_type\": \"click\", \"index\": 34}",
+        "The user wants to open a live streaming channel. I can click on one of the available channels on the screen.{\"action_type\": \"click\", \"index\": 82}",
+        "The previous attempts to open the live stream failed. I will try to open the Bilibili app again.{\"action_type\": \"click\", \"index\": 15}",
+        "The user wants to open the 'Live' section of Bilibili. The current screen shows the Bilibili app, and the 'Live' section is visible.{\"action_type\": \"click\", \"index\": 34}",
+        "The user wants to open a live streaming channel. I can click on the \"伊维雅Eviya\" channel again.{\"action_type\": \"click\", \"index\": 82}",
+        "The current screen is the home screen. The user wants to open Bilibili.{\"action_type\": \"click\", \"index\": 15}"
+    ]
+}

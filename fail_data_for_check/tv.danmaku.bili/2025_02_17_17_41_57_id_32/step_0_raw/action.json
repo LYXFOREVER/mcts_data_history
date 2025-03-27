@@ -1,0 +1,62 @@
+{
+    "action_list": [
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 89
+        },
+        {
+            "action_type": "click",
+            "index": 89
+        },
+        {
+            "action_type": "click",
+            "index": 57
+        },
+        {
+            "action_type": "click",
+            "index": 124
+        },
+        {
+            "action_type": "input_text",
+            "index": 8,
+            "text": "这个视频真不错!"
+        },
+        {
+            "action_type": "click",
+            "index": 18
+        },
+        {
+            "action_type": "click",
+            "index": 9
+        },
+        {
+            "action_type": "click",
+            "index": 34
+        },
+        {
+            "action_type": "click",
+            "index": 44
+        },
+        {
+            "action_type": "click",
+            "index": 48
+        }
+    ],
+    "action_output_list": [
+        "To complete the task, I need to open the Bilibili app.{\"action_type\": \"click\", \"index\": 15}",
+        "The user wants to enter a video on the homepage. The video at index 89 is a good choice.{\"action_type\": \"click\", \"index\": 89}",
+        "To like the video, I should click the like button at index 89.{\"action_type\": \"click\", \"index\": 89}",
+        "To add a comment, I need to click on the \"评论\" button.{\"action_type\": \"click\", \"index\": 57}",
+        "To input the comment, I need to click on the text field at the bottom of the screen.{\"action_type\": \"click\", \"index\": 124}",
+        "Now I need to input the comment \"这个视频真不错!\" into the text field.{\"action_type\": \"input_text\", \"text\": \"这个视频真不错!\", \"index\": 8}",
+        "The user has finished typing the comment and now needs to publish it. The \"发布\" button is visible and clickable.{\"action_type\": \"click\", \"index\": 18}",
+        "The user is prompted to upgrade to LV2 and answer questions before commenting. Clicking \"前往答题\" will take the user to the question answering page.{\"action_type\": \"click\", \"index\": 9}",
+        "The user needs to answer questions to upgrade their account. The current question is \"作为up，可以在自己的视频里插入？\". The options are \"站外二维码\" and \"互动弹幕\". I will click on \"互动弹幕\" as a possible answer.{\"action_type\": \"click\", \"index\": 34}",
+        "The current question is \"“感谢大家的支持！”是否符合社区规范？\". I need to answer this question to continue the upgrade process. \"不符合\" seems like the correct answer.{\"action_type\": \"click\", \"index\": 44}",
+        "The question is \"“感谢大家的支持！”是否符合社区规范？\". I think it conforms to the community rules.{\"action_type\": \"click\", \"index\": 48}"
+    ]
+}

@@ -1,0 +1,1451 @@
+[
+    {
+        "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            171
+        ]
+    },
+    {
+        "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            63,
+            210
+        ]
+    },
+    {
+        "ui_description": "UI element 11: {\"index\": 11, \"content_description\": \"Navigate up\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            147,
+            63,
+            210
+        ]
+    },
+    {
+        "ui_description": "UI element 12: {\"index\": 12, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            147,
+            1080,
+            107,
+            165
+        ]
+    },
+    {
+        "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            975,
+            1080,
+            107,
+            165
+        ]
+    },
+    {
+        "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            975,
+            1080,
+            107,
+            165
+        ]
+    },
+    {
+        "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 16: {\"index\": 16, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 17: {\"index\": 17, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 18: {\"index\": 18, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 19: {\"index\": 19, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 20: {\"index\": 20, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 21: {\"index\": 21, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 22: {\"index\": 22, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 23: {\"index\": 23, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 24: {\"index\": 24, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 25: {\"index\": 25, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 26: {\"index\": 26, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 27: {\"index\": 27, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            211,
+            631,
+            146,
+            461
+        ]
+    },
+    {
+        "ui_description": "UI element 28: {\"index\": 28, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            663,
+            868,
+            228,
+            379
+        ]
+    },
+    {
+        "ui_description": "UI element 29: {\"index\": 29, \"text\": \"加载失败\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            663,
+            811,
+            228,
+            279
+        ]
+    },
+    {
+        "ui_description": "UI element 30: {\"index\": 30, \"text\": \"重新加载\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            663,
+            868,
+            295,
+            379
+        ]
+    },
+    {
+        "ui_description": "UI element 31: {\"index\": 31, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 32: {\"index\": 32, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            608
+        ]
+    },
+    {
+        "ui_description": "UI element 33: {\"index\": 33, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            608,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 34: {\"index\": 34, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            608,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 35: {\"index\": 35, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            608,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 36: {\"index\": 36, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            608,
+            708
+        ]
+    },
+    {
+        "ui_description": "UI element 37: {\"index\": 37, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            696,
+            608,
+            708
+        ]
+    },
+    {
+        "ui_description": "UI element 38: {\"index\": 38, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            696,
+            608,
+            708
+        ]
+    },
+    {
+        "ui_description": "UI element 39: {\"index\": 39, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            138,
+            608,
+            708
+        ]
+    },
+    {
+        "ui_description": "UI element 40: {\"index\": 40, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            106,
+            632,
+            683
+        ]
+    },
+    {
+        "ui_description": "UI element 41: {\"index\": 41, \"text\": \"简介\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            106,
+            632,
+            683
+        ]
+    },
+    {
+        "ui_description": "UI element 42: {\"index\": 42, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            138,
+            345,
+            608,
+            708
+        ]
+    },
+    {
+        "ui_description": "UI element 43: {\"index\": 43, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            170,
+            313,
+            632,
+            683
+        ]
+    },
+    {
+        "ui_description": "UI element 44: {\"index\": 44, \"text\": \"评论\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            170,
+            244,
+            632,
+            683
+        ]
+    },
+    {
+        "ui_description": "UI element 45: {\"index\": 45, \"text\": \"1162\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            249,
+            313,
+            644,
+            683
+        ]
+    },
+    {
+        "ui_description": "UI element 46: {\"index\": 46, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            696,
+            1048,
+            619,
+            697
+        ]
+    },
+    {
+        "ui_description": "UI element 47: {\"index\": 47, \"text\": \"弹幕功能关闭\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            696,
+            1048,
+            619,
+            697
+        ]
+    },
+    {
+        "ui_description": "UI element 48: {\"index\": 48, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            939,
+            942,
+            635,
+            682
+        ]
+    },
+    {
+        "ui_description": "UI element 49: {\"index\": 49, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            942,
+            1047,
+            620,
+            696
+        ]
+    },
+    {
+        "ui_description": "UI element 50: {\"index\": 50, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            942,
+            1047,
+            620,
+            696
+        ]
+    },
+    {
+        "ui_description": "UI element 51: {\"index\": 51, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            708,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 52: {\"index\": 52, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            708,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 53: {\"index\": 53, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            708,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 54: {\"index\": 54, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            708,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 55: {\"index\": 55, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            708,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 56: {\"index\": 56, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            708,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 57: {\"index\": 57, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            708,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 58: {\"index\": 58, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            708,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 59: {\"index\": 59, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            708,
+            829
+        ]
+    },
+    {
+        "ui_description": "UI element 60: {\"index\": 60, \"text\": \"我独自升级 第二季 -起于暗影-\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            801,
+            740,
+            805
+        ]
+    },
+    {
+        "ui_description": "UI element 61: {\"index\": 61, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            833,
+            1080,
+            708,
+            829
+        ]
+    },
+    {
+        "ui_description": "UI element 62: {\"index\": 62, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            859,
+            1048,
+            743,
+            806
+        ]
+    },
+    {
+        "ui_description": "UI element 63: {\"index\": 63, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            895,
+            937,
+            754,
+            796
+        ]
+    },
+    {
+        "ui_description": "UI element 64: {\"index\": 64, \"text\": \"追番\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            942,
+            1010,
+            752,
+            798
+        ]
+    },
+    {
+        "ui_description": "UI element 65: {\"index\": 65, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            829,
+            906
+        ]
+    },
+    {
+        "ui_description": "UI element 66: {\"index\": 66, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            882,
+            830,
+            873
+        ]
+    },
+    {
+        "ui_description": "UI element 67: {\"index\": 67, \"text\": \"2206万\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            186,
+            830,
+            873
+        ]
+    },
+    {
+        "ui_description": "UI element 68: {\"index\": 68, \"text\": \"207.6万\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            204,
+            366,
+            830,
+            873
+        ]
+    },
+    {
+        "ui_description": "UI element 69: {\"index\": 69, \"text\": \"9.8分\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            382,
+            459,
+            830,
+            873
+        ]
+    },
+    {
+        "ui_description": "UI element 70: {\"index\": 70, \"text\": \"详情\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            948,
+            1006,
+            832,
+            871
+        ]
+    },
+    {
+        "ui_description": "UI element 71: {\"index\": 71, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            1006,
+            1048,
+            829,
+            874
+        ]
+    },
+    {
+        "ui_description": "UI element 72: {\"index\": 72, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            906,
+            1022
+        ]
+    },
+    {
+        "ui_description": "UI element 73: {\"index\": 73, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            1048,
+            906,
+            1001
+        ]
+    },
+    {
+        "ui_description": "UI element 74: {\"index\": 74, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            48,
+            90,
+            933,
+            975
+        ]
+    },
+    {
+        "ui_description": "UI element 75: {\"index\": 75, \"text\": \"番剧热门榜\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            106,
+            276,
+            931,
+            977
+        ]
+    },
+    {
+        "ui_description": "UI element 76: {\"index\": 76, \"text\": \"No.2\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            281,
+            348,
+            932,
+            975
+        ]
+    },
+    {
+        "ui_description": "UI element 77: {\"index\": 77, \"text\": \"点击查看\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            899,
+            1027,
+            932,
+            975
+        ]
+    },
+    {
+        "ui_description": "UI element 78: {\"index\": 78, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1022,
+            1190
+        ]
+    },
+    {
+        "ui_description": "UI element 79: {\"index\": 79, \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            235,
+            1022,
+            1148
+        ]
+    },
+    {
+        "ui_description": "UI element 80: {\"index\": 80, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            94,
+            173,
+            1027,
+            1142
+        ]
+    },
+    {
+        "ui_description": "UI element 81: {\"index\": 81, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            94,
+            173,
+            1027,
+            1106
+        ]
+    },
+    {
+        "ui_description": "UI element 82: {\"index\": 82, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            104,
+            162,
+            1037,
+            1095
+        ]
+    },
+    {
+        "ui_description": "UI element 83: {\"index\": 83, \"text\": \"16.3万\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            94,
+            172,
+            1106,
+            1142
+        ]
+    },
+    {
+        "ui_description": "UI element 84: {\"index\": 84, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            235,
+            438,
+            1022,
+            1148
+        ]
+    },
+    {
+        "ui_description": "UI element 85: {\"index\": 85, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            297,
+            376,
+            1027,
+            1142
+        ]
+    },
+    {
+        "ui_description": "UI element 86: {\"index\": 86, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            297,
+            376,
+            1027,
+            1106
+        ]
+    },
+    {
+        "ui_description": "UI element 87: {\"index\": 87, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            297,
+            376,
+            1027,
+            1106
+        ]
+    },
+    {
+        "ui_description": "UI element 88: {\"index\": 88, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            307,
+            365,
+            1037,
+            1095
+        ]
+    },
+    {
+        "ui_description": "UI element 89: {\"index\": 89, \"text\": \"6.3万\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            305,
+            368,
+            1106,
+            1142
+        ]
+    },
+    {
+        "ui_description": "UI element 90: {\"index\": 90, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            438,
+            641,
+            1022,
+            1148
+        ]
+    },
+    {
+        "ui_description": "UI element 91: {\"index\": 91, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            500,
+            579,
+            1027,
+            1142
+        ]
+    },
+    {
+        "ui_description": "UI element 92: {\"index\": 92, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            500,
+            579,
+            1027,
+            1106
+        ]
+    },
+    {
+        "ui_description": "UI element 93: {\"index\": 93, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            500,
+            579,
+            1027,
+            1106
+        ]
+    },
+    {
+        "ui_description": "UI element 94: {\"index\": 94, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            510,
+            568,
+            1037,
+            1095
+        ]
+    },
+    {
+        "ui_description": "UI element 95: {\"index\": 95, \"text\": \"2.9万\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            508,
+            571,
+            1106,
+            1142
+        ]
+    },
+    {
+        "ui_description": "UI element 96: {\"index\": 96, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            641,
+            844,
+            1022,
+            1148
+        ]
+    },
+    {
+        "ui_description": "UI element 97: {\"index\": 97, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            641,
+            844,
+            1027,
+            1142
+        ]
+    },
+    {
+        "ui_description": "UI element 98: {\"index\": 98, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            641,
+            844,
+            1027,
+            1106
+        ]
+    },
+    {
+        "ui_description": "UI element 99: {\"index\": 99, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            713,
+            771,
+            1037,
+            1095
+        ]
+    },
+    {
+        "ui_description": "UI element 100: {\"index\": 100, \"text\": \"版权受限\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            690,
+            794,
+            1106,
+            1142
+        ]
+    },
+    {
+        "ui_description": "UI element 101: {\"index\": 101, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            844,
+            1048,
+            1022,
+            1148
+        ]
+    },
+    {
+        "ui_description": "UI element 102: {\"index\": 102, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            906,
+            985,
+            1027,
+            1142
+        ]
+    },
+    {
+        "ui_description": "UI element 103: {\"index\": 103, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            906,
+            985,
+            1027,
+            1106
+        ]
+    },
+    {
+        "ui_description": "UI element 104: {\"index\": 104, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            916,
+            974,
+            1037,
+            1095
+        ]
+    },
+    {
+        "ui_description": "UI element 105: {\"index\": 105, \"text\": \"9783\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            915,
+            975,
+            1106,
+            1142
+        ]
+    },
+    {
+        "ui_description": "UI element 106: {\"index\": 106, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1190,
+            1274
+        ]
+    },
+    {
+        "ui_description": "UI element 107: {\"index\": 107, \"text\": \"选集\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            106,
+            1207,
+            1258
+        ]
+    },
+    {
+        "ui_description": "UI element 108: {\"index\": 108, \"text\": \"连载中，更新至第4话，每周三 20:00更新\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            415,
+            1001,
+            1211,
+            1254
+        ]
+    },
+    {
+        "ui_description": "UI element 109: {\"index\": 109, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            1006,
+            1048,
+            1211,
+            1253
+        ]
+    },
+    {
+        "ui_description": "UI element 110: {\"index\": 110, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1274,
+            1358
+        ]
+    },
+    {
+        "ui_description": "UI element 111: {\"index\": 111, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1274,
+            1358
+        ]
+    },
+    {
+        "ui_description": "UI element 112: {\"index\": 112, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            140,
+            1274,
+            1358
+        ]
+    },
+    {
+        "ui_description": "UI element 113: {\"index\": 113, \"text\": \"第一季\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            140,
+            1292,
+            1341
+        ]
+    },
+    {
+        "ui_description": "UI element 114: {\"index\": 114, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            203,
+            320,
+            1274,
+            1358
+        ]
+    },
+    {
+        "ui_description": "UI element 115: {\"index\": 115, \"text\": \"第二季\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            203,
+            320,
+            1290,
+            1343
+        ]
+    },
+    {
+        "ui_description": "UI element 116: {\"index\": 116, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1358,
+            1534
+        ]
+    },
+    {
+        "ui_description": "UI element 117: {\"index\": 117, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1358,
+            1534
+        ]
+    },
+    {
+        "ui_description": "UI element 118: {\"index\": 118, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            332,
+            1358,
+            1534
+        ]
+    },
+    {
+        "ui_description": "UI element 119: {\"index\": 119, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            324,
+            1374,
+            1518
+        ]
+    },
+    {
+        "ui_description": "UI element 120: {\"index\": 120, \"text\": \"第 2 话\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            20,
+            292,
+            1396,
+            1447
+        ]
+    },
+    {
+        "ui_description": "UI element 121: {\"index\": 121, \"text\": \"会员\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            254,
+            324,
+            1374,
+            1410
+        ]
+    },
+    {
+        "ui_description": "UI element 122: {\"index\": 122, \"text\": \"看来你没意识到\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            20,
+            292,
+            1453,
+            1496
+        ]
+    },
+    {
+        "ui_description": "UI element 123: {\"index\": 123, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            346,
+            690,
+            1358,
+            1534
+        ]
+    },
+    {
+        "ui_description": "UI element 124: {\"index\": 124, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            346,
+            682,
+            1374,
+            1518
+        ]
+    },
+    {
+        "ui_description": "UI element 125: {\"index\": 125, \"text\": \"第 3 话\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            378,
+            650,
+            1396,
+            1447
+        ]
+    },
+    {
+        "ui_description": "UI element 126: {\"index\": 126, \"text\": \"会员\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            612,
+            682,
+            1374,
+            1410
+        ]
+    },
+    {
+        "ui_description": "UI element 127: {\"index\": 127, \"text\": \"还有很长的路要走\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            378,
+            650,
+            1453,
+            1496
+        ]
+    },
+    {
+        "ui_description": "UI element 128: {\"index\": 128, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            704,
+            1048,
+            1358,
+            1534
+        ]
+    },
+    {
+        "ui_description": "UI element 129: {\"index\": 129, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            704,
+            1040,
+            1374,
+            1518
+        ]
+    },
+    {
+        "ui_description": "UI element 130: {\"index\": 130, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            736,
+            778,
+            1401,
+            1443
+        ]
+    },
+    {
+        "ui_description": "UI element 131: {\"index\": 131, \"text\": \"第 4 话\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            783,
+            1008,
+            1396,
+            1447
+        ]
+    },
+    {
+        "ui_description": "UI element 132: {\"index\": 132, \"text\": \"会员\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            970,
+            1040,
+            1374,
+            1410
+        ]
+    },
+    {
+        "ui_description": "UI element 133: {\"index\": 133, \"text\": \"我不能再伪装了\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            736,
+            1008,
+            1453,
+            1496
+        ]
+    },
+    {
+        "ui_description": "UI element 134: {\"index\": 134, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1534,
+            1967
+        ]
+    },
+    {
+        "ui_description": "UI element 135: {\"index\": 135, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            975,
+            1534,
+            1655
+        ]
+    },
+    {
+        "ui_description": "UI element 136: {\"index\": 136, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            118,
+            1534,
+            1655
+        ]
+    },
+    {
+        "ui_description": "UI element 137: {\"index\": 137, \"text\": \"PV\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            86,
+            1566,
+            1624
+        ]
+    },
+    {
+        "ui_description": "UI element 138: {\"index\": 138, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            943,
+            975,
+            1534,
+            1655
+        ]
+    },
+    {
+        "ui_description": "UI element 139: {\"index\": 139, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            975,
+            1080,
+            1534,
+            1655
+        ]
+    },
+    {
+        "ui_description": "UI element 140: {\"index\": 140, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            21,
+            1059,
+            1655,
+            1935
+        ]
+    },
+    {
+        "ui_description": "UI element 141: {\"index\": 141, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            21,
+            379,
+            1655,
+            1935
+        ]
+    },
+    {
+        "ui_description": "UI element 142: {\"index\": 142, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            368,
+            1671,
+            1860
+        ]
+    },
+    {
+        "ui_description": "UI element 143: {\"index\": 143, \"text\": \"02:23\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            273,
+            355,
+            1811,
+            1847
+        ]
+    },
+    {
+        "ui_description": "UI element 144: {\"index\": 144, \"text\": \"PV \", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            368,
+            1876,
+            1919
+        ]
+    },
+    {
+        "ui_description": "UI element 145: {\"index\": 145, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1967,
+            2130
+        ]
+    },
+    {
+        "ui_description": "UI element 146: {\"index\": 146, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1967,
+            2130
+        ]
+    },
+    {
+        "ui_description": "UI element 147: {\"index\": 147, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1967,
+            2130
+        ]
+    },
+    {
+        "ui_description": "UI element 148: {\"index\": 148, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            127,
+            2001,
+            2096
+        ]
+    },
+    {
+        "ui_description": "UI element 149: {\"index\": 149, \"text\": \"哔哩哔哩番剧\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            148,
+            854,
+            2005,
+            2051
+        ]
+    },
+    {
+        "ui_description": "UI element 150: {\"index\": 150, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            95,
+            127,
+            2064,
+            2096
+        ]
+    },
+    {
+        "ui_description": "UI element 151: {\"index\": 151, \"text\": \"785.9万粉丝\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            148,
+            293,
+            2057,
+            2093
+        ]
+    },
+    {
+        "ui_description": "UI element 152: {\"index\": 152, \"content_description\": \"关注up主，按钮\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            875,
+            1048,
+            2017,
+            2080
+        ]
+    },
+    {
+        "ui_description": "UI element 153: {\"index\": 153, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            904,
+            946,
+            2027,
+            2069
+        ]
+    },
+    {
+        "ui_description": "UI element 154: {\"index\": 154, \"text\": \"关注\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            951,
+            1019,
+            2025,
+            2071
+        ]
+    },
+    {
+        "ui_description": "UI element 155: {\"index\": 155, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            2130,
+            2131
+        ]
+    },
+    {
+        "ui_description": "UI element 156: {\"index\": 156, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            2131,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 157: {\"index\": 157, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            368,
+            2157,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 158: {\"index\": 158, \"text\": \"ANIPLEX ONLINE 我独自升级 光栅卡（3种变换）\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            389,
+            1048,
+            2157,
+            2262
+        ]
+    },
+    {
+        "ui_description": "UI element 159: {\"index\": 159, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            708,
+            709
+        ]
+    },
+    {
+        "ui_description": "UI element 160: {\"index\": 160, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            63
+        ]
+    }
+]

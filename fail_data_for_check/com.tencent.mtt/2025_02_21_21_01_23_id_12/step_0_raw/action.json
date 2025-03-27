@@ -1,0 +1,74 @@
+{
+    "action_list": [
+        {
+            "action_type": "click",
+            "x": 0.12,
+            "y": 0.53
+        },
+        {
+            "action_type": "click",
+            "x": 0.78,
+            "y": 0.13
+        },
+        {
+            "action_type": "click",
+            "x": 0.5,
+            "y": 0.81
+        },
+        {
+            "action_type": "input_text",
+            "x": 0.5,
+            "y": 0.2,
+            "text": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "action_type": "input_text",
+            "x": 0.01,
+            "y": 0.01,
+            "text": "https://news.qq.com/"
+        },
+        {
+            "action_type": "input_text",
+            "x": 0.01,
+            "y": 0.01,
+            "text": "优酷"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "x": 0.5,
+            "y": 0.81
+        },
+        {
+            "action_type": "click",
+            "x": 0.51,
+            "y": 0.07
+        },
+        {
+            "action_type": "click",
+            "x": 0.5,
+            "y": 0.82
+        },
+        {
+            "action_type": "click",
+            "x": 0.01,
+            "y": 0.01
+        }
+    ],
+    "action_output_list": [
+        "The user wants to open a video website in QQ Browser. First, I need to open the QQ Browser app.,{'action_type': 'click', 'x': 0.12, 'y': 0.53}",
+        "The current page is the homepage of QQ Browser. To open a video website like Youku, I need to input the URL in the address bar. However, there is no obvious address bar shown on the screen. It's possible that I can find it by clicking the menu icon at the bottom or by clicking the search bar on the top of the page, but based on the current screenshot, I can try to click the 打开 button first.,{'action_type': 'click', 'x': 0.78, 'y': 0.13}",
+        "The current screen displays a news feed. To open a video website like Youku, I need to find the address bar. Based on the interface layout, there doesn't seem to be a visible address bar at the top. I can attempt to find it within the menu by clicking the button at the bottom.,{'action_type': 'click', 'x': 0.5, 'y': 0.81}",
+        "I need to input the URL of a video website. The current page does not have a visible address bar, but there is a search bar on the top that says \"腾讯新闻\". I will attempt to input the URL in the search bar to see if that works.,{'action_type': 'input_text', 'text': 'https://www.youtube.com/watch?v=dQw4w9WgXcQ', 'x': 0.5, 'y': 0.2}",
+        "I tried inputting a URL in the previous step, but it led me to a news feed page instead. So I should try again with the correct URL.,{'action_type': 'input_text', 'text': 'https://news.qq.com/', 'x': 0.01, 'y': 0.01}",
+        "The URL input in the last step led to a news page. Instead, I should try to input the name of the video website, i.e., \"优酷\". This might lead to a search for \"优酷\" and hopefully lead to the website.,{'action_type': 'input_text', 'text': '优酷', 'x': 0.01, 'y': 0.01}",
+        "I have tried to input text into the search bar but failed. Now I will scroll down the page to see if there is any direct link to a video website.,{'action_type': 'scroll', 'direction': 'down'}",
+        "The task is to open a video website like Youku and play a recommended video in QQ browser. I need to find the address bar to input \"优酷\" again and search for the website. The current page is a news feed page. There's a home icon at the bottom, I can try clicking it and see if it leads back to the homepage where I can find the address bar or search bar.,{'action_type': 'click', 'x': 0.5, 'y': 0.81}",
+        "The current page is the homepage of the QQ browser app, but it is showing a news feed page. To open the Youku website, I need to find the address bar or search bar. I should click the refresh icon to reload the page, which could potentially bring the app to the intended homepage, which hopefully displays an address bar to type the URL.,{'action_type': 'click', 'x': 0.51, 'y': 0.07}",
+        "The goal is to open a video website like Youku and play a recommended video in QQ browser. Since the current screen is showing a news feed page in QQ browser, I should first try to navigate to the home page by clicking the home icon on the bottom of the screen. Then I can input the URL \"优酷\" to search for the Youku website.,{'action_type': 'click', 'x': 0.5, 'y': 0.82}",
+        "The current page is the homepage of QQ browser with news feed. I will click the back button to go back to the default home page.,{'action_type': 'click', 'x': 0.01, 'y': 0.01}"
+    ]
+}

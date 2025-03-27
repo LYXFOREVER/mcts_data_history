@@ -1,0 +1,61 @@
+{
+    "action_list": [
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 141
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 34
+        },
+        {
+            "action_type": "input_text",
+            "index": 33,
+            "text": "8576"
+        },
+        {
+            "action_type": "click",
+            "index": 40
+        },
+        {
+            "action_type": "click",
+            "index": 37
+        },
+        {
+            "action_type": "click",
+            "index": 37
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 30
+        }
+    ],
+    "action_output_list": [
+        "To complete the task, first open the bilibili app.{\"action_type\": \"click\", \"index\": 15}",
+        "The user wants to view and comment on the dynamic. I should click on the dynamic tab.{\"action_type\": \"click\", \"index\": 141}",
+        "The user is not logged in. To view the latest videos in the dynamic section, the user needs to log in first.{\"action_type\": \"click\", \"index\": 24}",
+        "I need to input the verification code first.{\"action_type\": \"click\", \"index\": 34}",
+        "The goal is to log in to Bilibili. I need to input the verification code first and then click the login button.{\"action_type\": \"input_text\", \"text\": \"8576\", \"index\": 33}",
+        "To proceed with the login process, the user needs to agree to the terms of service. Clicking the checkbox will mark it as agreed.{\"action_type\": \"click\", \"index\": 40}",
+        "To continue logging in, click the \"Verification Login\" button.{\"action_type\": \"click\", \"index\": 37}",
+        "I have already entered the verification code and checked the agreement. Now I should click the login button.{\"action_type\": \"click\", \"index\": 37}",
+        "The user has logged in. To comment on the latest video in the dynamic section, I should navigate to the dynamic page again.{\"action_type\": \"navigate_back\"}",
+        "The user needs to log in before commenting on the latest video.{\"action_type\": \"click\", \"index\": 24}",
+        "Need to first get the verification code, so I need to click the button to get verification code.{\"action_type\": \"click\", \"index\": 30}"
+    ]
+}

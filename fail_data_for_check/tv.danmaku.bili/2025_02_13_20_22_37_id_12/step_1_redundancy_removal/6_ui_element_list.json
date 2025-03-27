@@ -1,0 +1,1334 @@
+[
+    {
+        "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            765
+        ]
+    },
+    {
+        "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            765
+        ]
+    },
+    {
+        "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            765
+        ]
+    },
+    {
+        "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            765
+        ]
+    },
+    {
+        "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            607
+        ]
+    },
+    {
+        "ui_description": "UI element 11: {\"index\": 11, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            607,
+            765
+        ]
+    },
+    {
+        "ui_description": "UI element 12: {\"index\": 12, \"content_description\": \"UP主推荐广告,高中物理教辅，黄夫入和物理重构怎么选？,,轻点两下查看详情\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            607,
+            765
+        ]
+    },
+    {
+        "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            1080,
+            633,
+            739
+        ]
+    },
+    {
+        "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            200,
+            633,
+            738
+        ]
+    },
+    {
+        "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            200,
+            633,
+            738
+        ]
+    },
+    {
+        "ui_description": "UI element 16: {\"index\": 16, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            200,
+            974,
+            633,
+            738
+        ]
+    },
+    {
+        "ui_description": "UI element 17: {\"index\": 17, \"text\": \"高中物理教辅，黄夫入和物理重构怎么选？\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            221,
+            867,
+            638,
+            678
+        ]
+    },
+    {
+        "ui_description": "UI element 18: {\"index\": 18, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            221,
+            974,
+            695,
+            730
+        ]
+    },
+    {
+        "ui_description": "UI element 19: {\"index\": 19, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            221,
+            369,
+            695,
+            730
+        ]
+    },
+    {
+        "ui_description": "UI element 20: {\"index\": 20, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            221,
+            369,
+            695,
+            730
+        ]
+    },
+    {
+        "ui_description": "UI element 21: {\"index\": 21, \"text\": \"爱吃桃子的COCO\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            385,
+            585,
+            697,
+            727
+        ]
+    },
+    {
+        "ui_description": "UI element 22: {\"index\": 22, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            974,
+            1080,
+            633,
+            739
+        ]
+    },
+    {
+        "ui_description": "UI element 23: {\"index\": 23, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            974,
+            1080,
+            633,
+            739
+        ]
+    },
+    {
+        "ui_description": "UI element 24: {\"index\": 24, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            763,
+            765
+        ]
+    },
+    {
+        "ui_description": "UI element 25: {\"index\": 25, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            171
+        ]
+    },
+    {
+        "ui_description": "UI element 26: {\"index\": 26, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            42,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 27: {\"index\": 27, \"content_description\": \"返回上一页\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            147,
+            42,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 28: {\"index\": 28, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            147,
+            1080,
+            42,
+            189
+        ]
+    },
+    {
+        "ui_description": "UI element 29: {\"index\": 29, \"content_description\": \"返回首页\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            147,
+            252,
+            63,
+            168
+        ]
+    },
+    {
+        "ui_description": "UI element 30: {\"index\": 30, \"content_description\": \"更多操作\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            975,
+            1080,
+            86,
+            144
+        ]
+    },
+    {
+        "ui_description": "UI element 31: {\"index\": 31, \"content_description\": \"视频\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            607
+        ]
+    },
+    {
+        "ui_description": "UI element 32: {\"index\": 32, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            607
+        ]
+    },
+    {
+        "ui_description": "UI element 33: {\"index\": 33, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            607
+        ]
+    },
+    {
+        "ui_description": "UI element 34: {\"index\": 34, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            607
+        ]
+    },
+    {
+        "ui_description": "UI element 35: {\"index\": 35, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            607
+        ]
+    },
+    {
+        "ui_description": "UI element 36: {\"index\": 36, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            607
+        ]
+    },
+    {
+        "ui_description": "UI element 37: {\"index\": 37, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            607
+        ]
+    },
+    {
+        "ui_description": "UI element 38: {\"index\": 38, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            607
+        ]
+    },
+    {
+        "ui_description": "UI element 39: {\"index\": 39, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            607
+        ]
+    },
+    {
+        "ui_description": "UI element 40: {\"index\": 40, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            607
+        ]
+    },
+    {
+        "ui_description": "UI element 41: {\"index\": 41, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            607
+        ]
+    },
+    {
+        "ui_description": "UI element 42: {\"index\": 42, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            602,
+            607
+        ]
+    },
+    {
+        "ui_description": "UI element 43: {\"index\": 43, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            765,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 44: {\"index\": 44, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            765,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 45: {\"index\": 45, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            765,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 46: {\"index\": 46, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            765,
+            865
+        ]
+    },
+    {
+        "ui_description": "UI element 47: {\"index\": 47, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            685,
+            765,
+            865
+        ]
+    },
+    {
+        "ui_description": "UI element 48: {\"index\": 48, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            685,
+            765,
+            865
+        ]
+    },
+    {
+        "ui_description": "UI element 49: {\"index\": 49, \"text\": \"简介\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            264,
+            765,
+            865
+        ]
+    },
+    {
+        "ui_description": "UI element 50: {\"index\": 50, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            264,
+            499,
+            765,
+            865
+        ]
+    },
+    {
+        "ui_description": "UI element 51: {\"index\": 51, \"text\": \"评论\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            329,
+            397,
+            792,
+            838
+        ]
+    },
+    {
+        "ui_description": "UI element 52: {\"index\": 52, \"text\": \"22\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            402,
+            434,
+            795,
+            834
+        ]
+    },
+    {
+        "ui_description": "UI element 53: {\"index\": 53, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            696,
+            1048,
+            776,
+            855
+        ]
+    },
+    {
+        "ui_description": "UI element 54: {\"index\": 54, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            696,
+            1048,
+            776,
+            855
+        ]
+    },
+    {
+        "ui_description": "UI element 55: {\"index\": 55, \"text\": \"点我发弹幕\", \"content_description\": \"发布弹幕\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            696,
+            1048,
+            776,
+            855
+        ]
+    },
+    {
+        "ui_description": "UI element 56: {\"index\": 56, \"content_description\": \"关闭弹幕\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            942,
+            1047,
+            777,
+            854
+        ]
+    },
+    {
+        "ui_description": "UI element 57: {\"index\": 57, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            865,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 58: {\"index\": 58, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            865,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 59: {\"index\": 59, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            865,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 60: {\"index\": 60, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            865,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 61: {\"index\": 61, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            865,
+            1004
+        ]
+    },
+    {
+        "ui_description": "UI element 62: {\"index\": 62, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            110,
+            911,
+            989
+        ]
+    },
+    {
+        "ui_description": "UI element 63: {\"index\": 63, \"content_description\": \"up主头像\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            110,
+            911,
+            989
+        ]
+    },
+    {
+        "ui_description": "UI element 64: {\"index\": 64, \"content_description\": \"up主wuli猫摆摆，2.6万粉丝，229视频，点击进入空间页\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            123,
+            848,
+            908,
+            993
+        ]
+    },
+    {
+        "ui_description": "UI element 65: {\"index\": 65, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            159,
+            827,
+            908,
+            954
+        ]
+    },
+    {
+        "ui_description": "UI element 66: {\"index\": 66, \"text\": \"wuli猫摆摆\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            159,
+            322,
+            908,
+            954
+        ]
+    },
+    {
+        "ui_description": "UI element 67: {\"index\": 67, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            159,
+            827,
+            957,
+            993
+        ]
+    },
+    {
+        "ui_description": "UI element 68: {\"index\": 68, \"text\": \"2.6万粉丝\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            159,
+            274,
+            957,
+            993
+        ]
+    },
+    {
+        "ui_description": "UI element 69: {\"index\": 69, \"text\": \"229视频\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            300,
+            397,
+            957,
+            993
+        ]
+    },
+    {
+        "ui_description": "UI element 70: {\"index\": 70, \"content_description\": \"关注up主，按钮\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            848,
+            1037,
+            919,
+            982
+        ]
+    },
+    {
+        "ui_description": "UI element 71: {\"index\": 71, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            885,
+            927,
+            929,
+            971
+        ]
+    },
+    {
+        "ui_description": "UI element 72: {\"index\": 72, \"text\": \"关注\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            932,
+            1000,
+            927,
+            973
+        ]
+    },
+    {
+        "ui_description": "UI element 73: {\"index\": 73, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            1048,
+            1028,
+            1160
+        ]
+    },
+    {
+        "ui_description": "UI element 74: {\"index\": 74, \"text\": \"超长一小时猫咪合集\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            1048,
+            1028,
+            1085
+        ]
+    },
+    {
+        "ui_description": "UI element 75: {\"index\": 75, \"content_description\": \"展开更多，按钮\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            995,
+            1048,
+            1028,
+            1081
+        ]
+    },
+    {
+        "ui_description": "UI element 76: {\"index\": 76, \"text\": \"4.5万\", \"content_description\": \"4.5万播放\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            144,
+            1103,
+            1142
+        ]
+    },
+    {
+        "ui_description": "UI element 77: {\"index\": 77, \"text\": \"139\", \"content_description\": \"139条弹幕\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            170,
+            261,
+            1103,
+            1142
+        ]
+    },
+    {
+        "ui_description": "UI element 78: {\"index\": 78, \"text\": \"2024-10-29 12:39\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            287,
+            509,
+            1103,
+            1142
+        ]
+    },
+    {
+        "ui_description": "UI element 79: {\"index\": 79, \"text\": \"6人正在看\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            535,
+            717,
+            1102,
+            1144
+        ]
+    },
+    {
+        "ui_description": "UI element 80: {\"index\": 80, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            1048,
+            1160,
+            1328
+        ]
+    },
+    {
+        "ui_description": "UI element 81: {\"index\": 81, \"content_description\": \"点赞，1111个点赞\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            235,
+            1178,
+            1328
+        ]
+    },
+    {
+        "ui_description": "UI element 82: {\"index\": 82, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            94,
+            173,
+            1178,
+            1257
+        ]
+    },
+    {
+        "ui_description": "UI element 83: {\"index\": 83, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            104,
+            162,
+            1188,
+            1246
+        ]
+    },
+    {
+        "ui_description": "UI element 84: {\"index\": 84, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            235,
+            1257,
+            1293
+        ]
+    },
+    {
+        "ui_description": "UI element 85: {\"index\": 85, \"text\": \"1111\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            235,
+            1257,
+            1293
+        ]
+    },
+    {
+        "ui_description": "UI element 86: {\"index\": 86, \"content_description\": \"不喜欢\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            235,
+            438,
+            1178,
+            1312
+        ]
+    },
+    {
+        "ui_description": "UI element 87: {\"index\": 87, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            297,
+            376,
+            1178,
+            1257
+        ]
+    },
+    {
+        "ui_description": "UI element 88: {\"index\": 88, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            307,
+            365,
+            1188,
+            1246
+        ]
+    },
+    {
+        "ui_description": "UI element 89: {\"index\": 89, \"text\": \"不喜欢\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            297,
+            375,
+            1257,
+            1293
+        ]
+    },
+    {
+        "ui_description": "UI element 90: {\"index\": 90, \"content_description\": \"投币，190个投币\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            438,
+            642,
+            1178,
+            1312
+        ]
+    },
+    {
+        "ui_description": "UI element 91: {\"index\": 91, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            500,
+            579,
+            1178,
+            1257
+        ]
+    },
+    {
+        "ui_description": "UI element 92: {\"index\": 92, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            500,
+            579,
+            1178,
+            1257
+        ]
+    },
+    {
+        "ui_description": "UI element 93: {\"index\": 93, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            510,
+            568,
+            1188,
+            1246
+        ]
+    },
+    {
+        "ui_description": "UI element 94: {\"index\": 94, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            438,
+            642,
+            1257,
+            1293
+        ]
+    },
+    {
+        "ui_description": "UI element 95: {\"index\": 95, \"text\": \"190\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            438,
+            642,
+            1257,
+            1293
+        ]
+    },
+    {
+        "ui_description": "UI element 96: {\"index\": 96, \"content_description\": \"收藏，614个收藏\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            642,
+            845,
+            1178,
+            1312
+        ]
+    },
+    {
+        "ui_description": "UI element 97: {\"index\": 97, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            704,
+            783,
+            1178,
+            1257
+        ]
+    },
+    {
+        "ui_description": "UI element 98: {\"index\": 98, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            704,
+            783,
+            1178,
+            1257
+        ]
+    },
+    {
+        "ui_description": "UI element 99: {\"index\": 99, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            714,
+            772,
+            1188,
+            1246
+        ]
+    },
+    {
+        "ui_description": "UI element 100: {\"index\": 100, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            642,
+            845,
+            1257,
+            1293
+        ]
+    },
+    {
+        "ui_description": "UI element 101: {\"index\": 101, \"text\": \"614\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            642,
+            845,
+            1257,
+            1293
+        ]
+    },
+    {
+        "ui_description": "UI element 102: {\"index\": 102, \"content_description\": \"分享，291个分享\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            845,
+            1048,
+            1178,
+            1312
+        ]
+    },
+    {
+        "ui_description": "UI element 103: {\"index\": 103, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            907,
+            986,
+            1178,
+            1257
+        ]
+    },
+    {
+        "ui_description": "UI element 104: {\"index\": 104, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            917,
+            975,
+            1188,
+            1246
+        ]
+    },
+    {
+        "ui_description": "UI element 105: {\"index\": 105, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            845,
+            1048,
+            1257,
+            1293
+        ]
+    },
+    {
+        "ui_description": "UI element 106: {\"index\": 106, \"text\": \"291\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            845,
+            1048,
+            1257,
+            1293
+        ]
+    },
+    {
+        "ui_description": "UI element 107: {\"index\": 107, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1328,
+            1448
+        ]
+    },
+    {
+        "ui_description": "UI element 108: {\"index\": 108, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1349,
+            1448
+        ]
+    },
+    {
+        "ui_description": "UI element 109: {\"index\": 109, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            438,
+            1367,
+            1435
+        ]
+    },
+    {
+        "ui_description": "UI element 110: {\"index\": 110, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            53,
+            95,
+            1380,
+            1422
+        ]
+    },
+    {
+        "ui_description": "UI element 111: {\"index\": 111, \"text\": \"拍同款 | 动物总动员\", \"content_description\": \"拍同款 | 动物总动员，按钮\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            100,
+            380,
+            1379,
+            1422
+        ]
+    },
+    {
+        "ui_description": "UI element 112: {\"index\": 112, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            385,
+            417,
+            1385,
+            1417
+        ]
+    },
+    {
+        "ui_description": "UI element 113: {\"index\": 113, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1466,
+            1467
+        ]
+    },
+    {
+        "ui_description": "UI element 114: {\"index\": 114, \"content_description\": \"视频，嘴替猫骂骂咧咧前发生了什么？波仔说话竟然是这样触发的！，up主骄傲的大肥兔，697.1万次播放，1145条弹幕，时长01:02\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1485,
+            1727
+        ]
+    },
+    {
+        "ui_description": "UI element 115: {\"index\": 115, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            368,
+            1511,
+            1700
+        ]
+    },
+    {
+        "ui_description": "UI element 116: {\"index\": 116, \"text\": \"嘴替猫骂骂咧咧前发生了什么？波仔说话竟然是这样触发的！\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            394,
+            1048,
+            1511,
+            1606
+        ]
+    },
+    {
+        "ui_description": "UI element 117: {\"index\": 117, \"text\": \"01:02\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            277,
+            357,
+            1651,
+            1689
+        ]
+    },
+    {
+        "ui_description": "UI element 118: {\"index\": 118, \"text\": \"33万点赞\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            394,
+            535,
+            1611,
+            1653
+        ]
+    },
+    {
+        "ui_description": "UI element 119: {\"index\": 119, \"text\": \"骄傲的大肥兔\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            551,
+            1048,
+            1611,
+            1653
+        ]
+    },
+    {
+        "ui_description": "UI element 120: {\"index\": 120, \"text\": \"697.1万\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            394,
+            578,
+            1657,
+            1700
+        ]
+    },
+    {
+        "ui_description": "UI element 121: {\"index\": 121, \"text\": \"1145\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            596,
+            974,
+            1657,
+            1700
+        ]
+    },
+    {
+        "ui_description": "UI element 122: {\"index\": 122, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            974,
+            1080,
+            1627,
+            1727
+        ]
+    },
+    {
+        "ui_description": "UI element 123: {\"index\": 123, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            974,
+            1080,
+            1627,
+            1727
+        ]
+    },
+    {
+        "ui_description": "UI element 124: {\"index\": 124, \"content_description\": \"视频，喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵，up主游头子，410.8万次播放，1.4万条弹幕，时长01:20\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1727,
+            1969
+        ]
+    },
+    {
+        "ui_description": "UI element 125: {\"index\": 125, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            368,
+            1753,
+            1942
+        ]
+    },
+    {
+        "ui_description": "UI element 126: {\"index\": 126, \"text\": \"喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            394,
+            1048,
+            1753,
+            1848
+        ]
+    },
+    {
+        "ui_description": "UI element 127: {\"index\": 127, \"text\": \"01:20\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            277,
+            357,
+            1893,
+            1931
+        ]
+    },
+    {
+        "ui_description": "UI element 128: {\"index\": 128, \"text\": \"1万分享\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            394,
+            519,
+            1853,
+            1895
+        ]
+    },
+    {
+        "ui_description": "UI element 129: {\"index\": 129, \"text\": \"游头子\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            535,
+            1048,
+            1853,
+            1895
+        ]
+    },
+    {
+        "ui_description": "UI element 130: {\"index\": 130, \"text\": \"410.8万\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            394,
+            578,
+            1899,
+            1942
+        ]
+    },
+    {
+        "ui_description": "UI element 131: {\"index\": 131, \"text\": \"1.4万\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            596,
+            974,
+            1899,
+            1942
+        ]
+    },
+    {
+        "ui_description": "UI element 132: {\"index\": 132, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            974,
+            1080,
+            1869,
+            1969
+        ]
+    },
+    {
+        "ui_description": "UI element 133: {\"index\": 133, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            974,
+            1080,
+            1869,
+            1969
+        ]
+    },
+    {
+        "ui_description": "UI element 134: {\"index\": 134, \"content_description\": \"视频，儿童益智手工玩具，制作小杯子蛋糕，里面变出可爱的宝贝玩具，up主彩虹玩具城，226.3万次播放，368条弹幕，时长03:11\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1969,
+            2211
+        ]
+    },
+    {
+        "ui_description": "UI element 135: {\"index\": 135, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            368,
+            1995,
+            2184
+        ]
+    },
+    {
+        "ui_description": "UI element 136: {\"index\": 136, \"text\": \"儿童益智手工玩具，制作小杯子蛋糕，里面变出可爱的宝贝玩具\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            394,
+            1048,
+            1995,
+            2090
+        ]
+    },
+    {
+        "ui_description": "UI element 137: {\"index\": 137, \"text\": \"03:11\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            277,
+            357,
+            2135,
+            2173
+        ]
+    },
+    {
+        "ui_description": "UI element 138: {\"index\": 138, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            394,
+            436,
+            2095,
+            2137
+        ]
+    },
+    {
+        "ui_description": "UI element 139: {\"index\": 139, \"text\": \"彩虹玩具城\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            441,
+            1048,
+            2095,
+            2137
+        ]
+    },
+    {
+        "ui_description": "UI element 140: {\"index\": 140, \"text\": \"226.3万\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            394,
+            578,
+            2141,
+            2184
+        ]
+    },
+    {
+        "ui_description": "UI element 141: {\"index\": 141, \"text\": \"368\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            596,
+            974,
+            2141,
+            2184
+        ]
+    },
+    {
+        "ui_description": "UI element 142: {\"index\": 142, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            974,
+            1080,
+            2111,
+            2211
+        ]
+    },
+    {
+        "ui_description": "UI element 143: {\"index\": 143, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            974,
+            1080,
+            2111,
+            2211
+        ]
+    },
+    {
+        "ui_description": "UI element 144: {\"index\": 144, \"content_description\": \"视频，~快给你家猫🐱看oiiai！，up主Six号灵魂，40.9万次播放，201条弹幕，时长02:01\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            2211,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 145: {\"index\": 145, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            32,
+            368,
+            2237,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 146: {\"index\": 146, \"text\": \"~快给你家猫🐱看oiiai！\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            394,
+            1048,
+            2237,
+            2274
+        ]
+    },
+    {
+        "ui_description": "UI element 147: {\"index\": 147, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            865,
+            886
+        ]
+    }
+]

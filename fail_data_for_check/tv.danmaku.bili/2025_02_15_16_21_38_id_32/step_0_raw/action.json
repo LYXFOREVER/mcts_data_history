@@ -1,0 +1,62 @@
+{
+    "action_list": [
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 65
+        },
+        {
+            "action_type": "click",
+            "index": 75
+        },
+        {
+            "action_type": "click",
+            "index": 43
+        },
+        {
+            "action_type": "input_text",
+            "index": 110,
+            "text": "这个视频真不错!"
+        },
+        {
+            "action_type": "click",
+            "index": 18
+        },
+        {
+            "action_type": "click",
+            "index": 9
+        },
+        {
+            "action_type": "click",
+            "index": 33
+        },
+        {
+            "action_type": "click",
+            "index": 45
+        },
+        {
+            "action_type": "click",
+            "index": 55
+        },
+        {
+            "action_type": "click",
+            "index": 33
+        }
+    ],
+    "action_output_list": [
+        "First, I need to open the Bilibili app.{\"action_type\": \"click\", \"index\": 15}",
+        "The user wants to enter a video, I can click on one of the video to achieve this.{\"action_type\": \"click\", \"index\": 65}",
+        "The task requires me to like and comment on a video. First, I need to like the video, and the like button is available at index 75.{\"action_type\": \"click\", \"index\": 75}",
+        "Now that the video is liked, I can click on the comment button to leave a comment.{\"action_type\": \"click\", \"index\": 43}",
+        "I need to type the comment \"这个视频真不错!\" into the comment box. The index for the comment box is 110.{\"action_type\": \"input_text\", \"text\": \"这个视频真不错!\", \"index\": 110}",
+        "Now that the comment text has been input, the next logical step is to submit the comment. The '发布' (Publish) button should do that.{\"action_type\": \"click\", \"index\": 18}",
+        "The comment action requires level 2 access. One option is to answer the questions to upgrade.{\"action_type\": \"click\", \"index\": 9}",
+        "The user needs to answer 100 questions and the goal is to answer each question correctly. Since the current question asks about whether a phrase conforms to community norms, I will click on the button to answer the question.{\"action_type\": \"click\", \"index\": 33}",
+        "To continue answering the questions, the user needs to select one of the answer options. I will select \"视频内容有深度或创意\" as the answer to question 8.{\"action_type\": \"click\", \"index\": 45}",
+        "To continue with the quiz, I need to answer the current question. The question is whether \"Come to my homepage to see, my video is 100 times better than this one\" complies with community norms. The most appropriate answer is \"不符合\" (does not comply).{\"action_type\": \"click\", \"index\": 55}",
+        "To progress with the quiz and reach level 2, I should answer the current question by clicking one of the two options. I will choose the first one \"换下个视频\".{\"action_type\": \"click\", \"index\": 33}"
+    ]
+}

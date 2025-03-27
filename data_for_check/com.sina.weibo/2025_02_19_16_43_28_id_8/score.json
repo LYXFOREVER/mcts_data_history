@@ -1,0 +1,4 @@
+{
+    "score": 5,
+    "reason": "The agent opens the Weibo app, clicks on the +Follow button next to a recommended blogger's name, closes a subscription window that appears, and then follows another recommended blogger. It correctly handles the \"Select a group\" window and saves the selections to complete the follow action.\nThe actions are logical and the goal is achieved."
+}

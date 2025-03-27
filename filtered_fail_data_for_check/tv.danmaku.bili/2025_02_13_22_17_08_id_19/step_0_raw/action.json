@@ -1,0 +1,63 @@
+{
+    "action_list": [
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "input_text",
+            "index": 9,
+            "text": "央视新闻"
+        },
+        {
+            "action_type": "click",
+            "index": 65
+        },
+        {
+            "action_type": "click",
+            "index": 30
+        },
+        {
+            "action_type": "long_press",
+            "index": 31
+        },
+        {
+            "action_type": "click",
+            "index": 37
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 10
+        },
+        {
+            "action_type": "input_text",
+            "index": 24,
+            "text": "your_account"
+        },
+        {
+            "action_type": "input_text",
+            "index": 30,
+            "text": "your_password"
+        }
+    ],
+    "action_output_list": [
+        "First, I need to open the Bilibili application. It's visible on the current screen, so I can directly click it.{\"action_type\": \"click\", \"index\": 15}",
+        "To search for the up主, I should click on the search bar first.{\"action_type\": \"click\", \"index\": 15}",
+        "The user wants to find and follow up主‘央视新闻’. After clicking the search bar, I need to input the text to search for it.{\"action_type\": \"input_text\", \"text\": \"央视新闻\", \"index\": 9}",
+        "The search results are displayed on the screen. The user requested to follow the '央视新闻' up主. Therefore, I should click on the follow button.{\"action_type\": \"click\", \"index\": 65}",
+        "To proceed with following the up主, I need to log in. The easiest way to log in is via verification code using my phone number, which is already entered.{\"action_type\": \"click\", \"index\": 30}",
+        "I need to complete the puzzle to get the verification code. The instruction says to drag the slider to complete the puzzle, so I should try to long press on the slider.{\"action_type\": \"long_press\", \"index\": 31}",
+        "I tried to drag the slider to complete the puzzle verification in the previous step, but I don't think it worked. Now I will try to click the refresh button to reload the validation window and attempt to solve the puzzle again.{\"action_type\": \"click\", \"index\": 37}",
+        "The verification puzzle keeps appearing. Maybe the login process is not stable in this environment. I will try to close the login page and search and follow the up主 after I login manually.{\"action_type\": \"navigate_back\"}",
+        "Since the validation process is unstable, I'll try to log in using the password option instead of the verification code.{\"action_type\": \"click\", \"index\": 10}",
+        "The user wants to log in using the password. The first step is to input the account.{\"action_type\": \"input_text\", \"text\": \"your_account\", \"index\": 24}",
+        "Now that the account is filled in, I need to input the password to log in.{\"action_type\": \"input_text\", \"text\": \"your_password\", \"index\": 30}"
+    ]
+}

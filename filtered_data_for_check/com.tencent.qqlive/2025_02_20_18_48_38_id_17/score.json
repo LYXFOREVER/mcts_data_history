@@ -1,0 +1,4 @@
+{
+    "score": 3,
+    "reason": "The agent successfully opens the tencent video application, navigates to the movies section, and attempts to click on the movie \"哪吒·影史票冠前作\". However, after clicking the movie, the screen is blank and the agent navigates back. The agent then attempts again to select the same movie. The actions are logical and follow the task instructions. However, the movie page fails to load after the first attempt. It is partially completed."
+}

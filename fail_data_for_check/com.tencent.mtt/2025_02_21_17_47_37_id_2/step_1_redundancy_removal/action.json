@@ -1,0 +1,68 @@
+{
+    "action_list": [
+        {
+            "action_type": "click",
+            "x": 0.12,
+            "y": 0.54
+        },
+        {
+            "action_type": "scroll",
+            "direction": "up"
+        },
+        {
+            "action_type": "scroll",
+            "x": 0.5,
+            "y": 0.8,
+            "direction": "up"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "input_text",
+            "x": 0.5,
+            "y": 0.25,
+            "text": "小说"
+        },
+        {
+            "action_type": "click",
+            "x": 0.81,
+            "y": 0.18
+        },
+        {
+            "action_type": "click",
+            "x": 0.28,
+            "y": 0.26
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "x": 0.5,
+            "y": 0.52
+        },
+        {
+            "action_type": "click",
+            "x": 0.18,
+            "y": 0.78
+        }
+    ],
+    "action_output_list": [
+        "First I need to open the QQBrowser app.,{'action_type': 'click', 'x': 0.12, 'y': 0.54}",
+        "It seems like the QQ Browser has opened up to a default page. The request is to click on the '小说‘ section. Since I cannot see a '小说‘ section on the current screen, I need to scroll.,{'action_type': 'scroll', 'direction': 'up'}",
+        "The '小说' section is not visible on the current screen. Need to scroll to find it.,{'action_type': 'scroll', 'direction': 'up', 'x': 0.5, 'y': 0.8}",
+        "The current view does not have a '小说' section, I will try scrolling down to look for it.,{'action_type': 'scroll', 'direction': 'down'}",
+        "Need to navigate back to the main page of QQ browser to find '小说'.,{'action_type': 'navigate_back'}",
+        "The user wants to find the '小说' section in QQ browser. Currently, the screen shows a search bar and some website icons. There's a search bar at the top (69), and a text input field (25), and a \"搜索\" button (26). I can input \"小说\" and then search for it.,{'action_type': 'input_text', 'text': '小说', 'x': 0.5, 'y': 0.25}",
+        "The previous action led to a page that requires more input or clicking on a suggestion to proceed. I can click the '搜索' button to search for '小说'.,{'action_type': 'click', 'x': 0.81, 'y': 0.18}",
+        "The previous attempt to input \"小说\" into the search bar didn't directly lead to the '小说' section. Instead, it showed search suggestions. I will try clicking on one of the suggested items, like \"DNF手游\". It's unlikely to directly open the novels section, but after that, I'll navigate back to the home page to see if there is an option.,{'action_type': 'click', 'x': 0.28, 'y': 0.26}",
+        "It seems that the previous searches haven't led to the intended destination. It might be better to navigate back to the main page of QQ Browser and look for the '小说' section there.,{'action_type': 'navigate_back'}",
+        "The previous attempts to find the '小说' section were unsuccessful. It is best to start from the homepage again, and try to add a card for novel section.,{'action_type': 'click', 'x': 0.5, 'y': 0.52}",
+        "The previous actions have not lead to the novel section. Currently, the screen displays a list of available cards to add to the QQ Browser homepage. I can attempt to find a '小说' related card from this list and add it to the homepage.,{'action_type': 'click', 'x': 0.18, 'y': 0.78}"
+    ]
+}

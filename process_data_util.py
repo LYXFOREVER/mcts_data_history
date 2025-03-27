@@ -53,6 +53,7 @@ def copy_folder(src: str, dst: str) -> None:
         print(f"整个文件夹 '{src}' 已成功复制到 '{dst_full_path}'。")
     except Exception as e:
         print(f"复制文件夹时出错：{e}")
+        print("目标文件夹可能已存在。本次操作不会覆盖该文件夹")
 
 def write_list_to_excel(data_list, output_file):
     """
@@ -73,3 +74,53 @@ def write_list_to_excel(data_list, output_file):
     # 保存工作簿
     workbook.save(output_file)
     print(f"数据已成功写入文件：{output_file}")
+
+def calculate_weighted_average_and_total(score_count_dic):
+    """
+    计算并打印数字的加权平均值和总出现次数。
+    
+    参数:
+        score_count_dic (dict): 一个字典，其中的键是数字（"1", "2", "3", "4", "5"），值是这些数字出现的次数。
+    """
+    total_count = 0
+    weighted_sum = 0
+
+    for score, count in score_count_dic.items():
+        total_count += count
+        weighted_sum += int(score) * count
+
+    if total_count > 0:
+        weighted_average = weighted_sum / total_count
+    else:
+        weighted_average = 0
+
+    print(f"加权平均值: {weighted_average}")
+    print(f"总轨迹数: {total_count}")
+
+import matplotlib.pyplot as plt
+
+def plot_bar_chart(score_count_dic, output_path):
+    """
+    绘制柱状图，显示每个数字的出现次数，并保存到指定路径。
+    
+    参数:
+        score_count_dic (dict): 一个字典，其中的键是数字（"1", "2", "3", "4", "5"），值是这些数字出现的次数。
+        output_path (str): 保存柱状图的路径。
+    """
+    # 提取数字和对应的出现次数
+    scores = list(score_count_dic.keys())
+    counts = list(score_count_dic.values())
+
+    # 绘制柱状图
+    plt.figure(figsize=(8, 6))
+    plt.bar(scores, counts, color='skyblue')
+    plt.xlabel('Scores')
+    plt.ylabel('Counts')
+    plt.title('Score Counts')
+    plt.xticks(scores)  # 确保 x 轴标签显示所有数字
+
+    # 保存图表到指定路径
+    plt.savefig(output_path)
+    plt.close()
+
+    print(f"柱状图已保存到 {output_path}")

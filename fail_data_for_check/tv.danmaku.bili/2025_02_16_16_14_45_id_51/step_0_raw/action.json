@@ -1,0 +1,56 @@
+{
+    "action_list": [
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "input_text",
+            "index": 7,
+            "text": "cooking tutorial"
+        },
+        {
+            "action_type": "keyboard_enter"
+        },
+        {
+            "action_type": "click",
+            "index": 56
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 56
+        },
+        {
+            "action_type": "wait"
+        },
+        {
+            "action_type": "wait"
+        },
+        {
+            "action_type": "wait"
+        },
+        {
+            "action_type": "wait"
+        }
+    ],
+    "action_output_list": [
+        "The first step is to open the Bilibili app.{\"action_type\": \"click\", \"index\": 15}",
+        "The user wants to search for 'cooking tutorial'. The search bar is visible on the screen.{\"action_type\": \"click\", \"index\": 16}",
+        "The user needs to search for 'cooking tutorial'. The search bar is already open, so I need to input the text.{\"action_type\": \"input_text\", \"text\": \"cooking tutorial\", \"index\": 7}",
+        "After inputting the text, I need to press the search button to start the search.{\"action_type\": \"keyboard_enter\"}",
+        "The goal is to select the first video in the search results. The current screen shows the search results. I should click on the first video.{\"action_type\": \"click\", \"index\": 56}",
+        "The video is not playing, so I need to navigate back to the search results.{\"action_type\": \"navigate_back\"}",
+        "The previous action failed to open the video. I will try to click on the first video again.{\"action_type\": \"click\", \"index\": 56}",
+        "The video is buffering. I should wait for the video to load before I can interact with it.{\"action_type\": \"wait\"}",
+        "The video is still buffering. I should wait a bit longer to see if it loads.{\"action_type\": \"wait\"}",
+        "The video is still buffering. I will wait for the screen to update again.{\"action_type\": \"wait\"}",
+        "The video is still buffering. I will wait for the screen to update again.{\"action_type\": \"wait\"}"
+    ]
+}
