@@ -1,0 +1,71 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Files"
+        },
+        {
+            "action_type": "click",
+            "index": 2
+        },
+        {
+            "action_type": "click",
+            "index": 8
+        },
+        {
+            "action_type": "input_text",
+            "index": 10,
+            "text": ".pdf"
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "navigate_back"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to find files with the extension '.pdf' in the Files app. The Files app is visible on the screen, so I should open it.{\"action_type\": \"open_app\", \"app_name\": \"Files\"}",
+        "The user wants to search for files. The current screen does not have a search bar visible. The three dots in the top right corner might contain a search option.{\"action_type\": \"click\", \"index\": 2}",
+        "The current screen shows the options menu. I need to find the search function to search for the files.{\"action_type\": \"click\", \"index\": 8}",
+        "I need to input the file extension \".pdf\" into the search field to find the files. The search field is at index 10.{\"action_type\": \"input_text\", \"text\": \".pdf\", \"index\": 10}",
+        "The user wants to select the first file from the search results. The current screen shows the search results for \".pdf\" files. I should click on the first file in the list to select it.{\"action_type\": \"click\", \"index\": 13}",
+        "The goal is to select the first file from the search results. The UI element \"Files in Downloads\" (index 13) appears to be the first file in the search results.{\"action_type\": \"click\", \"index\": 13}",
+        "The goal is to select the first file from the search results. The first file in the list is \"Files in Downloads\".{\"action_type\": \"click\", \"index\": 13}",
+        "The current screen shows the search results for \".pdf\". The goal is to select the first file from the search results. The first file in the list is \"Files in Downloads\" (index 13).{\"action_type\": \"click\", \"index\": 13}",
+        "The goal is to select the first file from the search results. The current screen shows the search results for \".pdf\". The first file in the list is \"Files in Downloads\" (index 13). Clicking on this will open the file.{\"action_type\": \"click\", \"index\": 13}",
+        "The goal is to select the first file from the search results. The current screen shows the search results for \".pdf\". I should click on the first file in the list to select it. The first file in the list is \"Files in Downloads\" (index 13).{\"action_type\": \"click\", \"index\": 13}",
+        "The goal is to select the first file from the search results. The current screen shows the search results for \".pdf\". I should click on the first file in the list, which is \"Files in Downloads\" (index 13).{\"action_type\": \"click\", \"index\": 13}",
+        "The goal is to select the first file from the search results. The current screen shows the search results for \".pdf\". I can click on the first file in the list, \"Files in Downloads\" (index 13), to select it.{\"action_type\": \"click\", \"index\": 13}",
+        "The search for \".pdf\" files returned \"No matches in Downloads\". I should try searching in \"Internal storage\" instead. To do this, I need to navigate back to the main screen of the Files app.{\"action_type\": \"navigate_back\"}"
+    ]
+}

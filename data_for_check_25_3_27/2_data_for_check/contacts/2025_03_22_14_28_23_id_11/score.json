@@ -1,0 +1,4 @@
+{
+    "score": 4,
+    "reason": "The agent successfully opens the contacts app, selects a contact, edits the contact, changes the phone number type, inputs a new phone number, and saves the contact details. However, the agent selects the first contact instead of the second contact as described in step 2. Also, the phone number type is changed to 'Callback' instead of 'Work'."
+}

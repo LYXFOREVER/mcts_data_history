@@ -1,0 +1,69 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        },
+        {
+            "action_type": "click",
+            "index": 10
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 8
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        },
+        {
+            "action_type": "click",
+            "index": 20
+        },
+        {
+            "action_type": "click",
+            "index": 26
+        }
+    ],
+    "action_output_list": [
+        "The user wants to block messages from hidden numbers and numbers not stored in contacts. To do this, I need to open the Messages app.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}",
+        "To manage blocked numbers, I need to access the settings or options within the Messages app. The \"More options\" button is a likely place to find these settings.{\"action_type\": \"click\", \"index\": 10}",
+        "The user wants to block messages from hidden numbers and numbers not stored in contacts. The current screen shows options like \"Help & feedback\". We need to find the settings related to blocked numbers. Scrolling down might reveal more options.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The current screen shows \"Settings\" for Messages. The goal is to block hidden numbers and numbers not in contacts. \"Spam & blocked\" seems like the most relevant option to manage blocked numbers.{\"action_type\": \"click\", \"index\": 8}",
+        "The current screen is \"Spam & blocked\" settings. I need to find options to block hidden numbers and numbers not in contacts. Since I don't see any options related to blocking hidden numbers or numbers not in contacts on the current screen, I should scroll down to see if there are more options.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to see if there are any options to block hidden numbers or numbers not in contacts.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I'm still looking for options to block hidden numbers or numbers not in contacts, so I should scroll down again.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I'm still looking for options to block hidden numbers or numbers not in contacts. I will scroll down again to see if there are any more options.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I have scrolled down multiple times and there are no options to block hidden numbers or numbers not in contacts. I will navigate back to the previous screen to see if there are other options.{\"action_type\": \"navigate_back\"}",
+        "The current screen is \"Spam & blocked\" settings, and I have already scrolled down multiple times without finding the desired options. I will navigate back to the previous screen to explore other options.{\"action_type\": \"navigate_back\"}",
+        "The current screen is the home screen. To achieve the goal of blocking messages from hidden numbers and numbers not stored in contacts within the Messages app, I need to open the Messages app again.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}",
+        "The user wants to block messages from hidden numbers and numbers not stored in contacts. The current screen is the main Messages screen. I will try to find the settings by clicking the \"More options\" button.{\"action_type\": \"click\", \"index\": 20}",
+        "The user wants to block messages from hidden numbers and numbers not stored in contacts. The current screen shows the options menu in the Messages app. \"Settings\" seems like a reasonable place to find such options.{\"action_type\": \"click\", \"index\": 26}"
+    ]
+}

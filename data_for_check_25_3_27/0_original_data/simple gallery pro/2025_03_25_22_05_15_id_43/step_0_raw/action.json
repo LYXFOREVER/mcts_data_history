@@ -1,0 +1,83 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Simple Gallery Pro"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "up"
+        }
+    ],
+    "action_output_list": [
+        "To accomplish the task, I need to open the Simple Gallery Pro app.{\"action_type\": \"open_app\", \"app_name\": \"Simple Gallery Pro\"}",
+        "The current screen shows a list of folders. I need to find the 'Screenshots' folder and open it. I will scroll down to find the folder.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "The current screen shows a list of folders in Simple Gallery Pro. I need to scroll down to find the 'Screenshots' folder.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "The 'Screenshots' folder is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "The 'Screenshots' folder is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "I need to scroll down to find the Screenshots folder.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "I need to find the 'Screenshots' folder to proceed with rotating the image. The folder is not currently visible, so I need to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "I need to scroll down to find the \"Screenshots\" folder.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "I have been scrolling down the list of folders but haven't found the \"Screenshots\" folder yet. I need to continue scrolling to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "I have been scrolling down the list of folders in Simple Gallery Pro to find the \"Screenshots\" folder for several steps. I will continue scrolling down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "I have been scrolling down the list of folders but haven't found the \"Screenshots\" folder yet. I will continue scrolling down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "I have been scrolling down the list of folders in Simple Gallery Pro to find the \"Screenshots\" folder for many steps. I will try scrolling down again to see if I can find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "I have been scrolling down the list of folders for a while and haven't found the \"Screenshots\" folder yet. I will try scrolling up to see if it's located at the top of the list.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 5}"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Contacts"
+        },
+        {
+            "action_type": "click",
+            "index": 3
+        },
+        {
+            "action_type": "input_text",
+            "index": 17,
+            "text": "John Doe"
+        },
+        {
+            "action_type": "keyboard_enter"
+        },
+        {
+            "action_type": "wait"
+        },
+        {
+            "action_type": "scroll",
+            "index": 46,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "up"
+        },
+        {
+            "action_type": "scroll",
+            "index": 45,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 9
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "navigate_back"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to search for a contact in the contacts app. I need to open the contacts app first.{\"action_type\": \"open_app\", \"app_name\": \"Contacts\"}",
+        "The user wants to search for a contact. The search icon is visible and clickable.{\"action_type\": \"click\", \"index\": 3}",
+        "The user wants to search for a contact named 'John Doe'. The search bar is currently visible, so I need to input the contact name into the search bar.{\"action_type\": \"input_text\", \"text\": \"John Doe\", \"index\": 17}",
+        "The user has already typed \"John Doe\" into the search bar. Now, I need to press the enter key to initiate the search.{\"action_type\": \"keyboard_enter\"}",
+        "The user has already typed \"John Doe\" into the search bar and pressed enter. Now I need to wait for the search results to load.{\"action_type\": \"wait\"}",
+        "The contact 'John Doe' may be located further down the list, so I will scroll down to see if it is visible.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 46}",
+        "The contact might be further down the list, so I will scroll down to see if it's there.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I have already scrolled down twice. I will try scrolling up to see if the contact is there.{\"action_type\": \"scroll\", \"direction\": \"up\"}",
+        "The contact 'John Doe' might be further down the list, so I will scroll down to check.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 45}",
+        "The contact 'John Doe' may be further down the list, so I will scroll down to check.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The contact 'John Doe' was not found after scrolling multiple times. It's possible the search query is still active and interfering with the display of all contacts. I will try closing the search bar to see the full contact list.{\"action_type\": \"click\", \"index\": 9}",
+        "The contact 'John Doe' was not found after scrolling and closing the search bar. I will try to search again to make sure I didn't make a mistake.{\"action_type\": \"click\", \"index\": 24}",
+        "The contact 'John Doe' was not found after several scrolls and re-searches. It's possible the contact doesn't exist or is stored under a different name. I will navigate back to the main contacts list to ensure I'm viewing all contacts.{\"action_type\": \"navigate_back\"}"
+    ]
+}

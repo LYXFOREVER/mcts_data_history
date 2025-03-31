@@ -1,0 +1,4 @@
+{
+    "score": 3,
+    "reason": "The agent is trying to find the app \"com.google.androidenv.accessibilityforwarder\" in the settings. It starts by scrolling down the main settings page, then clicks on \"Apps\" to view all apps, and then continues scrolling down. The agent is making progress towards the goal, but it's just scrolling and not yet found the app."
+}

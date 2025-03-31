@@ -1,0 +1,4 @@
+{
+    "score": 2,
+    "reason": "The agent is trying to find the battery settings for a specific app. It starts by searching for the app, then attempts to scroll down to find the \"Battery\" option within the app's settings. However, the agent gets stuck in a loop of scrolling down without finding the \"Battery\" option. The task is not completed."
+}

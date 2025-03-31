@@ -1,0 +1,4 @@
+{
+    "score": 4,
+    "reason": "The agent successfully opens the contacts app, allows notifications, and begins to create a new contact by entering the first name, last name, and phone number. However, the final action of saving the contact fails because the agent attempts to save before entering all the required information. The agent clicks save, but the contact is not saved, and a pop-up appears saying \"Add info to save as a contact.\""
+}

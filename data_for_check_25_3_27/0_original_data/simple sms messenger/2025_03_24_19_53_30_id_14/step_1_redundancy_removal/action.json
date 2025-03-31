@@ -1,0 +1,72 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        },
+        {
+            "action_type": "click",
+            "index": 20
+        },
+        {
+            "action_type": "click",
+            "index": 26
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 46
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 11
+        },
+        {
+            "action_type": "click",
+            "index": 11
+        },
+        {
+            "action_type": "input_text",
+            "index": 2,
+            "text": "1234567890"
+        },
+        {
+            "action_type": "click",
+            "index": 5
+        },
+        {
+            "action_type": "navigate_back"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to enable blocking of messages from hidden numbers and add a number to the block list in the Messages app. First, I need to open the Messages app.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}",
+        "The current screen shows the main view of the Messages app. To enable blocking and add a number to the block list, I need to access the settings. The \"More options\" button (three vertical dots) usually leads to settings.{\"action_type\": \"click\", \"index\": 20}",
+        "The current screen shows the options menu in Messages. To block hidden numbers and add a number to the block list, I need to go to settings.{\"action_type\": \"click\", \"index\": 26}",
+        "To enable blocking of messages from hidden numbers, I need to find the \"Spam protection\" option. It is not visible on the screen, so I need to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "The user wants to enable blocking of messages from hidden numbers, and the current screen is the settings screen. The \"Spam protection\" option is likely where this setting can be found.{\"action_type\": \"click\", \"index\": 46}",
+        "The goal is to enable blocking of messages from hidden numbers. The current screen is \"Spam protection\". There is an option \"Enable spam protection\" which seems relevant to the goal.{\"action_type\": \"click\", \"index\": 13}",
+        "The current screen is the \"Spam protection\" settings. I need to navigate back to the main settings screen to find the option to block numbers.{\"action_type\": \"navigate_back\"}",
+        "To add a number to the block list, I need to find the \"Blocked numbers\" option in the settings. It is not visible on the current screen, so I need to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "The user wants to add a number to the block list. The current screen is the settings screen. I need to click on \"Blocked numbers\" to add a number to the block list.{\"action_type\": \"click\", \"index\": 11}",
+        "The current screen shows the blocked numbers. To add a number to the block list, I need to click the \"Add a number\" button.{\"action_type\": \"click\", \"index\": 11}",
+        "The user wants to add the number '1234567890' to the block list. The current screen is where a number can be entered to be blocked. I should input the number into the text field.{\"action_type\": \"input_text\", \"text\": \"1234567890\", \"index\": 2}",
+        "The user has entered the number '1234567890' into the text field. Now, I need to click the \"Block\" button to add the number to the block list.{\"action_type\": \"click\", \"index\": 5}",
+        "The user has completed the task of blocking the number '1234567890'. The current screen shows the blocked number. The user may want to navigate back to the main screen.{\"action_type\": \"navigate_back\"}"
+    ]
+}

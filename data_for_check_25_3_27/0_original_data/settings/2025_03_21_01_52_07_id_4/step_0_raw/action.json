@@ -1,0 +1,80 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Settings"
+        },
+        {
+            "action_type": "click",
+            "index": 36
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "up"
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 5
+        },
+        {
+            "action_type": "click",
+            "index": 17
+        }
+    ],
+    "action_output_list": [
+        "The goal is to clear cache for 'com.google.androidenv.accessibilityforworder'. I need to open settings to find the app and clear cache.{\"action_type\": \"open_app\", \"app_name\": \"Settings\"}",
+        "To navigate to 'Storage & cache', I need to go to 'Apps' first.{\"action_type\": \"click\", \"index\": 36}",
+        "To find the app, I need to scroll down in the list of apps.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 3}",
+        "I need to scroll to find the app 'com.google.androidenv.accessibilityforworder'.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 3}",
+        "I need to find the app 'com.google.androidenv.accessibilityforworder' in the list. It is not visible on the screen, so I need to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 3}",
+        "Still can't find the app, need to scroll down to find the target app.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 3}",
+        "I need to scroll down to find 'com.google.androidenv.accessibilityforworder'.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 3}",
+        "Still need to scroll down to find 'com.google.androidenv.accessibilityforworder'.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 3}",
+        "Still haven't found the app. Need to keep scrolling.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 3}",
+        "I have been scrolling down for a while, and it's likely that the app is located above the current screen. I will now scroll up to check.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 3}",
+        "The target app is not visible on the screen. I need to scroll down to find the app.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 3}",
+        "I have been scrolling for a while now, and the app hasn't appeared. It's possible I missed it, or that it is not actually on this device. Since I have been scrolling up and down, and the app hasn't appeared, I should check if I can search for the app.{\"action_type\": \"click\", \"index\": 5}",
+        "The goal is to find the app 'com.google.androidenv.accessibilityforworder' and clear its cache. We've tried scrolling multiple times and still haven't found it. Since the current screen is a list of apps, clicking on \"All apps\" might offer a different view or search functionality.{\"action_type\": \"click\", \"index\": 17}"
+    ]
+}

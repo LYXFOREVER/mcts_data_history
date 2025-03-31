@@ -1,0 +1,79 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Contacts"
+        },
+        {
+            "action_type": "click",
+            "index": 34
+        },
+        {
+            "action_type": "input_text",
+            "index": 24,
+            "text": "John Doe"
+        },
+        {
+            "action_type": "click",
+            "index": 47
+        },
+        {
+            "action_type": "scroll",
+            "index": 45,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 45,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 45,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 45,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 45,
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 22
+        },
+        {
+            "action_type": "click",
+            "index": 17
+        },
+        {
+            "action_type": "input_text",
+            "index": 24,
+            "text": "John Doe"
+        },
+        {
+            "action_type": "scroll",
+            "index": 45,
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to edit a contact in the contacts app. I should open the contacts app first.{\"action_type\": \"open_app\", \"app_name\": \"Contacts\"}",
+        "The user wants to edit the phone number of 'John Doe'. I need to find 'John Doe' in the contacts list. Since the contacts list is long, I should use the search function to find the contact.{\"action_type\": \"click\", \"index\": 34}",
+        "The user wants to edit the phone number of 'John Doe'. The previous step was clicking the search field. Now I need to input the contact name 'John Doe' into the search field.{\"action_type\": \"input_text\", \"text\": \"John Doe\", \"index\": 24}",
+        "The contact 'John Doe' should be displayed on the screen after searching. I need to click on the contact to view the contact details.{\"action_type\": \"click\", \"index\": 47}",
+        "The contact \"John Doe\" is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 45}",
+        "The contact \"John Doe\" is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 45}",
+        "The contact \"John Doe\" is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 45}",
+        "The contact \"John Doe\" is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 45}",
+        "The contact \"John Doe\" is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 45}",
+        "I have scrolled down multiple times and still haven't found \"John Doe\". I will try to clear the search and try again.{\"action_type\": \"click\", \"index\": 22}",
+        "The contact \"John Doe\" was not found after scrolling and searching. I will try to search for the contact again.{\"action_type\": \"click\", \"index\": 17}",
+        "The user wants to edit the phone number of 'John Doe'. I need to input 'John Doe' into the search field to find the contact.{\"action_type\": \"input_text\", \"text\": \"John Doe\", \"index\": 24}",
+        "The contact \"John Doe\" is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 45}"
+    ]
+}

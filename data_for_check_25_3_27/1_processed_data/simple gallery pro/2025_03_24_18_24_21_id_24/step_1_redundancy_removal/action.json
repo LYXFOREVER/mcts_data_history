@@ -1,0 +1,59 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Simple Gallery Pro"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to open the Simple Gallery Pro app to change the save path.{\"action_type\": \"open_app\", \"app_name\": \"Simple Gallery Pro\"}",
+        "The current screen shows an image. To access the settings menu, I need to navigate back to the main screen of the app.{\"action_type\": \"navigate_back\"}",
+        "The current screen shows an image. To access the settings menu, I need to navigate back to the main screen of the app.{\"action_type\": \"navigate_back\"}",
+        "The current screen shows an image. To access the settings menu, I need to navigate back to the main screen of the app.{\"action_type\": \"navigate_back\"}",
+        "The current screen shows an image. I need to navigate back to the main screen to access the settings.{\"action_type\": \"navigate_back\"}",
+        "The current screen shows an image in full screen. To access the settings menu, I need to navigate back to the main gallery view.{\"action_type\": \"navigate_back\"}",
+        "The current screen shows a full-screen image. I need to navigate back to the main gallery view to access the settings menu.{\"action_type\": \"navigate_back\"}",
+        "The current screen shows a full-screen image. To access the settings menu, I need to navigate back to the main gallery view.{\"action_type\": \"navigate_back\"}",
+        "The current screen shows a full-screen image. To access the settings menu, I need to navigate back to the main gallery view.{\"action_type\": \"navigate_back\"}",
+        "The current screen shows a full-screen image. To access the settings menu, I need to navigate back to the main gallery view.{\"action_type\": \"navigate_back\"}",
+        "The current screen shows a full-screen image. I need to navigate back to the main gallery view to access the settings menu.{\"action_type\": \"navigate_back\"}",
+        "The current screen shows a full-screen image. I need to navigate back to the main gallery view to access the settings menu.{\"action_type\": \"navigate_back\"}",
+        "The current screen shows a full-screen image. I need to navigate back to the main gallery view to access the settings menu.{\"action_type\": \"navigate_back\"}"
+    ]
+}

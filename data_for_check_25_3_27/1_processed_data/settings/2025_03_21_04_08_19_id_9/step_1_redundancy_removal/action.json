@@ -1,0 +1,73 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Schedule View"
+        },
+        {
+            "action_type": "click",
+            "index": 1
+        },
+        {
+            "action_type": "wait"
+        },
+        {
+            "action_type": "wait"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Schedule View"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Schedule View"
+        },
+        {
+            "action_type": "scroll",
+            "index": 6,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 7,
+            "direction": "down"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Schedule View"
+        },
+        {
+            "action_type": "scroll",
+            "index": 7,
+            "direction": "down"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Schedule View"
+        },
+        {
+            "action_type": "scroll",
+            "index": 7,
+            "direction": "down"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Schedule View"
+        }
+    ],
+    "action_output_list": [
+        "To achieve the goal of accessing the Schedule View settings, I need to open the Schedule View app first.{\"action_type\": \"open_app\", \"app_name\": \"Schedule View\"}",
+        "The current screen shows a \"Got it\" button, which should be clicked to bypass the initial information screen.{\"action_type\": \"click\", \"index\": 1}",
+        "The app is currently checking info, I need to wait for it to finish so I can access the settings.{\"action_type\": \"wait\"}",
+        "The app is still in a loading state after waiting. I need to wait again to see if it finishes loading.{\"action_type\": \"wait\"}",
+        "The current screen shows the home screen, and I need to open Schedule View to access the settings.{\"action_type\": \"open_app\", \"app_name\": \"Schedule View\"}",
+        "The app is currently on the home screen. To achieve the goal of modifying Schedule View's location settings, I must first re-open the Schedule View app.{\"action_type\": \"open_app\", \"app_name\": \"Schedule View\"}",
+        "The app is already open. To access settings, I need to explore the current screen. Settings is not visible.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 6}",
+        "The goal is to disable location access for Schedule View. The app is currently open to the app list. I need to find the Schedule View app in the list and click on it to open the app's settings.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 7}",
+        "The current screen is the app list. I need to open the Schedule View app to proceed with the goal.{\"action_type\": \"open_app\", \"app_name\": \"Schedule View\"}",
+        "The user's goal is to disable location access for the Schedule View app. Since the app is already open, I need to find the settings menu within the app to achieve this. Since the main screen is displayed and there is no immediate settings icon visible, the first logical step is to explore the screen by scrolling down to reveal any potentially hidden settings options.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 7}",
+        "The current screen is the home screen. The goal is to disable location access for the Schedule View app to protect privacy. The first step is to open the Schedule View app.{\"action_type\": \"open_app\", \"app_name\": \"Schedule View\"}",
+        "The user wants to disable location access for the Schedule View app. Currently, the app is open and showing the main screen. The next step is to find the settings option within the app. Since it's not immediately visible, I should scroll down to reveal more options.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 7}",
+        "The goal is to disable location access in the Schedule View app. The current screen is the app list, so I need to open the Schedule View app first.{\"action_type\": \"open_app\", \"app_name\": \"Schedule View\"}"
+    ]
+}

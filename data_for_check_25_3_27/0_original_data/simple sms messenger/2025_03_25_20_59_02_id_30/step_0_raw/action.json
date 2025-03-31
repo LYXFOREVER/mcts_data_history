@@ -1,0 +1,75 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        },
+        {
+            "action_type": "click",
+            "index": 20
+        },
+        {
+            "action_type": "click",
+            "index": 26
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "down"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 3
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to open the simple sms messenger app to change settings.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}",
+        "To access the settings menu, I need to find the \"More options\" button, which is usually represented by three dots.{\"action_type\": \"click\", \"index\": 20}",
+        "The user needs to open the settings menu to access the notifications settings. The 'Settings' option is available in the current screen.{\"action_type\": \"click\", \"index\": 26}",
+        "The user needs to navigate to the 'Notifications' section to disable the 'Show message preview' option. The 'Notifications' option is visible on the screen.{\"action_type\": \"click\", \"index\": 15}",
+        "The current screen shows the notifications settings. To disable the message preview, I need to scroll down to find the relevant option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "I need to scroll down to find the \"Show message preview\" option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "I need to scroll down to find the \"Show message preview\" option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "I have scrolled down multiple times and still haven't found the \"Show message preview\" option. It's possible that it's located in a different section or that I've missed it. I will try scrolling down again to make sure I haven't missed it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "I have scrolled down multiple times and still haven't found the \"Show message preview\" option. It's possible that it's located in a different section or that the option is named differently. I will try navigating back to the main settings menu and then re-enter the Notifications settings to see if that helps.{\"action_type\": \"navigate_back\"}",
+        "I re-entered the notifications settings, and I need to scroll down again to find the \"Show message preview\" option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 14}",
+        "I have scrolled down multiple times and still cannot find the \"Show message preview\" option. It is possible that the option is located in a different section or is not available on this device. I will navigate back to the main settings menu to explore other options.{\"action_type\": \"navigate_back\"}",
+        "The user is currently on the main screen of the Messages app. The goal is to disable the 'Show message preview' option. Since the previous attempts to find the option in the Notifications settings were unsuccessful, I will try to navigate to the 'General' settings to see if the option is located there.{\"action_type\": \"click\", \"index\": 3}",
+        "The user is trying to find the \"Show message preview\" option in the settings menu. Since it was not found in the previous attempts, I will try scrolling down the current screen to see if it is located further down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 14}"
+    ]
+}

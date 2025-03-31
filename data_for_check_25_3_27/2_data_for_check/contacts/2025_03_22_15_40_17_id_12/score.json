@@ -1,0 +1,4 @@
+{
+    "score": 2,
+    "reason": "The agent is trying to find the email field, but the task is to create a contact with a name and phone number. The agent is focusing on the wrong field. The agent also seems to be stuck in a loop of scrolling down and clicking \"More fields\". The agent should be focusing on the name and phone number fields first."
+}

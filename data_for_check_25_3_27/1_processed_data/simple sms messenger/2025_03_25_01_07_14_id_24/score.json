@@ -1,0 +1,4 @@
+{
+    "score": 2,
+    "reason": "The agent attempts to find the message details, but it gets stuck in a loop of clicking \"More options\" and scrolling. The agent does not successfully access the Messages application's menu options. The agent also fails to set the default SMS app."
+}

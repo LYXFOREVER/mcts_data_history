@@ -1,0 +1,4 @@
+{
+    "score": 4,
+    "reason": "The agent successfully opens the contacts app, navigates to the contact creation screen, inputs the first name, last name, scrolls down to find the phone number field, and inputs the phone number. However, the agent fails to save the contact because it tries to save before inputting the last name. The agent also tries to navigate back after saving, which is unnecessary."
+}

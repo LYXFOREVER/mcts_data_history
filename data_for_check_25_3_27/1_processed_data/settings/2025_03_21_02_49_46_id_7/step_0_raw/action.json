@@ -1,0 +1,76 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Settings"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 12
+        },
+        {
+            "action_type": "input_text",
+            "index": 8,
+            "text": "Apps"
+        },
+        {
+            "action_type": "click",
+            "index": 5
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 18,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "I need to open the settings app to modify the battery usage.{\"action_type\": \"open_app\", \"app_name\": \"Settings\"}",
+        "To find the Calendar app settings, I need to either scroll down the list to find the Apps section or search for the Calendar app directly. Since scrolling is a general action and I don't see an obvious \"Apps\" section, I'll start by scrolling down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "To find the app settings, I need to scroll down to find the \"Apps\" option, which will list all apps and their settings.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "To find the Calendar app settings, I need to go to the \"Apps\" section in Settings. \"Apps\" is not visible, so I need to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "The user is trying to navigate to the Apps section to change battery settings of the calendar app. Scrolling down is the next logical step to find the Apps section.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "The goal is to modify Calendar app's battery usage to 'Restricted'. Since I have been scrolling to find the 'Apps' section in Settings, I need to continue scrolling to check if it is available to proceed to the next step.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I have been scrolling down in Settings but haven't found 'Apps'. It's possible it's named differently or in a different location. I will try clicking on \"Search settings\" to search for 'Apps' or 'Application settings'.{\"action_type\": \"click\", \"index\": 12}",
+        "The user is trying to find the \"Apps\" section in settings. Since the search bar is visible, it is best to input the term \"Apps\" in the search bar to quickly find the app settings.{\"action_type\": \"input_text\", \"text\": \"Apps\", \"index\": 8}",
+        "The user has searched for \"Apps\" in settings. Now I need to click on the search result that leads to app settings.{\"action_type\": \"click\", \"index\": 5}",
+        "The current screen shows a list of apps. To find the Calendar app, I can scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The goal is to set the Calendar app's battery usage to 'Restricted'. The current screen shows a list of apps. I need to find the Calendar app in the list and click on it to access its settings. If it is not on the screen, I will try to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 18}",
+        "The calendar app is not visible on the current screen, so I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The current screen displays a list of installed applications. To find the Calendar app, I need to scroll down the list.{\"action_type\": \"scroll\", \"direction\": \"down\"}"
+    ]
+}

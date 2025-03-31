@@ -1,0 +1,80 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        },
+        {
+            "action_type": "click",
+            "index": 53
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to add a number to the blocked list in the SMS messenger app. First, I need to open the SMS messenger app.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}",
+        "To add a number to the blocked list, I need to go to the advanced settings.{\"action_type\": \"click\", \"index\": 53}",
+        "The current screen is \"Advanced\" settings. I need to navigate back to the main settings screen to find the \"Blocked numbers\" option.{\"action_type\": \"navigate_back\"}",
+        "To add a number to the blocked list, I need to find the \"Blocked numbers\" option in the settings. It might be visible on the screen, so I will scroll down to check.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "The current screen is the settings screen. I need to find the \"Blocked numbers\" option to add the number. The \"Blocked numbers\" option is not visible on the screen, so I need to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "The current screen is the settings screen. I need to find the \"Blocked numbers\" option to add the number. It is not visible on the screen, so I need to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "The \"Blocked numbers\" option is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "The \"Blocked numbers\" option is not visible on the screen. I need to scroll down further to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "The \"Blocked numbers\" option is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "The \"Blocked numbers\" option is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "The \"Blocked numbers\" option is not visible on the screen. I need to scroll down further to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "The goal is to add a number to the blocked list. I need to find the \"Blocked numbers\" option to proceed. The current screen is the settings screen, and I have been scrolling down to find the option. I will continue scrolling down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "The \"Blocked numbers\" option is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}"
+    ]
+}

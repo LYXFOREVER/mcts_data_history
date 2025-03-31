@@ -1,0 +1,76 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        },
+        {
+            "action_type": "click",
+            "index": 2
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 3
+        },
+        {
+            "action_type": "click",
+            "index": 2
+        },
+        {
+            "action_type": "input_text",
+            "index": 9,
+            "text": "12345"
+        },
+        {
+            "action_type": "click",
+            "index": 2
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to block a number and verify a setting in the SMS app. First, I need to open the Messages app.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}",
+        "To block the number, I need to go to settings.{\"action_type\": \"click\", \"index\": 2}",
+        "To block a number, I need to find the blocking settings. I will scroll down to find the \"Block numbers and spam\" option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to block the number '12345'. I need to click on \"Block numbers and spam\" to proceed.{\"action_type\": \"click\", \"index\": 3}",
+        "The user wants to block the number '12345'. I need to find the option to add a number to the block list.{\"action_type\": \"click\", \"index\": 2}",
+        "The user wants to block the number '12345'. I need to input the number into the text field.{\"action_type\": \"input_text\", \"text\": \"12345\", \"index\": 9}",
+        "The user has entered the number '12345' to block. Now I need to click the 'Block' button to block the number.{\"action_type\": \"click\", \"index\": 2}",
+        "The user wants to verify that 'Block messages from not stored contacts' is disabled. I need to navigate back to the main settings menu to find this option.{\"action_type\": \"navigate_back\"}",
+        "The user wants to verify that 'Block messages from not stored contacts' is disabled. I need to scroll down to find the option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "The user wants to verify that 'Block messages from not stored contacts' is disabled. I need to scroll down to find the option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "I need to scroll down to find the \"Block messages from not stored contacts\" option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "The user wants to verify that 'Block messages from not stored contacts' is disabled. The current screen shows the settings menu, and I need to scroll to find the option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "I need to scroll down to find the \"Block messages from not stored contacts\" option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        },
+        {
+            "action_type": "click",
+            "index": 20
+        },
+        {
+            "action_type": "click",
+            "index": 26
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 46
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 20
+        },
+        {
+            "action_type": "click",
+            "index": 20
+        },
+        {
+            "action_type": "click",
+            "index": 9
+        },
+        {
+            "action_type": "input_text",
+            "index": 2,
+            "text": "1234567890"
+        },
+        {
+            "action_type": "click",
+            "index": 6
+        }
+    ],
+    "action_output_list": [
+        "The user wants to disable blocking of messages from not stored contacts and add a specific number to the blocked list in the Messages app. First, I need to open the Messages app.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}",
+        "To disable blocking of messages from not stored contacts, I need to access the settings menu. The \"More options\" button usually leads to settings.{\"action_type\": \"click\", \"index\": 20}",
+        "The user wants to disable blocking of messages from not stored contacts and add a specific number to the blocked list. The current screen shows the options menu. The next step is to click on \"Settings\" to access the settings menu.{\"action_type\": \"click\", \"index\": 26}",
+        "To disable blocking of messages from not stored contacts, I need to find the \"Spam protection\" setting. Since it's not visible on the screen, I need to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}",
+        "The current screen is the settings menu. To disable blocking of messages from not stored contacts, I need to click on \"Spam protection\".{\"action_type\": \"click\", \"index\": 46}",
+        "The goal is to disable blocking of messages from not stored contacts. The current screen shows the \"Enable spam protection\" setting, which is currently checked (enabled). To disable it, I need to click on the toggle button.{\"action_type\": \"click\", \"index\": 15}",
+        "Now that spam protection is disabled, I need to navigate back to the settings menu to find the option to block numbers.{\"action_type\": \"navigate_back\"}",
+        "To block a specific number, I need to navigate back to the main screen of the Messages app.{\"action_type\": \"navigate_back\"}",
+        "To block a number, I need to find the option to block contacts. I can try to access the \"More options\" menu again.{\"action_type\": \"click\", \"index\": 20}",
+        "The current screen shows the main Messages app interface. To block a number, I can access the \"Spam & blocked\" section from the options menu.{\"action_type\": \"click\", \"index\": 20}",
+        "The user wants to add a specific number to the blocked list. The current screen is \"Spam & blocked\". To block a number, I need to click on the \"Block numbers\" option.{\"action_type\": \"click\", \"index\": 9}",
+        "The goal is to add a specific number to the blocked list. The current screen shows an input field where a number can be entered to be blocked.{\"action_type\": \"input_text\", \"text\": \"1234567890\", \"index\": 2}",
+        "The current screen shows the number entered to be blocked. The next step is to click the \"Block\" button to confirm blocking the number.{\"action_type\": \"click\", \"index\": 6}"
+    ]
+}

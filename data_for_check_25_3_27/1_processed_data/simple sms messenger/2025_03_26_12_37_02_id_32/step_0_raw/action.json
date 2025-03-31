@@ -1,0 +1,75 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        },
+        {
+            "action_type": "click",
+            "index": 3
+        },
+        {
+            "action_type": "click",
+            "index": 3
+        },
+        {
+            "action_type": "input_text",
+            "index": 3,
+            "text": "John"
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "up"
+        },
+        {
+            "action_type": "click",
+            "index": 5
+        },
+        {
+            "action_type": "click",
+            "index": 17
+        },
+        {
+            "action_type": "input_text",
+            "index": 17,
+            "text": "Hello John"
+        },
+        {
+            "action_type": "click",
+            "index": 19
+        },
+        {
+            "action_type": "answer",
+            "text": "The message has been sent."
+        },
+        {
+            "action_type": "answer",
+            "text": "Message sent to John."
+        },
+        {
+            "action_type": "answer",
+            "text": "Message sent to John."
+        }
+    ],
+    "action_output_list": [
+        "The user wants to send a new SMS message. The Messages app is on the home screen.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}",
+        "To send a new SMS message, I need to click the compose message button.{\"action_type\": \"click\", \"index\": 3}",
+        "The next step is to enter the contact to send the message to. The UI element with index 3 is the text field to enter the contact.{\"action_type\": \"click\", \"index\": 3}",
+        "The user wants to send a message to a contact. The current screen shows the \"To\" field, which is where the contact's name or number should be entered. I will type in a contact name.{\"action_type\": \"input_text\", \"text\": \"John\", \"index\": 3}",
+        "The user has typed \"John\" and now needs to select the contact from the list. I will scroll down to see if the contact is visible.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 14}",
+        "I need to select a contact to send the message to. Since I scrolled down in the previous step, I should scroll up to see if the contact \"John\" is visible.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 14}",
+        "The user is trying to send a message to a contact named John. The current screen shows a list of contacts after searching for \"John\". I need to click on the correct contact to proceed. I will click on the first contact in the list.{\"action_type\": \"click\", \"index\": 5}",
+        "I need to type the message to send to John. The text field to type the message is at index 17.{\"action_type\": \"click\", \"index\": 17}",
+        "I need to type the message to send to John.{\"action_type\": \"input_text\", \"text\": \"Hello John\", \"index\": 17}",
+        "I have finished typing the message \"Hello John\". Now I need to send the message. The send button is usually located near the text input field.{\"action_type\": \"click\", \"index\": 19}",
+        "The user has already sent the message \"Hello John\" in the previous step, and the current screen shows the main screen of the messaging app. Therefore, the goal of sending a new SMS message to a contact has been achieved.{\"action_type\": \"answer\", \"text\": \"The message has been sent.\"}",
+        "The user has already sent the message \"Hello John\" to John. The current screen shows the main screen of the messaging app. The task is complete.{\"action_type\": \"answer\", \"text\": \"Message sent to John.\"}",
+        "The user has already sent the message \"Hello John\" to John. The current screen shows the main screen of the messaging app. The task is complete.{\"action_type\": \"answer\", \"text\": \"Message sent to John.\"}"
+    ]
+}

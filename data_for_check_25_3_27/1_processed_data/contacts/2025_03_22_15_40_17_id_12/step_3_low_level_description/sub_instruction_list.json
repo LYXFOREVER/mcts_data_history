@@ -1,0 +1,10 @@
+[
+    "Open the Contacts application, displaying the \"Create contact\" screen.\n",
+    "Scroll down to view the contact creation form, revealing fields such as \"First name\", \"Last name\", and \"Company\".\n",
+    "Type \"John\" into the \"Last name\" field.\n",
+    "The current action is not reflected in the screenshots. The action is input_text with text 'Doe', but the screenshots show the user clicking the dropdown menu next to \"First name\". Therefore, I cannot provide a sub-instruction based on the current action and the corresponding changes in screenshots.\n",
+    "Click the 'Phone' text box to enter the phone number for the new contact.\n",
+    "Input the phone number '123-456-7890' into the 'Phone' field.\n",
+    "Scroll down to reveal the 'Email' and 'Significant date' fields in the contact creation form.\n",
+    "Scroll down to reveal the \"More fields\" option at the bottom of the \"Create contact\" screen.\n"
+]

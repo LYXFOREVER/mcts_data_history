@@ -1,0 +1,4 @@
+{
+    "score": 3,
+    "reason": "The agent successfully opens the app, navigates to the spam and blocked settings, and adds the specified number to the blocked list. However, it fails to unblock hidden numbers, as it assumes there are no hidden numbers blocked without actually checking. The agent clicks on \"Help & feedback\" instead of the blocked numbers list."
+}

@@ -1,0 +1,4 @@
+{
+    "score": 2,
+    "reason": "The agent starts from the home screen, opens the messages app, and then navigates to the help screen. The agent then attempts to navigate back from the help screen. However, the agent does not reach the 'Manage blocked numbers' screen. The agent is stuck in the help screen."
+}

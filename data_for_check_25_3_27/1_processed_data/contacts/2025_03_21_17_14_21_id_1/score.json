@@ -1,0 +1,4 @@
+{
+    "score": 4,
+    "reason": "The agent successfully opens the phone app, navigates to the contacts section, and begins creating a new contact. It correctly inputs the first name, last name, company, phone number, and email address. The agent also scrolls down to find the phone and email fields. Finally, the agent clicks the save button. However, the agent fails to save the contact because it did not add info to save as a contact."
+}

@@ -1,0 +1,4 @@
+{
+    "score": 1,
+    "reason": "The agent clicks on the messages app, but the app requires the user to set it as the default SMS app. The agent does not click on the button to set it as the default SMS app, and instead clicks on the search bar. The agent is stuck in a loop."
+}

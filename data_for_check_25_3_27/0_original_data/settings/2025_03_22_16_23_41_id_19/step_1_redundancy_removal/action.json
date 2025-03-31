@@ -1,0 +1,80 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Settings"
+        },
+        {
+            "action_type": "click",
+            "index": 59
+        },
+        {
+            "action_type": "click",
+            "index": 36
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 41
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 3,
+            "direction": "up"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to navigate to 'Sound & vibration' in Settings. To do this, I need to open the Settings app first.{\"action_type\": \"open_app\", \"app_name\": \"Settings\"}",
+        "The user wants to navigate to 'Sound & vibration' in Settings. The current screen is the main Settings screen, and 'Sound & vibration' is visible in the list of options.{\"action_type\": \"click\", \"index\": 59}",
+        "To change the default notification sound, I need to find the option related to notification sound. It might be under 'Ring & notification volume'.{\"action_type\": \"click\", \"index\": 36}",
+        "The current screen shows volume controls and other sound settings. To change the default notification sound, I need to find and click on the 'Default notification sound' option. Since it's not immediately visible, I should scroll down to see if it's further down the list.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 3}",
+        "The current screen displays the 'Sound & vibration' settings, and the goal is to change the default notification sound. The 'Default notification sound' option is visible and clickable, so I should click it to proceed.{\"action_type\": \"click\", \"index\": 41}",
+        "The goal is to change the default notification sound to 'Chirp'. The current screen displays a list of available notification sounds. I need to scroll down to find 'Chirp'.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 3}",
+        "I need to scroll down to find the 'Chirp' sound.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 3}",
+        "I need to scroll down to find the 'Chirp' sound.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 3}",
+        "I need to scroll down to find the 'Chirp' sound.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 3}",
+        "I need to keep scrolling down to find the 'Chirp' sound.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 3}",
+        "I need to scroll down to find the 'Chirp' sound.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 3}",
+        "I need to scroll down to find the 'Chirp' sound.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 3}",
+        "I have scrolled down multiple times and still haven't found 'Chirp'. I will try scrolling up to see if it's located higher in the list.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 3}"
+    ]
+}

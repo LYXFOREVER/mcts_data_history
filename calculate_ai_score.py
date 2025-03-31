@@ -19,7 +19,7 @@ ai_scored_trajecry_path_total_list = []
 for app_trajectry_path in app_trajectry_paths:
     print("本次要处理的app为:",app_trajectry_path)
     trajectry_paths = get_sorted_subfolder_paths(app_trajectry_path)
-    trajectry_paths.pop(0)  #########################因为原来的审查bug，不得不删掉每个app的第一个轨迹
+    #trajectry_paths.pop(0)  #########################因为原来的审查bug，不得不删掉每个app的第一个轨迹
     ai_scored_trajecry_path_total_list.extend(trajectry_paths)
 
     for trajecry_path in trajectry_paths:

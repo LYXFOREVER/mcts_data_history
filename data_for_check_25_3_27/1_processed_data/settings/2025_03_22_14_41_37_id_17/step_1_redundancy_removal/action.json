@@ -1,0 +1,71 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Settings"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to navigate to 'Apps' in Settings. I need to open the Settings app first.{\"action_type\": \"open_app\", \"app_name\": \"Settings\"}",
+        "The user wants to navigate to 'Apps' in Settings. I need to scroll down to find the 'Apps' option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to navigate to 'Apps' in Settings. The current screen shows the main Settings menu, and 'Apps' is not visible. Therefore, I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to navigate to 'Apps' in Settings. The current screen shows the Settings menu, and 'Apps' is not visible. Therefore, I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to navigate to 'Apps' in Settings. The current screen is the main Settings screen, and 'Apps' is not visible. Therefore, I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to navigate to 'Apps' in Settings. The current screen is the main Settings screen. I need to scroll down to find the 'Apps' option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to navigate to 'Apps' in Settings. The current screen is the main Settings screen. I need to scroll down to find the 'Apps' option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to navigate to 'Apps' in Settings. The current screen is the main Settings screen. I need to scroll down to find the 'Apps' option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to navigate to 'Apps' in Settings. The current screen shows the Settings menu, and I need to scroll down to find the 'Apps' option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to navigate to 'Apps' in Settings. The current screen is the main Settings screen. I need to scroll down to find the 'Apps' option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to navigate to 'Apps' in Settings. The current screen is the main Settings screen. I need to scroll down to find the 'Apps' option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to navigate to 'Apps' in Settings. The 'Apps' option is not currently visible on the screen, so I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to navigate to 'Apps' in Settings. The 'Apps' option is not currently visible on the screen, so I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}"
+    ]
+}

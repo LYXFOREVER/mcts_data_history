@@ -25,6 +25,17 @@ def get_sorted_subfolder_paths(folder_path: str | Path) -> list[Path]:
 
     return subfolder_paths
 
+def create_directory(directory_path):
+    try:
+        # 如果文件夹不存在，则创建文件夹
+        if not os.path.exists(directory_path):
+            os.makedirs(directory_path)
+            print(f"Directory created: {directory_path}")
+        else:
+            print(f"Directory already exists: {directory_path}")
+    except OSError as error:
+        print(f"Error: {error.strerror}. Directory: {directory_path}")
+
 def copy_folder(src: str, dst: str) -> None:
     """
     复制整个文件夹（包括文件夹本身）到目标路径。
@@ -54,6 +65,55 @@ def copy_folder(src: str, dst: str) -> None:
     except Exception as e:
         print(f"复制文件夹时出错：{e}")
         print("目标文件夹可能已存在。本次操作不会覆盖该文件夹")
+
+def copy_files(src_dir, dst_dir):
+    # 检查源文件夹是否存在
+    if not os.path.exists(src_dir):
+        print(f"Source directory does not exist: {src_dir}")
+        return
+    
+    # 检查目标文件夹是否存在，如果不存在则创建
+    if not os.path.exists(dst_dir):
+        os.makedirs(dst_dir)
+        print(f"Destination directory created: {dst_dir}")
+    
+    # 遍历源文件夹中的所有文件
+    for filename in os.listdir(src_dir):
+        src_file = os.path.join(src_dir, filename)
+        dst_file = os.path.join(dst_dir, filename)
+        
+        # 确保是文件而不是文件夹
+        if os.path.isfile(src_file):
+            # 复制文件
+            shutil.copy2(src_file, dst_file)
+            print(f"Copied file: {src_file} to {dst_file}")
+
+def copy_files_except_pkl(src_dir, dst_dir):
+    # 检查源文件夹是否存在
+    if not os.path.exists(src_dir):
+        print(f"Source directory does not exist: {src_dir}")
+        return
+    
+    # 检查目标文件夹是否存在，如果不存在则创建
+    if not os.path.exists(dst_dir):
+        os.makedirs(dst_dir)
+        print(f"Destination directory created: {dst_dir}")
+    
+    # 遍历源文件夹中的所有文件
+    for filename in os.listdir(src_dir):
+        src_file = os.path.join(src_dir, filename)
+        dst_file = os.path.join(dst_dir, filename)
+        
+        # 确保是文件而不是文件夹
+        if os.path.isfile(src_file):
+            # 忽略以 .pkl 结尾的文件
+            if filename.endswith('.pkl'):
+                print(f"Skipping file: {src_file} (ends with .pkl)")
+                continue
+            
+            # 复制文件
+            shutil.copy2(src_file, dst_file)
+            print(f"Copied file: {src_file} to {dst_file}")
 
 def write_list_to_excel(data_list, output_file):
     """

@@ -1,0 +1,76 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Simple Gallery Pro"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "scroll",
+            "index": 6,
+            "direction": "down"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Simple Gallery Pro"
+        },
+        {
+            "action_type": "click",
+            "index": 9
+        },
+        {
+            "action_type": "input_text",
+            "index": 8,
+            "text": "yVwbHK25OR"
+        },
+        {
+            "action_type": "click",
+            "index": 22
+        }
+    ],
+    "action_output_list": [
+        "The user wants to edit a video in Simple Gallery Pro. I need to open the app first.{\"action_type\": \"open_app\", \"app_name\": \"Simple Gallery Pro\"}",
+        "The current screen shows a gallery of images and videos. To edit the video 'yVwbHK25OR', I need to find and click on it. Since the video is not immediately visible, I will scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "The video 'yVwbHK25OR' is not visible on the current screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "I need to find the video 'yVwbHK25OR' on the screen to edit it. Since it's not visible, I should scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "The video 'yVwbHK25OR' is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "I need to find the video 'yVwbHK25OR' to edit it. Since it's not visible on the screen, I should scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "I have been scrolling down repeatedly but haven't found the video. It's possible the video is located elsewhere or I'm missing something. I will try navigating back to the main screen of the app to see if I can locate the video from there.{\"action_type\": \"navigate_back\"}",
+        "The video 'yVwbHK25OR' was not found in the previous attempts to scroll down. It's possible that the video is located in a different folder or view within the app. I will try to navigate back to the main screen of the app to see if I can locate the video from there.{\"action_type\": \"navigate_back\"}",
+        "The video 'yVwbHK25OR' was not found in the previous attempts by scrolling down. It's possible that the video is located in a different folder or view within the app. I will try to scroll the screen to see if there are any other folders or views available.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 6}",
+        "The video 'yVwbHK25OR' was not found by scrolling down. It might be in a different folder or view. I will try to open the gallery app again to refresh the view and see if the video appears.{\"action_type\": \"open_app\", \"app_name\": \"Simple Gallery Pro\"}",
+        "The video 'yVwbHK25OR' was not found by scrolling. I will try to use the search function to find the video.{\"action_type\": \"click\", \"index\": 9}",
+        "The user wants to search for the video 'yVwbHK25OR'. The search bar is available on the screen.{\"action_type\": \"input_text\", \"text\": \"yVwbHK25OR\", \"index\": 8}",
+        "The video 'yVwbHK25OR' is found after searching. Now I need to click on it to open it for editing.{\"action_type\": \"click\", \"index\": 22}"
+    ]
+}

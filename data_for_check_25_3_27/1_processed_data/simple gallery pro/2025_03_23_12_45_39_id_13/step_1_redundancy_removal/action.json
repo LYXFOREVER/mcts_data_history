@@ -1,0 +1,71 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Simple Gallery Pro"
+        },
+        {
+            "action_type": "click",
+            "index": 6
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 2,
+            "direction": "down"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 0
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 0,
+            "direction": "down"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 0
+        }
+    ],
+    "action_output_list": [
+        "The user wants to edit a video in Simple Gallery Pro. I need to open the app first.{\"action_type\": \"open_app\", \"app_name\": \"Simple Gallery Pro\"}",
+        "The current screen shows the gallery. I need to select the video to edit. I will click on the first video.{\"action_type\": \"click\", \"index\": 6}",
+        "The current screen shows the gallery view. To edit the video, I need to find the edit option. I will try clicking the \"More options\" button to see if it contains the edit function.{\"action_type\": \"click\", \"index\": 15}",
+        "The current screen shows a list of options after clicking the \"More options\" button. I need to scroll down to see if there is an \"Edit\" or \"Trim\" option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The current screen shows a list of options after clicking the \"More options\" button. I need to scroll down to find the \"Edit\" or \"Trim\" option to edit the video.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The goal is to trim the video, but the current screen shows a list of options that don't include \"Edit\" or \"Trim\". I need to scroll down to see if those options are available.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 2}",
+        "I have been scrolling down to find the \"Edit\" or \"Trim\" option, but it is not visible. I will try navigating back to the video player screen to see if the edit option is available there.{\"action_type\": \"navigate_back\"}",
+        "The current screen shows a gallery view. I need to open a video to edit it. I will click on the first video in the gallery.{\"action_type\": \"click\", \"index\": 0}",
+        "The user wants to edit a video by trimming it. I need to find the edit option. I will try clicking the \"More options\" button again to see if the edit option is available.{\"action_type\": \"click\", \"index\": 15}",
+        "The user wants to edit the video, and I have clicked the \"More options\" button. Now I need to scroll down to find the \"Edit\" or \"Trim\" option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find the \"Edit\" or \"Trim\" option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 0}",
+        "I have been scrolling down the options list multiple times and still haven't found the \"Edit\" or \"Trim\" option. It's possible that the edit option is not available in this menu. I will navigate back to the video player screen to see if there are any other options available there.{\"action_type\": \"navigate_back\"}",
+        "The user is trying to edit a video in Simple Gallery Pro and has been unable to find the edit/trim option in the options menu. The current screen shows the gallery view. I will try opening a video and looking for an edit button on the video player screen itself. I will click on the first video in the gallery.{\"action_type\": \"click\", \"index\": 0}"
+    ]
+}

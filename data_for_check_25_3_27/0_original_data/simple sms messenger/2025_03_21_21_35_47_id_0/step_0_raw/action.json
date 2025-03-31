@@ -1,0 +1,69 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        },
+        {
+            "action_type": "click",
+            "index": 20
+        },
+        {
+            "action_type": "click",
+            "index": 22
+        },
+        {
+            "action_type": "click",
+            "index": 10
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 20
+        },
+        {
+            "action_type": "click",
+            "index": 26
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 46
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 9,
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to block messages from not stored contacts and add the number 5551234567 to the blocked list. First, I need to open the Messages app.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}",
+        "To block messages from unknown contacts and add a specific number to the blocked list, I need to access the settings menu. The \"More options\" button usually leads to settings.{\"action_type\": \"click\", \"index\": 20}",
+        "The current screen shows the settings menu. To block messages from unknown contacts and add a number to the blocked list, I should navigate to the \"Spam & blocked\" section.{\"action_type\": \"click\", \"index\": 22}",
+        "To block unknown numbers, I need to find the setting to block numbers not in contacts.{\"action_type\": \"click\", \"index\": 10}",
+        "The current screen does not have an option to block unknown numbers. I need to navigate back to the previous screen to see if there is an option there.{\"action_type\": \"navigate_back\"}",
+        "The current screen is \"Spam & blocked\". I need to find the settings to block unknown numbers. I will navigate back to the previous screen to see if the option is there.{\"action_type\": \"navigate_back\"}",
+        "The current screen does not have the option to block unknown numbers. I will try to find the option in the settings menu.{\"action_type\": \"click\", \"index\": 20}",
+        "The user wants to block messages from unknown contacts and add a specific number to the blocked list. The current screen is the settings menu. \"Settings\" is an option that might contain the desired settings.{\"action_type\": \"click\", \"index\": 26}",
+        "The current screen shows the settings for the Messages app. I need to find the \"Spam protection\" setting to block messages from unknown contacts.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "To block messages from unknown contacts, I need to enable spam protection.{\"action_type\": \"click\", \"index\": 46}",
+        "The current screen is the \"Spam protection\" settings page. I need to navigate back to the main settings page to find the \"Blocked numbers\" option.{\"action_type\": \"navigate_back\"}",
+        "The current screen is the settings screen. I need to find the \"Blocked numbers\" option to add the number 5551234567 to the blocked list.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to add a number to the blocked list. The current screen is the settings screen. I need to find the \"Blocked numbers\" option and click on it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 9}"
+    ]
+}

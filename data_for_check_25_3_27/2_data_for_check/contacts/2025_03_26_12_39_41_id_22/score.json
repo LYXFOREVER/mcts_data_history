@@ -1,0 +1,4 @@
+{
+    "score": 2,
+    "reason": "The agent attempts to search for the contact \"John Doe\" and then scrolls down when it's not immediately visible. However, it gets stuck in a loop of scrolling and re-searching. The task is not completed."
+}

@@ -1,0 +1,68 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Settings"
+        },
+        {
+            "action_type": "click",
+            "index": 28
+        },
+        {
+            "action_type": "click",
+            "index": 8
+        },
+        {
+            "action_type": "click",
+            "index": 8
+        },
+        {
+            "action_type": "click",
+            "index": 8
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 2
+        },
+        {
+            "action_type": "click",
+            "index": 4
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 28
+        },
+        {
+            "action_type": "click",
+            "index": 8
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 28
+        }
+    ],
+    "action_output_list": [
+        "The user wants to navigate to the settings app to change network settings.{\"action_type\": \"open_app\", \"app_name\": \"Settings\"}",
+        "The goal is to navigate to 'Network & Internet'. This option is visible on the screen.{\"action_type\": \"click\", \"index\": 28}",
+        "The goal is to navigate to Wi-Fi settings. The current screen shows the \"Network & Internet\" settings. The next step is to click on \"Wi-Fi\".{\"action_type\": \"click\", \"index\": 8}",
+        "The goal is to view saved Wi-Fi networks. After navigating to \"Network & Internet\", the next step is to go to \"Wi-Fi\".{\"action_type\": \"click\", \"index\": 8}",
+        "The user wants to navigate to Wi-Fi settings to view saved networks. The current screen displays network settings, and \"Wi-Fi\" is a clickable option.{\"action_type\": \"click\", \"index\": 8}",
+        "The user has been repeatedly clicking on \"Network & Internet\" without progressing towards the goal of viewing saved Wi-Fi networks. It's likely that the app is not responding as expected. A possible solution is to navigate back to the main settings menu and try again.{\"action_type\": \"navigate_back\"}",
+        "The goal is to navigate to 'Network & Internet', then 'Wi-Fi' and view the saved Wi-Fi networks. 'Network & Internet' is visible on the screen, so I should click it.{\"action_type\": \"click\", \"index\": 2}",
+        "The goal is to navigate to Wi-Fi settings. Since we are in the main settings menu, clicking on \"Network & Internet\" is the correct step to proceed.{\"action_type\": \"click\", \"index\": 4}",
+        "The goal is to navigate to Wi-Fi settings to view saved networks. Currently, the screen shows settings for \"Passwords & accounts\". I need to navigate back to the main settings menu to find \"Network & Internet\".{\"action_type\": \"navigate_back\"}",
+        "The user wants to navigate to 'Network & Internet' in app settings. The current screen is the main settings menu. 'Network & Internet' is visible on the screen.{\"action_type\": \"click\", \"index\": 28}",
+        "The user wants to navigate to 'Wi-Fi' settings. The current screen is the main settings menu. To achieve this, the user needs to click on 'Network & Internet'.{\"action_type\": \"click\", \"index\": 8}",
+        "The current screen does not have the option to navigate to 'Wi-Fi'. Need to navigate back to the main settings menu to find 'Network & Internet'.{\"action_type\": \"navigate_back\"}",
+        "The goal is to navigate to 'Network & Internet', then go to 'Wi-Fi' and view the saved Wi-Fi networks. The current screen is the main settings menu. I need to click on 'Network & Internet' to proceed.{\"action_type\": \"click\", \"index\": 28}"
+    ]
+}

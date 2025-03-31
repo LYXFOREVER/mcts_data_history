@@ -1,0 +1,76 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Contacts"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 45,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 45,
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 37
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 45,
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 37
+        },
+        {
+            "action_type": "click",
+            "index": 33
+        },
+        {
+            "action_type": "click",
+            "index": 47
+        },
+        {
+            "action_type": "input_text",
+            "index": 33,
+            "text": "Jane"
+        },
+        {
+            "action_type": "input_text",
+            "index": 37,
+            "text": "Doe"
+        },
+        {
+            "action_type": "click",
+            "index": 65
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new contact. The first step is to open the contacts app.{\"action_type\": \"open_app\", \"app_name\": \"Contacts\"}",
+        "To create a new contact, I need to find the add contact button. It is usually represented by a plus icon or the words \"create contact\". I will start by scrolling down to see if there is a plus icon or create contact button.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The current screen displays a list of contacts. To create a new contact, I need to find a button or option that allows me to add a new contact. Since I don't see an obvious \"+\" button, I will try to scroll down to see if there is a \"create contact\" button.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 45}",
+        "The current screen shows a list of contacts. To create a new contact, I need to find a \"create contact\" button or a plus icon. Since I haven't found it yet, I will scroll down to see if it's available.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 45}",
+        "I have been scrolling down the contacts list for several steps and haven't found a \"create contact\" button or a plus icon. I will try clicking the \"More options\" button to see if there is an option to create a new contact.{\"action_type\": \"click\", \"index\": 37}",
+        "The current screen shows a list of contacts. To create a new contact, I need to find a \"create contact\" button or a plus icon. Since I haven't found one yet, I will scroll down to see if there is one.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The current screen shows a list of contacts. To create a new contact, I need to find a \"create contact\" button or a plus icon. Since I haven't found one yet, I will try scrolling down the screen to see if it's located further down the list.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 45}",
+        "The previous attempts to find a \"create contact\" button by scrolling have been unsuccessful. The current screen shows a \"Search contacts\" field and a \"More options\" button. I will try clicking the \"More options\" button to see if there is a \"create contact\" option in the menu.{\"action_type\": \"click\", \"index\": 37}",
+        "The current screen shows a list of contacts. I need to find a way to create a new contact. Since scrolling and clicking \"More options\" haven't worked, I will try opening the navigation drawer to see if there's a \"create contact\" option there.{\"action_type\": \"click\", \"index\": 33}",
+        "The current screen shows the navigation drawer. The drawer contains a \"Create contact\" option.{\"action_type\": \"click\", \"index\": 47}",
+        "The user wants to create a contact with the name 'Jane Doe'. The current screen is the contact creation screen. The next step is to input the first name.{\"action_type\": \"input_text\", \"text\": \"Jane\", \"index\": 33}",
+        "The user wants to create a contact with the name 'Jane Doe'. I have already entered 'Jane' as the first name. Now I need to enter 'Doe' as the last name.{\"action_type\": \"input_text\", \"text\": \"Doe\", \"index\": 37}",
+        "The user wants to add a phone number to the contact. The \"Phone\" field is visible and clickable, so I should click it to add the phone number.{\"action_type\": \"click\", \"index\": 65}"
+    ]
+}
