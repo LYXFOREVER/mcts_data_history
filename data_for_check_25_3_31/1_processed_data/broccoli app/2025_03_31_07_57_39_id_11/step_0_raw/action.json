@@ -1,0 +1,72 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Broccoli"
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        },
+        {
+            "action_type": "click",
+            "index": 0
+        },
+        {
+            "action_type": "input_text",
+            "index": 11,
+            "text": "Delicious Broccoli"
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 5
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new recipe in the Broccoli app. To do this, I need to open the Broccoli app first.{\"action_type\": \"open_app\", \"app_name\": \"Broccoli\"}",
+        "The user wants to create a new recipe. The current screen shows options to create a new recipe or import one. I should click on the \"create a new recipe\" option.{\"action_type\": \"click\", \"index\": 24}",
+        "The user wants to create a new recipe and the current screen is the recipe creation screen. The first step is to pick a photo from the gallery. The button to add a photo is at index 27.{\"action_type\": \"click\", \"index\": 27}",
+        "The current screen shows a list of images, presumably from the gallery. I need to select one to use as the recipe photo. I will click on the first image to select it.{\"action_type\": \"click\", \"index\": 0}",
+        "The next step is to name the recipe. I need to input the recipe name \"Delicious Broccoli\" into the text field.{\"action_type\": \"input_text\", \"text\": \"Delicious Broccoli\", \"index\": 11}",
+        "The next step is to select the category for the recipe. The UI element with the text \"Categories\" is clickable and should allow me to select the category.{\"action_type\": \"click\", \"index\": 16}",
+        "The user wants to select the category 'Vegetarian'. I need to scroll to see if it is visible.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to select the 'Vegetarian' category. The current screen shows a list of categories, and I need to click on the 'Vegetarian' category to select it.{\"action_type\": \"click\", \"index\": 5}",
+        "The next step is to add a description to the recipe. I need to scroll down to find the description field.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to add a description to the recipe. I need to find the description field and input the text.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to add a description to the recipe. I need to scroll down to find the description field.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find the description field.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find the description field.{\"action_type\": \"scroll\", \"direction\": \"down\"}"
+    ]
+}

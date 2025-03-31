@@ -1,0 +1,77 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Pro Expense"
+        },
+        {
+            "action_type": "click",
+            "index": 31
+        },
+        {
+            "action_type": "click",
+            "index": 11
+        },
+        {
+            "action_type": "input_text",
+            "index": 11,
+            "text": "Lunch"
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "input_text",
+            "index": 11,
+            "text": "15"
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 0,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "up"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to add a new expense entry in the Pro Expense app. To do this, I need to first open the app.{\"action_type\": \"open_app\", \"app_name\": \"Pro Expense\"}",
+        "To add a new expense entry, I need to click the '+' button.{\"action_type\": \"click\", \"index\": 31}",
+        "The user wants to add a new expense entry with the name 'Lunch'. The current screen is the home screen of the app. I need to click on the field where the expense name should be entered.{\"action_type\": \"click\", \"index\": 11}",
+        "The user wants to add a new expense entry with the name 'Lunch'. I need to input the name into the expense entry field.{\"action_type\": \"input_text\", \"text\": \"Lunch\", \"index\": 11}",
+        "Now I need to input the amount '15' into the amount field.{\"action_type\": \"click\", \"index\": 13}",
+        "Now I need to input the amount '15' into the amount field.{\"action_type\": \"input_text\", \"text\": \"15\", \"index\": 11}",
+        "The user wants to select the category 'Food'. I need to click on the category field to open the category selection.{\"action_type\": \"click\", \"index\": 13}",
+        "The user wants to select 'Food' as the category. The current screen shows a list of categories. I need to find 'Food' in the list and click on it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The 'Food' category might be available by scrolling down further.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 0}",
+        "The 'Food' category might be found by scrolling down further.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I have been scrolling down to find the 'Food' category, but it's still not visible. I will try scrolling down again to see if it appears.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "I have been scrolling down the list of categories but haven't found 'Food' yet. I will try scrolling down again to see if it appears.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "I have been scrolling down to find the 'Food' category, but it is still not visible. I will try scrolling up to see if it is located at the top of the list.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 13}"
+    ]
+}

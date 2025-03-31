@@ -1,0 +1,73 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Clock"
+        },
+        {
+            "action_type": "click",
+            "index": 18
+        },
+        {
+            "action_type": "click",
+            "index": 22
+        },
+        {
+            "action_type": "click",
+            "index": 25
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 35
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "scroll",
+            "index": 21,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 5,
+            "direction": "up"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 7
+        }
+    ],
+    "action_output_list": [
+        "The user wants to set an alarm in the clock app.{\"action_type\": \"open_app\", \"app_name\": \"Clock\"}",
+        "The user wants to set the 15:25 alarm to ring only on Tuesdays and Fridays. The alarm is already set to ring on Tuesdays and Fridays, so I need to change the alarm sound to 'Echo'. To do this, I need to click on the alarm to expand it.{\"action_type\": \"click\", \"index\": 18}",
+        "The user wants to set the alarm to ring only on Tuesdays and Fridays. The current screen shows a calendar, so I should select the desired days.{\"action_type\": \"click\", \"index\": 22}",
+        "I need to select Friday as another day for the alarm to ring.{\"action_type\": \"click\", \"index\": 25}",
+        "The user has selected Tuesday and Friday for the alarm. Now I need to change the alarm sound. I need to navigate back to the alarm settings screen.{\"action_type\": \"navigate_back\"}",
+        "The user wants to change the alarm sound. The current screen shows the alarm settings, and \"Default (Cesium)\" is the current alarm sound. Clicking on it should allow the user to change the alarm sound.{\"action_type\": \"click\", \"index\": 35}",
+        "The previous attempt to change the alarm sound resulted in a prompt to choose an app for music alarms, which is not the desired behavior. I will try navigating back to the main clock screen and then re-enter the alarm settings to see if it resolves the issue.{\"action_type\": \"navigate_back\"}",
+        "The user wants to change the alarm sound to 'Echo'. The current screen shows a list of alarm sounds. I need to scroll down to find 'Echo'.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 21}",
+        "I need to scroll down to find the 'Echo' alarm sound.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "I need to scroll down to find the 'Echo' alarm sound.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 5}",
+        "I have scrolled down multiple times and still haven't found 'Echo'. I will try scrolling up to see if it's located higher in the list.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 5}",
+        "I have scrolled up and still haven't found 'Echo'. I will try scrolling down again, but this time I will scroll down the entire screen instead of the scrollable list.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to click on \"Alarm sound\" to change the alarm sound.{\"action_type\": \"click\", \"index\": 7}"
+    ]
+}

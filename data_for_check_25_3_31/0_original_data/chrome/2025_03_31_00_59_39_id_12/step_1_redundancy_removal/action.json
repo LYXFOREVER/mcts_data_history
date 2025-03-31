@@ -1,0 +1,71 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Chrome"
+        },
+        {
+            "action_type": "click",
+            "index": 37
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "up"
+        },
+        {
+            "action_type": "click",
+            "index": 6
+        }
+    ],
+    "action_output_list": [
+        "The user wants to turn on sync for Chrome by adding a Google account. First, I need to open the Chrome app.{\"action_type\": \"open_app\", \"app_name\": \"Chrome\"}",
+        "To turn on sync, I need to access the Chrome settings. The \"More options\" button (three dots) usually leads to settings.{\"action_type\": \"click\", \"index\": 37}",
+        "The user wants to turn on sync for the Chrome browser by adding a Google account. The current screen shows the Chrome settings menu. The next step is to find the \"Sync and Google services\" option and click on it. Since it's not visible, I need to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The goal is to turn on sync for the Chrome browser by adding a Google account. The current screen is the Chrome settings. I need to find the \"Sync and Google services\" option to proceed. Since it's not visible, I need to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The goal is to turn on sync for the Chrome browser by adding a Google account. The current screen is the Chrome settings page. I need to find the \"Sync and Google services\" option to proceed. Since it's not visible, I need to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find the \"Sync and Google services\" option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find the \"Sync and Google services\" option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The goal is to turn on sync for the Chrome browser by adding a Google account. I need to find the \"Sync and Google services\" option in the settings. Since it's not visible, I should scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find the \"Sync and Google services\" option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find the \"Sync and Google services\" option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find the \"Sync and Google services\" option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I have been scrolling down repeatedly and haven't found the \"Sync and Google services\" option. It's possible that it's located higher up in the settings, or that I need to sign in first. I will try scrolling up to see if it's there.{\"action_type\": \"scroll\", \"direction\": \"up\"}",
+        "I have been scrolling up and down and haven't found the \"Sync and Google services\" option. I will try clicking on my profile icon to see if I can add an account from there.{\"action_type\": \"click\", \"index\": 6}"
+    ]
+}

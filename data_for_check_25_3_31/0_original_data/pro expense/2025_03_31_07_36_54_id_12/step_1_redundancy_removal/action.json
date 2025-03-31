@@ -1,0 +1,73 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Pro Expense"
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "input_text",
+            "index": 11,
+            "text": "Expense Name"
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "input_text",
+            "index": 11,
+            "text": "10"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new expense entry. I need to open the Pro Expense app to do that.{\"action_type\": \"open_app\", \"app_name\": \"Pro Expense\"}",
+        "The user wants to create a new expense entry. The current screen shows the main expense list. To create a new entry, I need to click the '+' button.{\"action_type\": \"click\", \"index\": 24}",
+        "The user wants to create a new expense entry. The first step is to input the name of the expense.{\"action_type\": \"input_text\", \"text\": \"Expense Name\", \"index\": 11}",
+        "The user wants to create a new expense entry and has already entered the name. The next step is to enter the amount. I should click on the amount field to enter the amount.{\"action_type\": \"click\", \"index\": 13}",
+        "The next step is to input the amount for the expense.{\"action_type\": \"input_text\", \"text\": \"10\", \"index\": 11}",
+        "The user needs to fill out the 'Food' field. I will scroll down to find the 'Food' field.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user needs to fill out the 'Food' field. I need to scroll down to find the 'Food' field.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The 'Food' field is not visible, so I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user needs to fill out the 'Food' field. Since it's not visible, I need to scroll down further.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The 'Food' field is not visible, so I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The 'Food' field is not visible, so I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The 'Food' field is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The 'Food' field is not visible, so I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Broccoli"
+        },
+        {
+            "action_type": "click",
+            "index": 9
+        },
+        {
+            "action_type": "scroll",
+            "index": 41,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 41,
+            "direction": "up"
+        },
+        {
+            "action_type": "click",
+            "index": 28
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 9
+        },
+        {
+            "action_type": "click",
+            "index": 30
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 11
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 11
+        },
+        {
+            "action_type": "navigate_back"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to share the Broccoli app. I need to open the Broccoli app first.{\"action_type\": \"open_app\", \"app_name\": \"Broccoli\"}",
+        "The user wants to share the Broccoli app with a friend using the Messages app. I need to find a share option within the Broccoli app. Since I don't see an obvious share button, I will try opening the navigation drawer to see if there's a share option there.{\"action_type\": \"click\", \"index\": 9}",
+        "The current screen shows the navigation drawer of the Broccoli app. I need to find an option to share the app. I will scroll down to see if there is a share option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 41}",
+        "I need to find a share option in the menu. Since I have already scrolled down once, I will try scrolling up to see if there is a share option.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 41}",
+        "I have scrolled up and down the navigation drawer, but there is no share option. I will try to open the settings to see if there is a share option there.{\"action_type\": \"click\", \"index\": 28}",
+        "There is no share option in the settings menu. I will navigate back to the previous screen.{\"action_type\": \"navigate_back\"}",
+        "The current screen shows the main screen of the Broccoli app. I need to find a share option to share the app with a friend. I will try opening the navigation drawer again to see if I missed the share option before.{\"action_type\": \"click\", \"index\": 9}",
+        "I have tried opening the navigation drawer and looking for a share option, but there is no such option available. I will now try to look for a share option within the \"About the app\" section.{\"action_type\": \"click\", \"index\": 30}",
+        "I have explored the navigation drawer and the \"About the app\" section, but I haven't found a share option. I will try to navigate back to the main screen of the app to see if there is a share option there.{\"action_type\": \"navigate_back\"}",
+        "I have been trying to find a share option within the Broccoli app itself, but it seems there isn't one. I will now try to share the recipe directly from the recipe list. I will click on the first recipe to open it.{\"action_type\": \"click\", \"index\": 11}",
+        "I have been trying to find a share option within the app, but it seems there isn't one. I will try to use the system's share sheet by looking for a share button in the recipe details.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 11}",
+        "I have been trying to find a share option within the Broccoli app itself, but it seems there isn't one. I will now try to share the recipe by using the system's share functionality. I will click on a recipe to open it.{\"action_type\": \"click\", \"index\": 11}",
+        "There is no share option visible on the current screen. I will navigate back to the main screen to look for a share option there.{\"action_type\": \"navigate_back\"}"
+    ]
+}

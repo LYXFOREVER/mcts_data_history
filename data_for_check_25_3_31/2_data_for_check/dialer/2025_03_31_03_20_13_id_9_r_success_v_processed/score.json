@@ -1,0 +1,4 @@
+{
+    "score": 1,
+    "reason": "The agent opens the Phone app, but the goal is to browse contacts in the Phone app and then return to the home screen. The agent is trying to find a voicemail tab and is not browsing contacts. The agent is not following the instructions."
+}

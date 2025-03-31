@@ -3,7 +3,7 @@
 """
 import os
 from process_data_util import *
-parent_folder_path = "data_for_check_25_3_27/2_data_for_check"
+parent_folder_path = "data_for_check_25_3_31/2_data_for_check"
 folder_paths = get_sorted_subfolder_paths(parent_folder_path)
 total_lenth = 0
 for folder_path in folder_paths:

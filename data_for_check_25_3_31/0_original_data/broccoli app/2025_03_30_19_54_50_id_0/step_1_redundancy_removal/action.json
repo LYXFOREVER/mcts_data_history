@@ -1,0 +1,77 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Broccoli"
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "input_text",
+            "index": 11,
+            "text": "Broccoli Salad"
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        },
+        {
+            "action_type": "input_text",
+            "index": 0,
+            "text": "Salad"
+        },
+        {
+            "action_type": "click",
+            "index": 11
+        },
+        {
+            "action_type": "input_text",
+            "index": 3,
+            "text": "A healthy and delicious salad"
+        },
+        {
+            "action_type": "click",
+            "index": 4
+        },
+        {
+            "action_type": "input_text",
+            "index": 27,
+            "text": "Grandma's recipe book"
+        },
+        {
+            "action_type": "click",
+            "index": 4
+        },
+        {
+            "action_type": "input_text",
+            "index": 7,
+            "text": "4"
+        },
+        {
+            "action_type": "click",
+            "index": 6
+        },
+        {
+            "action_type": "input_text",
+            "index": 7,
+            "text": "20 minutes"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new recipe in the Broccoli app. To do this, I need to open the Broccoli app first.{\"action_type\": \"open_app\", \"app_name\": \"Broccoli\"}",
+        "The user wants to create a new recipe. The current screen shows the main page of the Broccoli app. The \"create a new recipe\" button is visible and clickable.{\"action_type\": \"click\", \"index\": 24}",
+        "The user wants to create a recipe for 'Broccoli Salad'. The current screen is the recipe creation screen. The first step is to input the recipe name.{\"action_type\": \"input_text\", \"text\": \"Broccoli Salad\", \"index\": 11}",
+        "The next step is to input the category for the recipe.{\"action_type\": \"click\", \"index\": 27}",
+        "The user needs to input the category for the recipe. The current screen shows a list of categories. The user wants to set the category to 'Salad'. I should input 'Salad' into the category field.{\"action_type\": \"input_text\", \"text\": \"Salad\", \"index\": 0}",
+        "Now that the category has been entered, I need to input the description for the recipe.{\"action_type\": \"click\", \"index\": 11}",
+        "The next step is to input the description for the recipe. The description field is currently visible and clickable.{\"action_type\": \"input_text\", \"text\": \"A healthy and delicious salad\", \"index\": 3}",
+        "The next step is to input the source of the recipe.{\"action_type\": \"click\", \"index\": 4}",
+        "The next step is to input the source of the recipe, which is \"Grandma's recipe book\".{\"action_type\": \"input_text\", \"text\": \"Grandma's recipe book\", \"index\": 27}",
+        "The next step is to input the number of servings. I need to click on the servings field to input the number of servings.{\"action_type\": \"click\", \"index\": 4}",
+        "The next step is to input the number of servings. The \"Servings\" field has already been clicked, so I need to input the number of servings.{\"action_type\": \"input_text\", \"text\": \"4\", \"index\": 7}",
+        "The next step is to input the time for the recipe.{\"action_type\": \"click\", \"index\": 6}",
+        "The user needs to input the time for the recipe. The next step is to input the time '20 minutes' into the time field.{\"action_type\": \"input_text\", \"text\": \"20 minutes\", \"index\": 7}"
+    ]
+}

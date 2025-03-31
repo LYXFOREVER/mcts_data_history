@@ -1,0 +1,73 @@
+{
+    "action_list": [
+        {
+            "action_type": "click",
+            "index": 2
+        },
+        {
+            "action_type": "scroll",
+            "index": 6,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 7,
+            "direction": "down"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Phone"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to check the recent calls list for missed calls from yesterday. The phone app is already open, so I should check the call history.{\"action_type\": \"click\", \"index\": 2}",
+        "The current screen shows the call history. I need to scroll down to check for missed calls from yesterday.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 6}",
+        "To check for missed calls from yesterday, I need to scroll down the list to see if there are any missed calls indicated by a red phone icon or the word \"missed\".{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 7}",
+        "The user wants to check the recent calls list for missed calls from yesterday. I need to open the Phone app to do this.{\"action_type\": \"open_app\", \"app_name\": \"Phone\"}",
+        "The user wants to check for missed calls from yesterday. The current screen shows the call history. I need to scroll down to see calls from yesterday.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find any missed calls from yesterday.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to check for missed calls from yesterday.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find missed calls from yesterday.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to check for missed calls from yesterday.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to check for missed calls from yesterday.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to continue scrolling down to check for missed calls from yesterday.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to continue scrolling down to check for missed calls from yesterday.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to check for missed calls from yesterday.{\"action_type\": \"scroll\", \"direction\": \"down\"}"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Phone"
+        },
+        {
+            "action_type": "click",
+            "index": 11
+        },
+        {
+            "action_type": "input_text",
+            "index": 48,
+            "text": "John Smith"
+        },
+        {
+            "action_type": "wait"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "navigate_back"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to search for 'John Smith' in contacts using the dialer app. The first step is to open the dialer app.{\"action_type\": \"open_app\", \"app_name\": \"Phone\"}",
+        "The user wants to search for 'John Smith' in contacts. The current screen shows the contacts list in the Phone app. The next step is to click on the search bar to type the name. The search bar is at index 11.{\"action_type\": \"click\", \"index\": 11}",
+        "The goal is to search for 'John Smith' in contacts. The search bar is already open, so I need to input the text 'John Smith' into the search field.{\"action_type\": \"input_text\", \"text\": \"John Smith\", \"index\": 48}",
+        "The user has already typed \"John Smith\" into the search field. The next step is to wait and see if the contact appears.{\"action_type\": \"wait\"}",
+        "The contact \"John Smith\" should be displayed on the screen after typing in the search bar. If it is not visible, I can try scrolling down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The contact \"John Smith\" is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The contact \"John Smith\" is not visible on the screen. I need to scroll down further to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The contact \"John Smith\" is not visible on the screen. I need to scroll down further to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The contact \"John Smith\" is not visible on the screen. I need to scroll down further to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The contact \"John Smith\" is not visible on the screen. I need to scroll down further to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The contact \"John Smith\" is not visible on the screen. I need to scroll down further to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The contact \"John Smith\" is not visible on the screen. I need to scroll down further to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The contact \"John Smith\" is still not visible after multiple scrolls. It's possible that the contact doesn't exist or the search is not working correctly. I will try to navigate back to the dialer and search again.{\"action_type\": \"navigate_back\"}"
+    ]
+}

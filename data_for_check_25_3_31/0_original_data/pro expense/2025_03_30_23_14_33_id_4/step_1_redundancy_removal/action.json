@@ -1,0 +1,70 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Pro Expense"
+        },
+        {
+            "action_type": "click",
+            "index": 28
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "up"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Pro Expense"
+        },
+        {
+            "action_type": "click",
+            "index": 4
+        },
+        {
+            "action_type": "click",
+            "index": 4
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 0,
+            "direction": "up"
+        },
+        {
+            "action_type": "navigate_back"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to add a note to an expense entry in the Pro Expense app. To do this, I need to open the Pro Expense app first.{\"action_type\": \"open_app\", \"app_name\": \"Pro Expense\"}",
+        "To add a note to an expense entry, I need to first select an expense entry. I will click on the first expense entry in the list.{\"action_type\": \"click\", \"index\": 28}",
+        "To add a note, I need to find the note field. I will scroll down to see if it is visible.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find the note field.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find the note field.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I have scrolled down multiple times and still haven't found the notes field. I will try scrolling up to see if it is located there.{\"action_type\": \"scroll\", \"direction\": \"up\"}",
+        "I have scrolled up and down multiple times but I cannot find the notes field. I will try navigating back to the expense list and selecting the expense again.{\"action_type\": \"navigate_back\"}",
+        "I am back on the home screen. I need to open the Pro Expense app again to try and add the note.{\"action_type\": \"open_app\", \"app_name\": \"Pro Expense\"}",
+        "The user wants to add a note to an expense entry. I need to click on an expense entry to open the expense details screen. The first expense entry is at index 4.{\"action_type\": \"click\", \"index\": 4}",
+        "The current screen shows a list of expenses. To add a note to an expense entry, I need to click on the expense entry first.{\"action_type\": \"click\", \"index\": 4}",
+        "The user wants to add a note to the expense entry. I need to scroll down to find the notes field.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I have scrolled down and still can't find the notes field. I will try scrolling up to see if it's located there.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 0}",
+        "I have been scrolling up and down trying to find the notes field, but I haven't been able to locate it. I will try navigating back to the expense list and selecting a different expense entry to see if the notes field is available there.{\"action_type\": \"navigate_back\"}"
+    ]
+}

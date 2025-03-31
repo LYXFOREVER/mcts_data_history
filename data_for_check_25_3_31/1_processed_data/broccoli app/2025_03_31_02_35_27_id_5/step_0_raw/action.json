@@ -1,0 +1,73 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "broccoli"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 9
+        },
+        {
+            "action_type": "scroll",
+            "index": 41,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 41,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 41,
+            "direction": "up"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 7,
+            "direction": "up"
+        },
+        {
+            "action_type": "navigate_home"
+        },
+        {
+            "action_type": "long_press",
+            "index": 11
+        }
+    ],
+    "action_output_list": [
+        "The user wants to close the bottom panel and share the app. I need to first open the app.{\"action_type\": \"open_app\", \"app_name\": \"broccoli\"}",
+        "The current screen does not have a bottom panel. I will try to find the share button to share the app with friends.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find the share button.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to find the share button to share the app with friends. I will scroll down to see if I can find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to share the app. I will open the navigation drawer to see if there is a share option.{\"action_type\": \"click\", \"index\": 9}",
+        "The user wants to share the app. I need to find the share option in the navigation drawer. I will scroll down to see if there is a share option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 41}",
+        "The user wants to share the app. I need to find the share option in the navigation drawer. I will scroll down to see if there is a share option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 41}",
+        "The user wants to share the app. I have scrolled down the navigation drawer, but I don't see a share option. I will try scrolling up to see if it's located there.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 41}",
+        "I have scrolled up and down the navigation drawer, but there is no share option visible. I will try to navigate back to the main screen and look for a share option there.{\"action_type\": \"navigate_back\"}",
+        "The user wants to share the app. I have already tried looking for a share option in the navigation drawer and on the main screen, but I haven't found one. I will now try scrolling the main screen to see if there are any hidden options.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I have scrolled down and still can't find a share option. I will try scrolling up to see if there's anything I missed.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 7}",
+        "I have been trying to find a share option within the app, but haven't been successful. I will now try to use the system's share functionality by long-pressing the app icon on the home screen.{\"action_type\": \"navigate_home\"}",
+        "The user wants to share the app with friends. Since I'm on the home screen, I can try long pressing the app icon to see if a share option appears.{\"action_type\": \"long_press\", \"index\": 11}"
+    ]
+}

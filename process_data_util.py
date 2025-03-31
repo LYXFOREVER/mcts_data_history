@@ -88,6 +88,55 @@ def copy_files(src_dir, dst_dir):
             shutil.copy2(src_file, dst_file)
             print(f"Copied file: {src_file} to {dst_file}")
 
+def count_png_files(folder_path):
+    """
+    统计指定文件夹中 .png 文件的数量
+    :param folder_path: 文件夹路径
+    :return: .png 文件的数量
+    """
+    # 初始化计数器
+    png_count = 0
+
+    # 遍历文件夹中的所有文件和子文件夹
+    for root, dirs, files in os.walk(folder_path):
+        for file in files:
+            # 检查文件扩展名是否为 .png
+            if file.lower().endswith('.png'):
+                png_count += 1
+
+    return png_count
+
+from PIL import Image, ImageDraw
+def draw_ui_border(image_path, output_path, ui_bbox, border_color=(255, 0, 0), border_width=5):
+    """
+    在图像上绘制UI边框。
+
+    参数:
+        image_path (str): 输入图像的路径。
+        output_path (str): 输出图像的路径。
+        ui_bbox (list): UI边界的坐标，格式为 [x1, x2, y1, y2]。
+        border_color (tuple): 边框颜色，默认为红色 (255, 0, 0)。
+        border_width (int): 边框宽度，默认为 5。
+    """
+    try:
+        # 打开图像
+        image = Image.open(image_path)
+        
+        # 创建一个可以在图像上绘图的对象
+        draw = ImageDraw.Draw(image)
+        
+        # 解析UI边界
+        x1, x2, y1, y2 = ui_bbox
+        
+        # 绘制边框
+        draw.rectangle([(x1, y1), (x2, y2)], outline=border_color, width=border_width)
+        
+        # 保存图像
+        image.save(output_path)
+        print(f"带有红色边框的图像已保存到 {output_path}")
+    except Exception as e:
+        print(f"发生错误：{e}")
+
 def copy_files_except_pkl(src_dir, dst_dir):
     # 检查源文件夹是否存在
     if not os.path.exists(src_dir):

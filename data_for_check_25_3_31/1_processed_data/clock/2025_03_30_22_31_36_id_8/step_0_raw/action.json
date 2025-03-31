@@ -1,0 +1,71 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Clock"
+        },
+        {
+            "action_type": "click",
+            "index": 11
+        },
+        {
+            "action_type": "click",
+            "index": 17
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "click",
+            "index": 20
+        },
+        {
+            "action_type": "click",
+            "index": 54
+        },
+        {
+            "action_type": "click",
+            "index": 6
+        },
+        {
+            "action_type": "click",
+            "index": 7
+        },
+        {
+            "action_type": "click",
+            "index": 17
+        }
+    ],
+    "action_output_list": [
+        "The user wants to set an alarm. The clock app is the most likely place to do this.{\"action_type\": \"open_app\", \"app_name\": \"Clock\"}",
+        "The user wants to set the alarm for 13:30. The current screen shows the alarm setting interface. I need to set the hour to 13.{\"action_type\": \"click\", \"index\": 11}",
+        "The user wants to set the minute to 30. I should click on the minute field to set the minute.{\"action_type\": \"click\", \"index\": 17}",
+        "I need to set the minute to 30.{\"action_type\": \"click\", \"index\": 16}",
+        "I need to set the minute to 30. I can click on the minute field to change it.{\"action_type\": \"click\", \"index\": 16}",
+        "I need to set the minute to 30. I can click on the minute field to change it.{\"action_type\": \"click\", \"index\": 16}",
+        "I need to set the minute to 30. The current minute is 00, so I need to click on it to change it.{\"action_type\": \"click\", \"index\": 16}",
+        "I need to click on the minute \"30\" to set the minute for the alarm.{\"action_type\": \"click\", \"index\": 14}",
+        "Now that the hour and minute are set, I need to confirm the alarm setting by clicking the \"OK\" button.{\"action_type\": \"click\", \"index\": 20}",
+        "The user wants to set an alarm for 13:30 and confirm the setting. The current screen shows the alarm settings, and the time is already set to 13:00. I need to click the \"+\" button to add a new alarm.{\"action_type\": \"click\", \"index\": 54}",
+        "The user wants to set the alarm for 13:30. The hour is already set to 14, so I need to change it to 13.{\"action_type\": \"click\", \"index\": 6}",
+        "The current hour is 14, and the user wants to set the alarm for 13:30. I need to decrement the hour to 13.{\"action_type\": \"click\", \"index\": 7}",
+        "The hour is currently set to 13, which is correct. Now I need to set the minute to 30. The current minute is 00, so I need to click on the minute field to change it.{\"action_type\": \"click\", \"index\": 17}"
+    ]
+}

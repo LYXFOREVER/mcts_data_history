@@ -1,0 +1,71 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Pro Expense"
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        },
+        {
+            "action_type": "click",
+            "index": 17
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        },
+        {
+            "action_type": "click",
+            "index": 17
+        },
+        {
+            "action_type": "click",
+            "index": 17
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        },
+        {
+            "action_type": "click",
+            "index": 17
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        },
+        {
+            "action_type": "click",
+            "index": 17
+        },
+        {
+            "action_type": "click",
+            "index": 17
+        }
+    ],
+    "action_output_list": [
+        "The user wants to change the date of an expense entry in the Pro Expense app. To do this, I need to open the Pro Expense app first.{\"action_type\": \"open_app\", \"app_name\": \"Pro Expense\"}",
+        "The user wants to change the date of an expense entry. To do this, I need to first select an expense entry. I will click on the first expense entry to select it.{\"action_type\": \"click\", \"index\": 27}",
+        "The user wants to change the date of an expense entry. The current screen shows a list of expenses. I need to click on an expense to edit it.{\"action_type\": \"click\", \"index\": 27}",
+        "The user wants to change the date of an expense entry. The current screen shows a list of expenses for the week \"MAR 30 - APR 6\". To change the date, I need to click on an expense entry to edit it.{\"action_type\": \"click\", \"index\": 27}",
+        "The user wants to change the date of an expense entry. The current screen shows a list of expenses. To change the date, I need to click on an expense entry to edit it. The date range \"MAR 30 - APR 6\" (index 17 and 27) seems like a good place to start.{\"action_type\": \"click\", \"index\": 17}",
+        "The user wants to change the date of an expense entry. The current screen shows a list of expenses for the week MAR 30 - APR 6. To change the date, I need to click on an expense entry to view its details and then edit the date.{\"action_type\": \"click\", \"index\": 27}",
+        "The user wants to change the date of an expense entry. The current screen shows a list of expenses for the week MAR 30 - APR 6. To change the date, I need to either click on an individual expense to edit it, or click on the date range \"MAR 30 - APR 6\" to change the overall date range. I will try clicking on the date range first.{\"action_type\": \"click\", \"index\": 17}",
+        "The user wants to change the date of an expense entry to March 29, 2025. The current screen shows a list of expenses for the week MAR 30 - APR 6. To change the date, I need to find a way to edit the expense entry. I will try clicking on the date range \"MAR 30 - APR 6\" again, as it might lead to a calendar view or a detailed view of the expenses where I can modify the date.{\"action_type\": \"click\", \"index\": 17}",
+        "The user wants to change the date of an expense entry to March 29, 2025. The current screen shows a list of expenses within the date range \"MAR 30 - APR 6\". To change the date, I need to click on an expense entry to view its details and then modify the date.{\"action_type\": \"click\", \"index\": 27}",
+        "The user wants to change the date of an expense entry to March 29, 2025. The current screen shows a summary of expenses for the week MAR 30 - APR 6. Clicking on the date range \"MAR 30 - APR 6\" might allow me to view the expenses in detail and then change the date.{\"action_type\": \"click\", \"index\": 17}",
+        "The user wants to change the date of an expense entry to March 29, 2025. The current screen shows \"Expenses in this Week\" with the date range \"MAR 30 - APR 6\". Clicking on this date range again might lead to a date picker or a detailed view where the date can be modified.{\"action_type\": \"click\", \"index\": 27}",
+        "The user wants to change the date of an expense entry. The current screen shows a list of expenses for the week \"MAR 30 - APR 6\". To change the date, I need to click on the date range to open a date picker or a detailed view where the date can be modified.{\"action_type\": \"click\", \"index\": 17}",
+        "The user wants to change the date of an expense entry to March 29, 2025. The current screen shows a list of expenses for the week MAR 30 - APR 6. Clicking on the date range \"MAR 30 - APR 6\" again might open a date picker or a detailed view where the date can be modified.{\"action_type\": \"click\", \"index\": 17}"
+    ]
+}

@@ -1,0 +1,4 @@
+{
+    "score": 1,
+    "reason": "The user is idle and the agent is trying to navigate back to the main recipe list. However, the current screen is the home screen, so navigating back is not a valid action. The agent is stuck in a loop of navigating back."
+}

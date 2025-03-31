@@ -1,0 +1,69 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Pro Expense"
+        },
+        {
+            "action_type": "click",
+            "index": 11
+        },
+        {
+            "action_type": "click",
+            "index": 42
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "click",
+            "index": 11
+        },
+        {
+            "action_type": "click",
+            "index": 1
+        },
+        {
+            "action_type": "click",
+            "index": 0
+        },
+        {
+            "action_type": "click",
+            "index": 0
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 11
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        }
+    ],
+    "action_output_list": [
+        "The user wants to change the expense entry date. To do this, I need to open the Pro Expense app.{\"action_type\": \"open_app\", \"app_name\": \"Pro Expense\"}",
+        "The user wants to change the expense entry date. I need to find the expense entry first. I will click on the first expense entry to see if I can change the date there.{\"action_type\": \"click\", \"index\": 11}",
+        "The current screen shows the main view of the Pro Expense app, displaying a summary of income and expenses. To change the date of an expense, I need to navigate to the expense logs.{\"action_type\": \"click\", \"index\": 42}",
+        "The current screen shows \"NO EXPENSE LOGS\", so I need to add an expense log first.{\"action_type\": \"click\", \"index\": 13}",
+        "The user wants to change the expense entry date. Currently, the app shows \"NO EXPENSE LOGS\" and the user has just clicked the \"+\" button to add a new expense. The next logical step is to fill in the details of the expense, including the date. I will click on the date field to open the date picker.{\"action_type\": \"click\", \"index\": 11}",
+        "The user wants to change the date to March 25, 2025. The date picker is currently open, so I need to navigate to March 2025. I can use the navigation buttons to move to the correct month and year.{\"action_type\": \"click\", \"index\": 1}",
+        "The user wants to change the date to March 2025. The current screen is the date picker. The user has already clicked the left arrow once. I need to continue clicking the left arrow until the date picker shows March 2025.{\"action_type\": \"click\", \"index\": 0}",
+        "The goal is to change the expense entry date to March 25, 2025. I need to navigate to March 2025 in the date picker. Clicking the left arrow will move to the previous month.{\"action_type\": \"click\", \"index\": 0}",
+        "The goal is to change the expense entry date to March 25, 2025. The current screen shows the feedback form. I need to navigate back to the expense log creation screen.{\"action_type\": \"navigate_back\"}",
+        "The user wants to change the expense entry date to March 25, 2025. The current screen is showing a feedback form. I need to navigate back to the expense log creation screen to change the date.{\"action_type\": \"navigate_back\"}",
+        "The current screen shows the expense log creation screen. The goal is to change the date to March 25, 2025. The date field is clickable, so I should click it to open the date picker.{\"action_type\": \"click\", \"index\": 11}",
+        "The current screen shows \"NO EXPENSE LOGS\" and the user wants to change the date of an expense entry. Since there are no existing logs, the user needs to create a new one first. The \"+\" button (index 13) is the way to add a new expense log.{\"action_type\": \"click\", \"index\": 13}",
+        "The user wants to change the date of an expense entry. The current screen shows \"NO EXPENSE LOGS\", so I need to add a new expense log first. I can do this by clicking the \"+\" button.{\"action_type\": \"click\", \"index\": 13}"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Broccoli"
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "input_text",
+            "index": 11,
+            "text": "My Special Dish"
+        },
+        {
+            "action_type": "input_text",
+            "index": 11,
+            "text": "A delicious and easy-to-make recipe"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "up"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "scroll",
+            "index": 6,
+            "direction": "down"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Broccoli"
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new recipe in the Broccoli app. To do this, I need to open the Broccoli app first.{\"action_type\": \"open_app\", \"app_name\": \"Broccoli\"}",
+        "The user wants to create a new recipe. The current screen shows the recipes page with an option to create a new recipe.{\"action_type\": \"click\", \"index\": 24}",
+        "The user wants to create a new recipe with a title and description. The current screen is the new recipe screen. I need to input the title of the recipe.{\"action_type\": \"input_text\", \"text\": \"My Special Dish\", \"index\": 11}",
+        "The user wants to add a description to the recipe. The next step is to input the description \"A delicious and easy-to-make recipe\" into the description text field.{\"action_type\": \"input_text\", \"text\": \"A delicious and easy-to-make recipe\", \"index\": 11}",
+        "The user wants to add an image to the recipe. The current screen does not have an obvious button to add an image. I will scroll down to see if there is an option to add an image.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down further to find the option to add an image.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find the option to add an image.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I have scrolled down multiple times and still haven't found the option to add an image. I will try scrolling up to see if the option is located there.{\"action_type\": \"scroll\", \"direction\": \"up\"}",
+        "I have scrolled up and down multiple times and still haven't found the option to add an image. I will try clicking the back button to see if I missed something on the previous screen.{\"action_type\": \"navigate_back\"}",
+        "The user wants to add an image to the recipe, and I haven't found an option to do so on the previous screen. I will try scrolling the current screen to see if the option is available.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 6}",
+        "The user wants to add an image to the recipe. Since I am back on the app drawer screen, I need to open the Broccoli app again.{\"action_type\": \"open_app\", \"app_name\": \"Broccoli\"}",
+        "The user wants to create a new recipe, but the current screen shows the main recipe list. I need to click the \"create a new recipe\" button to go back to the recipe creation screen.{\"action_type\": \"click\", \"index\": 24}",
+        "I am on the main screen of the Broccoli app. I need to navigate to the recipe creation screen to continue with the user's request. The \"create a new recipe\" button is available on this screen.{\"action_type\": \"click\", \"index\": 24}"
+    ]
+}

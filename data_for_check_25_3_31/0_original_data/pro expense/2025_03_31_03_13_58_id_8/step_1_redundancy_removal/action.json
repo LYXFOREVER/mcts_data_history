@@ -1,0 +1,73 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Pro Expense"
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "input_text",
+            "index": 11,
+            "text": "Lunch"
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "input_text",
+            "index": 13,
+            "text": "15"
+        },
+        {
+            "action_type": "click",
+            "index": 7
+        },
+        {
+            "action_type": "click",
+            "index": 5
+        },
+        {
+            "action_type": "click",
+            "index": 5
+        },
+        {
+            "action_type": "click",
+            "index": 4
+        },
+        {
+            "action_type": "click",
+            "index": 3
+        },
+        {
+            "action_type": "click",
+            "index": 4
+        },
+        {
+            "action_type": "click",
+            "index": 4
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new expense entry in the Pro Expense app. To do this, I need to first open the app.{\"action_type\": \"open_app\", \"app_name\": \"Pro Expense\"}",
+        "To create a new expense entry, I need to find the add expense button. It is likely represented by a plus icon.{\"action_type\": \"click\", \"index\": 24}",
+        "The user wants to create a new expense entry. The current screen shows the main expense screen. I need to click on the '+' button (index 24) to add a new expense entry.{\"action_type\": \"click\", \"index\": 24}",
+        "The user wants to create a new expense entry, and I have already clicked the '+' button twice. I will now input the name of the expense.{\"action_type\": \"input_text\", \"text\": \"Lunch\", \"index\": 11}",
+        "The user wants to enter the amount '15' into the expense entry. The amount field is likely the next field to fill after the name.{\"action_type\": \"click\", \"index\": 13}",
+        "The user wants to input the amount of the expense, which is '15'. The amount field is at index 13.{\"action_type\": \"input_text\", \"text\": \"15\", \"index\": 13}",
+        "The next step is to set the date to March 27, 2025. I will click on the date field to open the date picker.{\"action_type\": \"click\", \"index\": 7}",
+        "The user wants to set the date to March 27, 2025. The current screen shows a date picker. I need to navigate to the correct year and month. I can start by clicking the forward arrow to advance the year.{\"action_type\": \"click\", \"index\": 5}",
+        "The current screen shows the date picker, and I need to advance the year to 2025. Clicking the forward arrow (index 5) will advance the year.{\"action_type\": \"click\", \"index\": 5}",
+        "The user wants to set the date to March 27, 2025. I need to advance the year to 2025.{\"action_type\": \"click\", \"index\": 4}",
+        "The user wants to set the date to March 2025. The current screen shows the date picker, and the user has already advanced the year to 2025. Now we need to advance the month to March.{\"action_type\": \"click\", \"index\": 3}",
+        "The user wants to set the date to March 2025. We are currently in the date picker, and the previous actions were advancing the year and month. We need to continue advancing the month until we reach March.{\"action_type\": \"click\", \"index\": 4}",
+        "The goal is to set the date to March 27, 2025. We are currently in the date picker, and need to advance the month to March.{\"action_type\": \"click\", \"index\": 4}"
+    ]
+}

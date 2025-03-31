@@ -1,0 +1,70 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Pro Expense"
+        },
+        {
+            "action_type": "click",
+            "index": 31
+        },
+        {
+            "action_type": "input_text",
+            "index": 11,
+            "text": "Lunch"
+        },
+        {
+            "action_type": "input_text",
+            "index": 13,
+            "text": "15"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "click",
+            "index": 0
+        },
+        {
+            "action_type": "click",
+            "index": 31
+        },
+        {
+            "action_type": "click",
+            "index": 31
+        },
+        {
+            "action_type": "click",
+            "index": 31
+        },
+        {
+            "action_type": "navigate_back"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to record an expense in the Pro Expense app. To do this, I need to open the app.{\"action_type\": \"open_app\", \"app_name\": \"Pro Expense\"}",
+        "To record a new expense, I should click the '+' button.{\"action_type\": \"click\", \"index\": 31}",
+        "To record the expense details, I need to input the description 'Lunch' into the description field.{\"action_type\": \"input_text\", \"text\": \"Lunch\", \"index\": 11}",
+        "The next step is to input the amount of the expense, which is 15 USD. The text field for the amount is at index 13.{\"action_type\": \"input_text\", \"text\": \"15\", \"index\": 13}",
+        "The next step is to select the category for the expense. The category selection element is at index 14.{\"action_type\": \"click\", \"index\": 14}",
+        "The user is currently viewing the open-source licenses. To proceed with recording the expense, I need to navigate back to the expense creation screen.{\"action_type\": \"navigate_back\"}",
+        "The current screen is the \"About\" screen, which is not the screen where I can record the expense. I need to navigate back to the expense recording screen.{\"action_type\": \"navigate_back\"}",
+        "The user wants to record the expense under the 'Food' category. I need to click on the category field to select the correct category.{\"action_type\": \"click\", \"index\": 14}",
+        "The user wants to select the 'Food' category. The current screen shows a list of categories, and 'Food' is likely one of them. I should click on the 'Food' category to select it.{\"action_type\": \"click\", \"index\": 0}",
+        "The user has selected the 'Food' category. Now, I need to save the expense entry. The save button is likely located at the top of the screen.{\"action_type\": \"click\", \"index\": 31}",
+        "The user has requested to save the expense entry. The current screen shows the main expense screen, and the previous action was clicking the save button (index 31). If the expense was saved successfully, the screen should update to reflect the new expense. If the expense was not saved, clicking the save button again might work.{\"action_type\": \"click\", \"index\": 31}",
+        "The user has already clicked the save button in the previous step, but the screen hasn't updated to reflect the saved expense. It's possible the save action didn't register correctly, so I will try clicking the save button again.{\"action_type\": \"click\", \"index\": 31}",
+        "The user has already clicked the save button twice, and it's possible the app is not responding as expected. I will try navigating back to the home screen to see if the expense was saved.{\"action_type\": \"navigate_back\"}"
+    ]
+}

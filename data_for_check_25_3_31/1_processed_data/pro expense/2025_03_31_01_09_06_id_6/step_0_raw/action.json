@@ -1,0 +1,71 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Pro Expense"
+        },
+        {
+            "action_type": "click",
+            "index": 2
+        },
+        {
+            "action_type": "input_text",
+            "index": 11,
+            "text": "Lunch"
+        },
+        {
+            "action_type": "input_text",
+            "index": 13,
+            "text": "15"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "click",
+            "index": 4
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "input_text",
+            "index": 11,
+            "text": "Lunch with colleagues"
+        },
+        {
+            "action_type": "click",
+            "index": 3
+        },
+        {
+            "action_type": "navigate_back"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new expense entry in the Pro Expense app. To do this, I need to open the app first.{\"action_type\": \"open_app\", \"app_name\": \"Pro Expense\"}",
+        "To create a new expense entry, I need to click the '+' button.{\"action_type\": \"click\", \"index\": 2}",
+        "The user wants to create a new expense entry with the name 'Lunch'. I need to input the name into the expense name field.{\"action_type\": \"input_text\", \"text\": \"Lunch\", \"index\": 11}",
+        "The next step is to input the amount '15' into the amount field. The amount field is editable and has index 13.{\"action_type\": \"input_text\", \"text\": \"15\", \"index\": 13}",
+        "The next step is to select the category for the expense. The category field is clickable.{\"action_type\": \"click\", \"index\": 14}",
+        "The user is currently viewing the open source licenses, which is not related to the goal of creating a new expense. The agent needs to navigate back to the expense creation screen.{\"action_type\": \"navigate_back\"}",
+        "The user needs to select the category 'Food' for the expense entry. The current screen does not show the category selection. I need to navigate back to the expense creation screen.{\"action_type\": \"navigate_back\"}",
+        "The category field needs to be filled.{\"action_type\": \"click\", \"index\": 14}",
+        "The user needs to select a category for the expense. The current screen shows a list of categories. The user wants to select 'Food'.{\"action_type\": \"click\", \"index\": 4}",
+        "The user needs to add a note to the expense entry. The note field is currently visible on the screen.{\"action_type\": \"click\", \"index\": 13}",
+        "The user has requested to add a note 'Lunch with colleagues' to the expense entry. The current screen shows the note field is ready for input.{\"action_type\": \"input_text\", \"text\": \"Lunch with colleagues\", \"index\": 11}",
+        "The user has completed entering all the information for the new expense entry. The next step is to save the entry. The save button is likely the checkmark icon at the top right of the screen.{\"action_type\": \"click\", \"index\": 3}",
+        "The user has finished inputting all the information for the new expense entry and is now on the \"About\" screen. The next step is to navigate back to the expense entry screen and click the save button to save the entry.{\"action_type\": \"navigate_back\"}"
+    ]
+}

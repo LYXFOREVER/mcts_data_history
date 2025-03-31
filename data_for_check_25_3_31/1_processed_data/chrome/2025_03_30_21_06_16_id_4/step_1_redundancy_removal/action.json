@@ -1,0 +1,66 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Chrome"
+        },
+        {
+            "action_type": "click",
+            "index": 69
+        },
+        {
+            "action_type": "wait"
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 17
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 17
+        },
+        {
+            "action_type": "wait"
+        },
+        {
+            "action_type": "wait"
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        }
+    ],
+    "action_output_list": [
+        "To enable Chrome sync, I need to open the Chrome app first.{\"action_type\": \"open_app\", \"app_name\": \"Chrome\"}",
+        "The user wants to enable Chrome sync. The current screen shows a \"Turn on sync\" button.{\"action_type\": \"click\", \"index\": 69}",
+        "The screen is showing \"Checking info…\", indicating that the sync process has started. I should wait for the screen to update.{\"action_type\": \"wait\"}",
+        "The screen shows \"Couldn't sign in\", indicating a problem with the sync process. I will try clicking on \"Try again\" to see if it resolves the issue.{\"action_type\": \"click\", \"index\": 13}",
+        "The previous attempt to sign in failed. I will try to sign in again by clicking the \"Try again\" button.{\"action_type\": \"click\", \"index\": 13}",
+        "The previous attempt to sign in failed. I will try again by clicking the \"Try again\" button.{\"action_type\": \"click\", \"index\": 13}",
+        "The previous attempts to sign in failed. I will try to navigate back to the Chrome settings to see if there are other options to enable sync.{\"action_type\": \"navigate_back\"}",
+        "The user wants to enable Chrome sync. The current screen shows a prompt asking to turn on sync. Clicking \"Add account\" might allow the user to sign in and enable sync.{\"action_type\": \"click\", \"index\": 17}",
+        "The previous attempts to sign in have failed, and the current screen is still showing \"Checking info…\". I will try navigating back to the Chrome settings to find another way to enable sync.{\"action_type\": \"navigate_back\"}",
+        "The user wants to enable Chrome sync. The current screen shows a \"Turn on sync?\" prompt. Clicking \"Add account\" might lead to a successful sign-in and enable sync.{\"action_type\": \"click\", \"index\": 17}",
+        "The screen shows \"Checking info…\", which means the app is still trying to sign in. I should wait for the screen to update to see if the sign-in is successful or if there is an error message.{\"action_type\": \"wait\"}",
+        "The screen shows \"Checking info…\", indicating that the sign-in process is still in progress. I should wait for the process to complete or encounter an error before taking further action.{\"action_type\": \"wait\"}",
+        "The screen shows \"Couldn't sign in\". I will click on the \"Try again\" button to attempt signing in again.{\"action_type\": \"click\", \"index\": 13}"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Broccoli"
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        },
+        {
+            "action_type": "click",
+            "index": 0
+        },
+        {
+            "action_type": "input_text",
+            "index": 0,
+            "text": "My Special Dish"
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 16,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 0,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 16,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 0,
+            "direction": "up"
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "navigate_back"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new recipe in the Broccoli app. To do this, I need to open the Broccoli app first.{\"action_type\": \"open_app\", \"app_name\": \"Broccoli\"}",
+        "The user wants to create a new recipe. The current screen shows options to create or import a recipe. I should click on the \"create a new recipe\" option.{\"action_type\": \"click\", \"index\": 24}",
+        "The user wants to create a new recipe by picking a photo from the gallery. The current screen is the recipe creation screen. The first step is to pick a photo from the gallery. I will click on the image placeholder to select a photo.{\"action_type\": \"click\", \"index\": 27}",
+        "The current screen shows images from the gallery. I need to select one of these images to use for the recipe. I will click on the first image.{\"action_type\": \"click\", \"index\": 0}",
+        "The next step is to input the recipe name.{\"action_type\": \"input_text\", \"text\": \"My Special Dish\", \"index\": 0}",
+        "The next step is to select the category for the recipe. The \"Categories\" element is clickable and should allow me to select the category.{\"action_type\": \"click\", \"index\": 16}",
+        "The goal is to select the 'Main Course' category. The current screen shows a list of categories, and 'Main Course' might be among them. I will scroll down to see if it is available.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The 'Main Course' category might be further down the list, so I should scroll down again to reveal more categories.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 16}",
+        "The 'Main Course' category might be further down the list, so I should scroll down again.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 0}",
+        "The 'Main Course' category was not found in the previous scrolls. I will try scrolling down again to see if it appears.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 16}",
+        "I have been scrolling down the screen multiple times and still haven't found the 'Main Course' category. It's possible that the category is not visible on this screen or that I'm scrolling in the wrong direction. I will try scrolling up to see if the category is located above.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 0}",
+        "I have been scrolling up and down and still cannot find the 'Main Course' category. I will try clicking on the 'Categories' element again to see if it refreshes the list or presents a different view.{\"action_type\": \"click\", \"index\": 16}",
+        "I have been trying to find the 'Main Course' category by scrolling and clicking on the 'Categories' element, but it's not working. I will try navigating back to the recipe creation screen and clicking on the 'Categories' element again to see if it helps.{\"action_type\": \"navigate_back\"}"
+    ]
+}
