@@ -1,0 +1,578 @@
+[
+    {
+        "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            69,
+            1010,
+            513,
+            1951
+        ]
+    },
+    {
+        "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            111,
+            968,
+            555,
+            1909
+        ]
+    },
+    {
+        "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            111,
+            968,
+            555,
+            1909
+        ]
+    },
+    {
+        "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            111,
+            968,
+            555,
+            1909
+        ]
+    },
+    {
+        "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            111,
+            968,
+            555,
+            870
+        ]
+    },
+    {
+        "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            810,
+            555,
+            870
+        ]
+    },
+    {
+        "ui_description": "UI element 6: {\"index\": 6, \"text\": \"Start date – End date\", \"content_description\": \"Start date selection: none – End date selection: none\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            175,
+            810,
+            555,
+            838
+        ]
+    },
+    {
+        "ui_description": "UI element 7: {\"index\": 7, \"text\": \"Select the dates to pause your alarm at 15:25 on Tue, Fri\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            175,
+            810,
+            555,
+            693
+        ]
+    },
+    {
+        "ui_description": "UI element 8: {\"index\": 8, \"content_description\": \"Switch to text input mode\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            810,
+            936,
+            723,
+            849
+        ]
+    },
+    {
+        "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            111,
+            968,
+            870,
+            1909
+        ]
+    },
+    {
+        "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            111,
+            968,
+            870,
+            1772
+        ]
+    },
+    {
+        "ui_description": "UI element 11: {\"index\": 11, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            936,
+            870,
+            1761
+        ]
+    },
+    {
+        "ui_description": "UI element 12: {\"index\": 12, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            936,
+            870,
+            1018
+        ]
+    },
+    {
+        "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            684,
+            881,
+            1007
+        ]
+    },
+    {
+        "ui_description": "UI element 14: {\"index\": 14, \"text\": \"March 2025\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            478,
+            881,
+            1007
+        ]
+    },
+    {
+        "ui_description": "UI element 15: {\"index\": 15, \"content_description\": \"Change to previous month\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            684,
+            810,
+            881,
+            1007
+        ]
+    },
+    {
+        "ui_description": "UI element 16: {\"index\": 16, \"content_description\": \"Change to next month\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            810,
+            936,
+            881,
+            1007
+        ]
+    },
+    {
+        "ui_description": "UI element 17: {\"index\": 17, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            936,
+            1018,
+            1753
+        ]
+    },
+    {
+        "ui_description": "UI element 18: {\"index\": 18, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            936,
+            1018,
+            1753
+        ]
+    },
+    {
+        "ui_description": "UI element 19: {\"index\": 19, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            936,
+            1018,
+            1123
+        ]
+    },
+    {
+        "ui_description": "UI element 20: {\"index\": 20, \"text\": \"S\", \"content_description\": \"Column of days: Sunday\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            248,
+            1018,
+            1123
+        ]
+    },
+    {
+        "ui_description": "UI element 21: {\"index\": 21, \"text\": \"M\", \"content_description\": \"Column of days: Monday\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            257,
+            362,
+            1018,
+            1123
+        ]
+    },
+    {
+        "ui_description": "UI element 22: {\"index\": 22, \"text\": \"T\", \"content_description\": \"Column of days: Tuesday\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            371,
+            476,
+            1018,
+            1123
+        ]
+    },
+    {
+        "ui_description": "UI element 23: {\"index\": 23, \"text\": \"W\", \"content_description\": \"Column of days: Wednesday\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            485,
+            590,
+            1018,
+            1123
+        ]
+    },
+    {
+        "ui_description": "UI element 24: {\"index\": 24, \"text\": \"T\", \"content_description\": \"Column of days: Thursday\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            599,
+            704,
+            1018,
+            1123
+        ]
+    },
+    {
+        "ui_description": "UI element 25: {\"index\": 25, \"text\": \"F\", \"content_description\": \"Column of days: Friday\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            713,
+            818,
+            1018,
+            1123
+        ]
+    },
+    {
+        "ui_description": "UI element 26: {\"index\": 26, \"text\": \"S\", \"content_description\": \"Column of days: Saturday\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            827,
+            932,
+            1018,
+            1123
+        ]
+    },
+    {
+        "ui_description": "UI element 27: {\"index\": 27, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            936,
+            1123,
+            1753
+        ]
+    },
+    {
+        "ui_description": "UI element 28: {\"index\": 28, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            936,
+            1123,
+            1753
+        ]
+    },
+    {
+        "ui_description": "UI element 29: {\"index\": 29, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            936,
+            1123,
+            1753
+        ]
+    },
+    {
+        "ui_description": "UI element 30: {\"index\": 30, \"text\": \"1\", \"content_description\": \"Sat, Mar 1\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            827,
+            932,
+            1123,
+            1228
+        ]
+    },
+    {
+        "ui_description": "UI element 31: {\"index\": 31, \"text\": \"2\", \"content_description\": \"Sun, Mar 2\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            248,
+            1228,
+            1333
+        ]
+    },
+    {
+        "ui_description": "UI element 32: {\"index\": 32, \"text\": \"3\", \"content_description\": \"Mon, Mar 3\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            257,
+            362,
+            1228,
+            1333
+        ]
+    },
+    {
+        "ui_description": "UI element 33: {\"index\": 33, \"text\": \"4\", \"content_description\": \"Tue, Mar 4\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            371,
+            476,
+            1228,
+            1333
+        ]
+    },
+    {
+        "ui_description": "UI element 34: {\"index\": 34, \"text\": \"5\", \"content_description\": \"Wed, Mar 5\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            485,
+            590,
+            1228,
+            1333
+        ]
+    },
+    {
+        "ui_description": "UI element 35: {\"index\": 35, \"text\": \"6\", \"content_description\": \"Thu, Mar 6\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            599,
+            704,
+            1228,
+            1333
+        ]
+    },
+    {
+        "ui_description": "UI element 36: {\"index\": 36, \"text\": \"7\", \"content_description\": \"Fri, Mar 7\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            713,
+            818,
+            1228,
+            1333
+        ]
+    },
+    {
+        "ui_description": "UI element 37: {\"index\": 37, \"text\": \"8\", \"content_description\": \"Sat, Mar 8\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            827,
+            932,
+            1228,
+            1333
+        ]
+    },
+    {
+        "ui_description": "UI element 38: {\"index\": 38, \"text\": \"9\", \"content_description\": \"Sun, Mar 9\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            248,
+            1333,
+            1438
+        ]
+    },
+    {
+        "ui_description": "UI element 39: {\"index\": 39, \"text\": \"10\", \"content_description\": \"Mon, Mar 10\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            257,
+            362,
+            1333,
+            1438
+        ]
+    },
+    {
+        "ui_description": "UI element 40: {\"index\": 40, \"text\": \"11\", \"content_description\": \"Tue, Mar 11\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            371,
+            476,
+            1333,
+            1438
+        ]
+    },
+    {
+        "ui_description": "UI element 41: {\"index\": 41, \"text\": \"12\", \"content_description\": \"Wed, Mar 12\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            485,
+            590,
+            1333,
+            1438
+        ]
+    },
+    {
+        "ui_description": "UI element 42: {\"index\": 42, \"text\": \"13\", \"content_description\": \"Thu, Mar 13\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            599,
+            704,
+            1333,
+            1438
+        ]
+    },
+    {
+        "ui_description": "UI element 43: {\"index\": 43, \"text\": \"14\", \"content_description\": \"Fri, Mar 14\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            713,
+            818,
+            1333,
+            1438
+        ]
+    },
+    {
+        "ui_description": "UI element 44: {\"index\": 44, \"text\": \"15\", \"content_description\": \"Sat, Mar 15\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            827,
+            932,
+            1333,
+            1438
+        ]
+    },
+    {
+        "ui_description": "UI element 45: {\"index\": 45, \"text\": \"16\", \"content_description\": \"Sun, Mar 16\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            248,
+            1438,
+            1543
+        ]
+    },
+    {
+        "ui_description": "UI element 46: {\"index\": 46, \"text\": \"17\", \"content_description\": \"Mon, Mar 17\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            257,
+            362,
+            1438,
+            1543
+        ]
+    },
+    {
+        "ui_description": "UI element 47: {\"index\": 47, \"text\": \"18\", \"content_description\": \"Tue, Mar 18\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            371,
+            476,
+            1438,
+            1543
+        ]
+    },
+    {
+        "ui_description": "UI element 48: {\"index\": 48, \"text\": \"19\", \"content_description\": \"Wed, Mar 19\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            485,
+            590,
+            1438,
+            1543
+        ]
+    },
+    {
+        "ui_description": "UI element 49: {\"index\": 49, \"text\": \"20\", \"content_description\": \"Thu, Mar 20\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            599,
+            704,
+            1438,
+            1543
+        ]
+    },
+    {
+        "ui_description": "UI element 50: {\"index\": 50, \"text\": \"21\", \"content_description\": \"Fri, Mar 21\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            713,
+            818,
+            1438,
+            1543
+        ]
+    },
+    {
+        "ui_description": "UI element 51: {\"index\": 51, \"text\": \"22\", \"content_description\": \"Sat, Mar 22\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            827,
+            932,
+            1438,
+            1543
+        ]
+    },
+    {
+        "ui_description": "UI element 52: {\"index\": 52, \"text\": \"23\", \"content_description\": \"Sun, Mar 23\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            248,
+            1543,
+            1648
+        ]
+    },
+    {
+        "ui_description": "UI element 53: {\"index\": 53, \"text\": \"24\", \"content_description\": \"Mon, Mar 24\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            257,
+            362,
+            1543,
+            1648
+        ]
+    },
+    {
+        "ui_description": "UI element 54: {\"index\": 54, \"text\": \"25\", \"content_description\": \"Tue, Mar 25\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            371,
+            476,
+            1543,
+            1648
+        ]
+    },
+    {
+        "ui_description": "UI element 55: {\"index\": 55, \"text\": \"26\", \"content_description\": \"Wed, Mar 26\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            485,
+            590,
+            1543,
+            1648
+        ]
+    },
+    {
+        "ui_description": "UI element 56: {\"index\": 56, \"text\": \"27\", \"content_description\": \"Thu, Mar 27\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            599,
+            704,
+            1543,
+            1648
+        ]
+    },
+    {
+        "ui_description": "UI element 57: {\"index\": 57, \"text\": \"28\", \"content_description\": \"Fri, Mar 28\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            713,
+            818,
+            1543,
+            1648
+        ]
+    },
+    {
+        "ui_description": "UI element 58: {\"index\": 58, \"text\": \"29\", \"content_description\": \"Sat, Mar 29\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            827,
+            932,
+            1543,
+            1648
+        ]
+    },
+    {
+        "ui_description": "UI element 59: {\"index\": 59, \"text\": \"30\", \"content_description\": \"Today Sun, Mar 30\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            143,
+            248,
+            1648,
+            1753
+        ]
+    },
+    {
+        "ui_description": "UI element 60: {\"index\": 60, \"text\": \"31\", \"content_description\": \"Mon, Mar 31\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            257,
+            362,
+            1648,
+            1753
+        ]
+    },
+    {
+        "ui_description": "UI element 61: {\"index\": 61, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            111,
+            968,
+            1772,
+            1909
+        ]
+    },
+    {
+        "ui_description": "UI element 62: {\"index\": 62, \"text\": \"Cancel\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            577,
+            758,
+            1777,
+            1903
+        ]
+    },
+    {
+        "ui_description": "UI element 63: {\"index\": 63, \"text\": \"OK\", \"content_description\": \"null, OK\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            779,
+            947,
+            1777,
+            1903
+        ]
+    }
+]

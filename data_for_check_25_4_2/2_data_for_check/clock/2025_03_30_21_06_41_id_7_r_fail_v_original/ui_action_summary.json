@@ -1,0 +1,2671 @@
+[
+    {
+        "id": 0,
+        "task_goal": "In app clock, Set an alarm for 16:30 and confirm the alarm setting.",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    29,
+                    1051,
+                    195,
+                    1779
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    223,
+                    1751
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    223,
+                    495
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    224,
+                    495
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"is_clickable\": False, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    224,
+                    495
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    224,
+                    495
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    292,
+                    427
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"text\": \"Sun, Mar 30\", \"content_description\": \"Sun, Mar 30\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    292,
+                    354
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    78,
+                    378,
+                    427
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"Gmail\", \"content_description\": \"Gmail\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    309,
+                    519,
+                    1479,
+                    1751
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"Photos\", \"content_description\": \"Photos\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    561,
+                    771,
+                    1479,
+                    1751
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"text\": \"YouTube\", \"content_description\": \"YouTube\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    813,
+                    1023,
+                    1479,
+                    1751
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"content_description\": \"Home\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1810,
+                    1873
+                ]
+            },
+            {
+                "ui_description": "UI element 21: {\"index\": 21, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1873,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 22: {\"index\": 22, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    76,
+                    1004,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 23: {\"index\": 23, \"text\": \"Phone\", \"content_description\": \"Phone\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    76,
+                    249,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 24: {\"index\": 24, \"text\": \"Messages\", \"content_description\": \"Messages\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    328,
+                    501,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 25: {\"index\": 25, \"text\": \"Chrome\", \"content_description\": \"Chrome\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    580,
+                    753,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 26: {\"index\": 26, \"text\": \"Files\", \"content_description\": \"Predicted app: Files\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    832,
+                    1004,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 27: {\"index\": 27, \"content_description\": \"Search\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    75,
+                    1004,
+                    2125,
+                    2290
+                ]
+            },
+            {
+                "ui_description": "UI element 28: {\"index\": 28, \"content_description\": \"Google app\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    86,
+                    212,
+                    2144,
+                    2270
+                ]
+            },
+            {
+                "ui_description": "UI element 29: {\"index\": 29, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    741,
+                    993,
+                    2125,
+                    2290
+                ]
+            },
+            {
+                "ui_description": "UI element 30: {\"index\": 30, \"content_description\": \"Voice search\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    741,
+                    867,
+                    2125,
+                    2290
+                ]
+            },
+            {
+                "ui_description": "UI element 31: {\"index\": 31, \"content_description\": \"Google Lens\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    867,
+                    993,
+                    2125,
+                    2290
+                ]
+            },
+            {
+                "ui_description": "UI element 32: {\"index\": 32, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    2006,
+                    2400
+                ]
+            }
+        ],
+        "action": null,
+        "action_output": null
+    },
+    {
+        "id": 1,
+        "task_goal": "In app clock, Set an alarm for 16:30 and confirm the alarm setting.",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    939,
+                    1526
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    939,
+                    1526
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    939,
+                    1526
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    939,
+                    1526
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"text\": \"Select time\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    427,
+                    981,
+                    1027
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    1055,
+                    1327
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    1055,
+                    1327
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    1076,
+                    1327
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    1076,
+                    1327
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    1076,
+                    1286
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"text\": \"12\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    1076,
+                    1286
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"text\": \"Hour\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    328,
+                    1286,
+                    1327
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \":\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    508,
+                    571,
+                    1076,
+                    1286
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    1076,
+                    1327
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    1076,
+                    1327
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    1076,
+                    1286
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"Minute\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    674,
+                    1286,
+                    1327
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"00\", \"content_description\": \"0 minutes\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    1076,
+                    1286
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"content_description\": \"Switch to clock mode for the time input.\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    225,
+                    352,
+                    1390,
+                    1516
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"text\": \"Cancel\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    487,
+                    676,
+                    1395,
+                    1521
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"OK\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    697,
+                    865,
+                    1395,
+                    1521
+                ]
+            }
+        ],
+        "action": "{'action_type': 'open_app', 'app_name': 'Clock'}",
+        "action_output": "The user wants to set an alarm. The clock app is the correct app to open to achieve this goal.{\"action_type\": \"open_app\", \"app_name\": \"Clock\"}{'action_type': 'open_app', 'app_name': 'Clock'}"
+    },
+    {
+        "id": 2,
+        "task_goal": "In app clock, Set an alarm for 16:30 and confirm the alarm setting.",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"text\": \"Select time\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    427,
+                    629,
+                    675
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"text\": \"12\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"text\": \"Hour\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    328,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \":\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    508,
+                    571,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"Minute\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    674,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"00\", \"content_description\": \"0 minutes\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"content_description\": \"Switch to clock mode for the time input.\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    225,
+                    352,
+                    1038,
+                    1164
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"text\": \"Cancel\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    487,
+                    676,
+                    1043,
+                    1169
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"OK\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    697,
+                    865,
+                    1043,
+                    1169
+                ]
+            }
+        ],
+        "action": "{'action_type': 'click', 'index': 10}",
+        "action_output": "The user wants to set the alarm for 16:30. The current screen shows the alarm setting interface. I need to set the hour to 16.{\"action_type\": \"click\", \"index\": 10}{'action_type': 'click', 'index': 10}"
+    },
+    {
+        "id": 3,
+        "task_goal": "In app clock, Set an alarm for 16:30 and confirm the alarm setting.",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"text\": \"Select time\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    427,
+                    629,
+                    675
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"text\": \"12\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"text\": \"Hour\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    328,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \":\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    508,
+                    571,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"Minute\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    674,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"00\", \"content_description\": \"0 minutes\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"content_description\": \"Switch to clock mode for the time input.\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    225,
+                    352,
+                    1038,
+                    1164
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"text\": \"Cancel\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    487,
+                    676,
+                    1043,
+                    1169
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"OK\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    697,
+                    865,
+                    1043,
+                    1169
+                ]
+            }
+        ],
+        "action": "{'action_type': 'scroll', 'index': 10, 'direction': 'down'}",
+        "action_output": "I need to set the hour to 16, which is 4 PM. I will scroll down to find 4 PM.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 10}{'action_type': 'scroll', 'index': 10, 'direction': 'down'}"
+    },
+    {
+        "id": 4,
+        "task_goal": "In app clock, Set an alarm for 16:30 and confirm the alarm setting.",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"text\": \"Select time\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    427,
+                    629,
+                    675
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"text\": \"12\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"text\": \"Hour\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    328,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \":\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    508,
+                    571,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"Minute\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    674,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"00\", \"content_description\": \"0 minutes\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"content_description\": \"Switch to clock mode for the time input.\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    225,
+                    352,
+                    1038,
+                    1164
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"text\": \"Cancel\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    487,
+                    676,
+                    1043,
+                    1169
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"OK\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    697,
+                    865,
+                    1043,
+                    1169
+                ]
+            }
+        ],
+        "action": "{'action_type': 'click', 'index': 16}",
+        "action_output": "Now that I have set the hour to 16, I need to set the minutes to 30. I will click on the minute field to set the minute.{\"action_type\": \"click\", \"index\": 16}{'action_type': 'click', 'index': 16}"
+    },
+    {
+        "id": 5,
+        "task_goal": "In app clock, Set an alarm for 16:30 and confirm the alarm setting.",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"text\": \"Select time\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    427,
+                    629,
+                    675
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"text\": \"Hour\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    328,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"text\": \"12\", \"content_description\": \"12 hours\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \":\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    508,
+                    571,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"00\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"Minute\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    674,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"content_description\": \"Switch to clock mode for the time input.\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    225,
+                    352,
+                    1038,
+                    1164
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"text\": \"Cancel\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    487,
+                    676,
+                    1043,
+                    1169
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"OK\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    697,
+                    865,
+                    1043,
+                    1169
+                ]
+            }
+        ],
+        "action": "{'action_type': 'scroll', 'index': 17, 'direction': 'down'}",
+        "action_output": "Now I need to set the minutes to 30. I will scroll down to find 30.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 17}{'action_type': 'scroll', 'index': 17, 'direction': 'down'}"
+    },
+    {
+        "id": 6,
+        "task_goal": "In app clock, Set an alarm for 16:30 and confirm the alarm setting.",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"text\": \"Select time\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    427,
+                    629,
+                    675
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"text\": \"Hour\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    328,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"text\": \"12\", \"content_description\": \"12 hours\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \":\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    508,
+                    571,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"00\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"Minute\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    674,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"content_description\": \"Switch to clock mode for the time input.\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    225,
+                    352,
+                    1038,
+                    1164
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"text\": \"Cancel\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    487,
+                    676,
+                    1043,
+                    1169
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"OK\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    697,
+                    865,
+                    1043,
+                    1169
+                ]
+            }
+        ],
+        "action": "{'action_type': 'scroll', 'index': 16, 'direction': 'down'}",
+        "action_output": "I need to scroll down to find 30 in the minute selector.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 16}{'action_type': 'scroll', 'index': 16, 'direction': 'down'}"
+    },
+    {
+        "id": 7,
+        "task_goal": "In app clock, Set an alarm for 16:30 and confirm the alarm setting.",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"text\": \"Select time\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    427,
+                    629,
+                    675
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"text\": \"Hour\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    328,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"text\": \"12\", \"content_description\": \"12 hours\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \":\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    508,
+                    571,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"00\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"Minute\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    674,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"content_description\": \"Switch to clock mode for the time input.\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    225,
+                    352,
+                    1038,
+                    1164
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"text\": \"Cancel\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    487,
+                    676,
+                    1043,
+                    1169
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"OK\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    697,
+                    865,
+                    1043,
+                    1169
+                ]
+            }
+        ],
+        "action": "{'action_type': 'scroll', 'index': 16, 'direction': 'down'}",
+        "action_output": "I have scrolled down to 25, I need to continue scrolling down to reach 30.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 16}{'action_type': 'scroll', 'index': 16, 'direction': 'down'}"
+    },
+    {
+        "id": 8,
+        "task_goal": "In app clock, Set an alarm for 16:30 and confirm the alarm setting.",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"text\": \"Select time\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    427,
+                    629,
+                    675
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"text\": \"Hour\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    328,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"text\": \"12\", \"content_description\": \"12 hours\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \":\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    508,
+                    571,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"00\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"Minute\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    674,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"content_description\": \"Switch to clock mode for the time input.\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    225,
+                    352,
+                    1038,
+                    1164
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"text\": \"Cancel\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    487,
+                    676,
+                    1043,
+                    1169
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"OK\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    697,
+                    865,
+                    1043,
+                    1169
+                ]
+            }
+        ],
+        "action": "{'action_type': 'scroll', 'index': 16, 'direction': 'down'}",
+        "action_output": "I need to scroll down to find 30 minutes.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 16}{'action_type': 'scroll', 'index': 16, 'direction': 'down'}"
+    },
+    {
+        "id": 9,
+        "task_goal": "In app clock, Set an alarm for 16:30 and confirm the alarm setting.",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"text\": \"Select time\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    427,
+                    629,
+                    675
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"text\": \"Hour\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    328,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"text\": \"12\", \"content_description\": \"12 hours\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \":\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    508,
+                    571,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"00\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"Minute\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    674,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"content_description\": \"Switch to clock mode for the time input.\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    225,
+                    352,
+                    1038,
+                    1164
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"text\": \"Cancel\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    487,
+                    676,
+                    1043,
+                    1169
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"OK\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    697,
+                    865,
+                    1043,
+                    1169
+                ]
+            }
+        ],
+        "action": "{'action_type': 'scroll', 'index': 6, 'direction': 'up'}",
+        "action_output": "I have scrolled down multiple times and still haven't reached 30. I will try scrolling up to see if 30 is in that direction.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 6}{'action_type': 'scroll', 'index': 6, 'direction': 'up'}"
+    },
+    {
+        "id": 10,
+        "task_goal": "In app clock, Set an alarm for 16:30 and confirm the alarm setting.",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"text\": \"Select time\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    427,
+                    629,
+                    675
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"text\": \"Hour\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    328,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"text\": \"12\", \"content_description\": \"12 hours\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \":\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    508,
+                    571,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"00\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"Minute\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    674,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"content_description\": \"Switch to clock mode for the time input.\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    225,
+                    352,
+                    1038,
+                    1164
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"text\": \"Cancel\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    487,
+                    676,
+                    1043,
+                    1169
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"OK\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    697,
+                    865,
+                    1043,
+                    1169
+                ]
+            }
+        ],
+        "action": "{'action_type': 'click', 'index': 17}",
+        "action_output": "I need to click on the minute to set the minute to 30.{\"action_type\": \"click\", \"index\": 17}{'action_type': 'click', 'index': 17}"
+    },
+    {
+        "id": 11,
+        "task_goal": "In app clock, Set an alarm for 16:30 and confirm the alarm setting.",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"text\": \"Select time\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    427,
+                    629,
+                    675
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"text\": \"Hour\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    328,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"text\": \"12\", \"content_description\": \"12 hours\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \":\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    508,
+                    571,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"00\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"Minute\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    674,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"content_description\": \"Switch to clock mode for the time input.\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    225,
+                    352,
+                    1038,
+                    1164
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"text\": \"Cancel\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    487,
+                    676,
+                    1043,
+                    1169
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"OK\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    697,
+                    865,
+                    1043,
+                    1169
+                ]
+            }
+        ],
+        "action": "{'action_type': 'click', 'index': 17}",
+        "action_output": "I need to set the minutes to 30. The current screen shows the hour selection. I need to click on the \"Minute\" button to switch to the minute selection.{\"action_type\": \"click\", \"index\": 17}{'action_type': 'click', 'index': 17}"
+    },
+    {
+        "id": 12,
+        "task_goal": "In app clock, Set an alarm for 16:30 and confirm the alarm setting.",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    193,
+                    886,
+                    587,
+                    1174
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"text\": \"Select time\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    427,
+                    629,
+                    675
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    823,
+                    703,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"text\": \"Hour\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    328,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"text\": \"12\", \"content_description\": \"12 hours\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    256,
+                    508,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \":\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    508,
+                    571,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"00\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    823,
+                    724,
+                    934
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"Minute\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    571,
+                    674,
+                    934,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"content_description\": \"Switch to clock mode for the time input.\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    225,
+                    352,
+                    1038,
+                    1164
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"text\": \"Cancel\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    487,
+                    676,
+                    1043,
+                    1169
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"OK\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    697,
+                    865,
+                    1043,
+                    1169
+                ]
+            }
+        ],
+        "action": "{'action_type': 'click', 'index': 17}",
+        "action_output": "I need to set the minutes to 30. The current screen shows the hour selection. I need to click on the \"Minute\" button to switch to the minute selection screen.{\"action_type\": \"click\", \"index\": 17}{'action_type': 'click', 'index': 17}"
+    }
+]

@@ -20,8 +20,8 @@ from process_data_util import *
 import json
 from calculate_excel import *
 
-processed_data_path = "/data7/Users/lyx/code/mcts_dataset/data_for_check_25_3_31/1_processed_data" # 本次后处理完成的轨迹的目标文件夹
-data_for_check_path = "/data7/Users/lyx/code/mcts_dataset/data_for_check_25_3_31/2_data_for_check" # 给人看的文件夹
+processed_data_path = "/data7/Users/lyx/code/mcts_dataset/data_for_check_25_4_2/1_processed_data" # 本次后处理完成的轨迹的目标文件夹
+data_for_check_path = "/data7/Users/lyx/code/mcts_dataset/data_for_check_25_4_2/2_data_for_check" # 给人看的文件夹
 app_folder_paths = get_sorted_subfolder_paths(processed_data_path) # 获取本次完成后处理的app的文件夹路径
 
 for app_folder_path in app_folder_paths:
@@ -73,7 +73,8 @@ for app_folder_path in app_folder_paths:
                     with open(sub_instruction_list_json_path, "r") as f:
                         sub_instruction_list = json.load(f)
                     sub_instruction = sub_instruction_list[id-1]
-                    ui_action_summary_dic["action_output"] = sub_instruction+ui_action_summary_dic["action"]
+                    ui_action_summary_dic["action_output"] = ui_action_summary_dic["action"]
+                    ui_action_summary_dic["summary"] = sub_instruction
                 
                 ui_action_summary_list.append(ui_action_summary_dic)
             

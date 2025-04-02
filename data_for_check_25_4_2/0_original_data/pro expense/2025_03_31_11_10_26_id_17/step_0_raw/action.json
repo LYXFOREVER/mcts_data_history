@@ -1,0 +1,76 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Pro Expense"
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "click",
+            "index": 11
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new expense entry in the Pro Expense app. To do this, I need to open the Pro Expense app first.{\"action_type\": \"open_app\", \"app_name\": \"Pro Expense\"}",
+        "To create a new expense entry, I need to click the '+' button.{\"action_type\": \"click\", \"index\": 24}",
+        "The user wants to set the time for the expense entry. The current screen shows the expense creation screen, and I need to find the time field to set it.{\"action_type\": \"click\", \"index\": 14}",
+        "The current screen shows a calendar. I need to set the date to March 30, 2025. I will click on the year to change it.{\"action_type\": \"click\", \"index\": 11}",
+        "The current screen shows a list of years. I need to find and click on 2025.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find the year 2025.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to find the year 2025 in the list of years.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to find the year 2025 in the list of years.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 11}",
+        "I need to find the year 2025 in the list of years.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to find the year 2025 in the list to select it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 11}",
+        "I need to scroll down further to find the year 2025.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 11}",
+        "I need to scroll down to find the year 2025 in the date picker.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 11}",
+        "I need to scroll down further to find the year 2025 in the date picker.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 11}"
+    ]
+}

@@ -1,0 +1,164 @@
+[
+    {
+        "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            373,
+            1080,
+            183,
+            843
+        ]
+    },
+    {
+        "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            373,
+            1080,
+            183,
+            843
+        ]
+    },
+    {
+        "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            373,
+            1080,
+            183,
+            843
+        ]
+    },
+    {
+        "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            388,
+            1065,
+            198,
+            828
+        ]
+    },
+    {
+        "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            388,
+            1065,
+            198,
+            324
+        ]
+    },
+    {
+        "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            430,
+            493,
+            229,
+            292
+        ]
+    },
+    {
+        "ui_description": "UI element 6: {\"index\": 6, \"text\": \"New tab\", \"content_description\": \"New tab\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            493,
+            680,
+            198,
+            324
+        ]
+    },
+    {
+        "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            388,
+            1065,
+            324,
+            450
+        ]
+    },
+    {
+        "ui_description": "UI element 8: {\"index\": 8, \"text\": \"New Incognito tab\", \"content_description\": \"New Incognito tab\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            430,
+            1023,
+            324,
+            450
+        ]
+    },
+    {
+        "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            388,
+            1065,
+            450,
+            576
+        ]
+    },
+    {
+        "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            430,
+            493,
+            481,
+            544
+        ]
+    },
+    {
+        "ui_description": "UI element 11: {\"index\": 11, \"text\": \"Close Incognito tabs\", \"content_description\": \"Close Incognito tabs\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            493,
+            908,
+            450,
+            576
+        ]
+    },
+    {
+        "ui_description": "UI element 12: {\"index\": 12, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            388,
+            1065,
+            576,
+            702
+        ]
+    },
+    {
+        "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            430,
+            493,
+            607,
+            670
+        ]
+    },
+    {
+        "ui_description": "UI element 14: {\"index\": 14, \"text\": \"Group tabs\", \"content_description\": \"Group tabs\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            493,
+            732,
+            576,
+            702
+        ]
+    },
+    {
+        "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            388,
+            1065,
+            702,
+            828
+        ]
+    },
+    {
+        "ui_description": "UI element 16: {\"index\": 16, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            430,
+            493,
+            733,
+            796
+        ]
+    },
+    {
+        "ui_description": "UI element 17: {\"index\": 17, \"text\": \"Settings\", \"content_description\": \"Settings\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            493,
+            679,
+            702,
+            828
+        ]
+    }
+]

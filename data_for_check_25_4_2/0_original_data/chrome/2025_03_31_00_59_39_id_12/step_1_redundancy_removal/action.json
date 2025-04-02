@@ -1,0 +1,16 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Chrome"
+        },
+        {
+            "action_type": "click",
+            "index": 37
+        }
+    ],
+    "action_output_list": [
+        "The user wants to turn on sync for Chrome by adding a Google account. First, I need to open the Chrome app.{\"action_type\": \"open_app\", \"app_name\": \"Chrome\"}",
+        "To turn on sync, I need to access the Chrome settings. The \"More options\" button (three dots) usually leads to settings.{\"action_type\": \"click\", \"index\": 37}"
+    ]
+}

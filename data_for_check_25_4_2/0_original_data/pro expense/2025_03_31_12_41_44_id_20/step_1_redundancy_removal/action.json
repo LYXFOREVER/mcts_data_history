@@ -1,0 +1,21 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Pro Expense"
+        },
+        {
+            "action_type": "click",
+            "index": 11
+        },
+        {
+            "action_type": "click",
+            "index": 42
+        }
+    ],
+    "action_output_list": [
+        "The user wants to change the expense entry date. To do this, I need to open the Pro Expense app.{\"action_type\": \"open_app\", \"app_name\": \"Pro Expense\"}",
+        "The user wants to change the expense entry date. I need to find the expense entry first. I will click on the first expense entry to see if I can change the date there.{\"action_type\": \"click\", \"index\": 11}",
+        "The current screen shows the main view of the Pro Expense app, displaying a summary of income and expenses. To change the date of an expense, I need to navigate to the expense logs.{\"action_type\": \"click\", \"index\": 42}"
+    ]
+}

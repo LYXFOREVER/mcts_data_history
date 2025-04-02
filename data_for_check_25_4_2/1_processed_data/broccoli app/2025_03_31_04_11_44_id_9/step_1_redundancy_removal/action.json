@@ -1,0 +1,16 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Broccoli"
+        },
+        {
+            "action_type": "click",
+            "index": 9
+        }
+    ],
+    "action_output_list": [
+        "The user wants to share the Broccoli app. I need to open the Broccoli app first.{\"action_type\": \"open_app\", \"app_name\": \"Broccoli\"}",
+        "The user wants to share the Broccoli app with a friend using the Messages app. I need to find a share option within the Broccoli app. Since I don't see an obvious share button, I will try opening the navigation drawer to see if there's a share option there.{\"action_type\": \"click\", \"index\": 9}"
+    ]
+}

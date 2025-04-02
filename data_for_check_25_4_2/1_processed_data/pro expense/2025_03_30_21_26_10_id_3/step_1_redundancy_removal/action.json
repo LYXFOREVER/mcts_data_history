@@ -1,0 +1,11 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Pro Expense"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to record an expense in Pro Expense. I need to open the app first.{\"action_type\": \"open_app\", \"app_name\": \"Pro Expense\"}"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "broccoli"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to close the bottom panel and share the app. I need to first open the app.{\"action_type\": \"open_app\", \"app_name\": \"broccoli\"}"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Clock"
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 54
+        },
+        {
+            "action_type": "click",
+            "index": 10
+        },
+        {
+            "action_type": "click",
+            "index": 1
+        },
+        {
+            "action_type": "click",
+            "index": 6
+        },
+        {
+            "action_type": "click",
+            "index": 8
+        },
+        {
+            "action_type": "click",
+            "index": 6
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        }
+    ],
+    "action_output_list": [
+        "The user wants to set an alarm. The clock app is the correct app to open to achieve this goal.{\"action_type\": \"open_app\", \"app_name\": \"Clock\"}",
+        "The user wants to set an alarm for 15:25. The current screen is the Clock app, and the Alarm tab is selected. I should click the \"+\" button to add a new alarm.{\"action_type\": \"click\", \"index\": 24}",
+        "The user wants to set an alarm for 15:25. There are existing alarms on the screen. To add a new alarm, I should click the \"Add alarm\" button.{\"action_type\": \"click\", \"index\": 54}",
+        "The user wants to set the alarm for 15:25. The current screen shows the time selection interface. I need to set the hour to 15.{\"action_type\": \"click\", \"index\": 10}",
+        "The user wants to set the hour to 15. The current hour is 13. I need to increase the hour to 15.{\"action_type\": \"click\", \"index\": 1}",
+        "The current hour is 13, and the target hour is 15. I need to increase the hour by clicking the up arrow twice.{\"action_type\": \"click\", \"index\": 6}",
+        "The goal is to set the hour to 15. The current hour is 13. I need to increase the hour by clicking the up arrow.{\"action_type\": \"click\", \"index\": 8}",
+        "The current hour is 14, and the goal is to set it to 15. I should click the up arrow to increase the hour.{\"action_type\": \"click\", \"index\": 6}",
+        "The goal is to set the alarm for 15:25. The hour is already set to 15. Now I need to set the minutes to 25. I can click the down arrow to decrease the minutes from 35 to 25.{\"action_type\": \"click\", \"index\": 15}",
+        "The goal is to set the minutes to 25. The current minute is 35. I need to decrease the minutes by clicking the down arrow.{\"action_type\": \"click\", \"index\": 14}",
+        "The goal is to set the minutes to 25. The current minute is 34. I need to decrease the minute by clicking the down arrow.{\"action_type\": \"click\", \"index\": 13}",
+        "The goal is to set the minutes to 25. The current minute is 34. I need to click the down arrow to decrease the minute.{\"action_type\": \"click\", \"index\": 14}",
+        "The goal is to set the alarm time to 15:25. The current minute is 33. I need to click the down arrow to decrease the minute.{\"action_type\": \"click\", \"index\": 13}"
+    ]
+}

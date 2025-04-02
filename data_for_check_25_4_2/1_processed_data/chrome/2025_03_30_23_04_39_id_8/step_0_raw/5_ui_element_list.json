@@ -1,0 +1,551 @@
+[
+    {
+        "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2400
+        ]
+    },
+    {
+        "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            275
+        ]
+    },
+    {
+        "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            275
+        ]
+    },
+    {
+        "ui_description": "UI element 9: {\"index\": 9, \"content_description\": \"Navigate up\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            147,
+            128,
+            275
+        ]
+    },
+    {
+        "ui_description": "UI element 10: {\"index\": 10, \"text\": \"Settings\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            401,
+            165,
+            238
+        ]
+    },
+    {
+        "ui_description": "UI element 11: {\"index\": 11, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            953,
+            1080,
+            128,
+            275
+        ]
+    },
+    {
+        "ui_description": "UI element 12: {\"index\": 12, \"content_description\": \"Help & feedback\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            953,
+            1080,
+            138,
+            264
+        ]
+    },
+    {
+        "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            275,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            275,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            275,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 16: {\"index\": 16, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            275,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 17: {\"index\": 17, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            275,
+            276
+        ]
+    },
+    {
+        "ui_description": "UI element 18: {\"index\": 18, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            275,
+            276
+        ]
+    },
+    {
+        "ui_description": "UI element 19: {\"index\": 19, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            279,
+            420
+        ]
+    },
+    {
+        "ui_description": "UI element 20: {\"index\": 20, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            279,
+            420
+        ]
+    },
+    {
+        "ui_description": "UI element 21: {\"index\": 21, \"text\": \"Password Manager\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            406,
+            321,
+            378
+        ]
+    },
+    {
+        "ui_description": "UI element 22: {\"index\": 22, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            423,
+            564
+        ]
+    },
+    {
+        "ui_description": "UI element 23: {\"index\": 23, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            423,
+            564
+        ]
+    },
+    {
+        "ui_description": "UI element 24: {\"index\": 24, \"text\": \"Payment methods\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            384,
+            465,
+            522
+        ]
+    },
+    {
+        "ui_description": "UI element 25: {\"index\": 25, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            567,
+            708
+        ]
+    },
+    {
+        "ui_description": "UI element 26: {\"index\": 26, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            567,
+            708
+        ]
+    },
+    {
+        "ui_description": "UI element 27: {\"index\": 27, \"text\": \"Addresses and more\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            428,
+            609,
+            666
+        ]
+    },
+    {
+        "ui_description": "UI element 28: {\"index\": 28, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            711,
+            852
+        ]
+    },
+    {
+        "ui_description": "UI element 29: {\"index\": 29, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            711,
+            852
+        ]
+    },
+    {
+        "ui_description": "UI element 30: {\"index\": 30, \"text\": \"Privacy and security\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            415,
+            753,
+            810
+        ]
+    },
+    {
+        "ui_description": "UI element 31: {\"index\": 31, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            855,
+            996
+        ]
+    },
+    {
+        "ui_description": "UI element 32: {\"index\": 32, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            855,
+            996
+        ]
+    },
+    {
+        "ui_description": "UI element 33: {\"index\": 33, \"text\": \"Safety check\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            281,
+            897,
+            954
+        ]
+    },
+    {
+        "ui_description": "UI element 34: {\"index\": 34, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            999,
+            1140
+        ]
+    },
+    {
+        "ui_description": "UI element 35: {\"index\": 35, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            999,
+            1140
+        ]
+    },
+    {
+        "ui_description": "UI element 36: {\"index\": 36, \"text\": \"Notifications\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            281,
+            1041,
+            1098
+        ]
+    },
+    {
+        "ui_description": "UI element 37: {\"index\": 37, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1143,
+            1284
+        ]
+    },
+    {
+        "ui_description": "UI element 38: {\"index\": 38, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            1143,
+            1284
+        ]
+    },
+    {
+        "ui_description": "UI element 39: {\"index\": 39, \"text\": \"Theme\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            171,
+            1185,
+            1242
+        ]
+    },
+    {
+        "ui_description": "UI element 40: {\"index\": 40, \"text\": \"Advanced\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1287,
+            1380
+        ]
+    },
+    {
+        "ui_description": "UI element 41: {\"index\": 41, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1422,
+            1614
+        ]
+    },
+    {
+        "ui_description": "UI element 42: {\"index\": 42, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            1422,
+            1614
+        ]
+    },
+    {
+        "ui_description": "UI element 43: {\"index\": 43, \"text\": \"Homepage\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            248,
+            1464,
+            1521
+        ]
+    },
+    {
+        "ui_description": "UI element 44: {\"index\": 44, \"text\": \"On\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            87,
+            1521,
+            1572
+        ]
+    },
+    {
+        "ui_description": "UI element 45: {\"index\": 45, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1617,
+            1758
+        ]
+    },
+    {
+        "ui_description": "UI element 46: {\"index\": 46, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            1617,
+            1758
+        ]
+    },
+    {
+        "ui_description": "UI element 47: {\"index\": 47, \"text\": \"Accessibility\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            277,
+            1659,
+            1716
+        ]
+    },
+    {
+        "ui_description": "UI element 48: {\"index\": 48, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1761,
+            1902
+        ]
+    },
+    {
+        "ui_description": "UI element 49: {\"index\": 49, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            1761,
+            1902
+        ]
+    },
+    {
+        "ui_description": "UI element 50: {\"index\": 50, \"text\": \"Site settings\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            274,
+            1803,
+            1860
+        ]
+    },
+    {
+        "ui_description": "UI element 51: {\"index\": 51, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1905,
+            2046
+        ]
+    },
+    {
+        "ui_description": "UI element 52: {\"index\": 52, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            1905,
+            2046
+        ]
+    },
+    {
+        "ui_description": "UI element 53: {\"index\": 53, \"text\": \"Languages\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            249,
+            1947,
+            2004
+        ]
+    },
+    {
+        "ui_description": "UI element 54: {\"index\": 54, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            2049,
+            2190
+        ]
+    },
+    {
+        "ui_description": "UI element 55: {\"index\": 55, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            2049,
+            2190
+        ]
+    },
+    {
+        "ui_description": "UI element 56: {\"index\": 56, \"text\": \"Downloads\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            252,
+            2091,
+            2148
+        ]
+    },
+    {
+        "ui_description": "UI element 57: {\"index\": 57, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            2193,
+            2334
+        ]
+    },
+    {
+        "ui_description": "UI element 58: {\"index\": 58, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            2193,
+            2334
+        ]
+    },
+    {
+        "ui_description": "UI element 59: {\"index\": 59, \"text\": \"About Chrome\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            311,
+            2235,
+            2292
+        ]
+    },
+    {
+        "ui_description": "UI element 60: {\"index\": 60, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            2337,
+            2400
+        ]
+    }
+]

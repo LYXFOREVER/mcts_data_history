@@ -1,0 +1,16 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Phone"
+        },
+        {
+            "action_type": "click",
+            "index": 11
+        }
+    ],
+    "action_output_list": [
+        "The user wants to search for 'John Smith' in contacts using the dialer app. The first step is to open the dialer app.{\"action_type\": \"open_app\", \"app_name\": \"Phone\"}",
+        "The user wants to search for 'John Smith' in contacts. The current screen shows the contacts list in the Phone app. The next step is to click on the search bar to type the name. The search bar is at index 11.{\"action_type\": \"click\", \"index\": 11}"
+    ]
+}

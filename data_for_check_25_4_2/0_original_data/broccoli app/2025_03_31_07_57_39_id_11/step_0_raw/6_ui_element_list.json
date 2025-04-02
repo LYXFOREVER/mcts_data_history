@@ -1,0 +1,65 @@
+[
+    {
+        "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            827,
+            285,
+            789
+        ]
+    },
+    {
+        "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            827,
+            285,
+            789
+        ]
+    },
+    {
+        "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            827,
+            285,
+            789
+        ]
+    },
+    {
+        "ui_description": "UI element 3: {\"index\": 3, \"text\": \"All recipes\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": True}",
+        "ui_bbox": [
+            42,
+            827,
+            285,
+            411
+        ]
+    },
+    {
+        "ui_description": "UI element 4: {\"index\": 4, \"text\": \"Seasonal recipes\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            827,
+            411,
+            537
+        ]
+    },
+    {
+        "ui_description": "UI element 5: {\"index\": 5, \"text\": \"Recipes without category\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            827,
+            537,
+            663
+        ]
+    },
+    {
+        "ui_description": "UI element 6: {\"index\": 6, \"text\": \"Favorites\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            827,
+            663,
+            789
+        ]
+    }
+]

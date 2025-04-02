@@ -1,0 +1,533 @@
+[
+    {
+        "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2400
+        ]
+    },
+    {
+        "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 11: {\"index\": 11, \"text\": \"Search contacts & places\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            149,
+            275
+        ]
+    },
+    {
+        "ui_description": "UI element 12: {\"index\": 12, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            53,
+            179,
+            149,
+            275
+        ]
+    },
+    {
+        "ui_description": "UI element 13: {\"index\": 13, \"text\": \"Search contacts & places\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            179,
+            654,
+            185,
+            239
+        ]
+    },
+    {
+        "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            785,
+            1038,
+            149,
+            275
+        ]
+    },
+    {
+        "ui_description": "UI element 15: {\"index\": 15, \"content_description\": \"Start voice search\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            785,
+            912,
+            149,
+            275
+        ]
+    },
+    {
+        "ui_description": "UI element 16: {\"index\": 16, \"content_description\": \"More options\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            912,
+            1038,
+            149,
+            275
+        ]
+    },
+    {
+        "ui_description": "UI element 17: {\"index\": 17, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2122
+        ]
+    },
+    {
+        "ui_description": "UI element 18: {\"index\": 18, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2122
+        ]
+    },
+    {
+        "ui_description": "UI element 19: {\"index\": 19, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2122
+        ]
+    },
+    {
+        "ui_description": "UI element 20: {\"index\": 20, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            296,
+            2122
+        ]
+    },
+    {
+        "ui_description": "UI element 21: {\"index\": 21, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            147,
+            1038,
+            317,
+            464
+        ]
+    },
+    {
+        "ui_description": "UI element 22: {\"index\": 22, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            294,
+            338,
+            443
+        ]
+    },
+    {
+        "ui_description": "UI element 23: {\"index\": 23, \"text\": \"Create new contact\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            294,
+            733,
+            360,
+            420
+        ]
+    },
+    {
+        "ui_description": "UI element 24: {\"index\": 24, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            464,
+            611
+        ]
+    },
+    {
+        "ui_description": "UI element 25: {\"index\": 25, \"text\": \"A\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            147,
+            464,
+            611
+        ]
+    },
+    {
+        "ui_description": "UI element 26: {\"index\": 26, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            147,
+            1038,
+            464,
+            611
+        ]
+    },
+    {
+        "ui_description": "UI element 27: {\"index\": 27, \"content_description\": \"Quick contact for Arthur Wang\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            294,
+            485,
+            590
+        ]
+    },
+    {
+        "ui_description": "UI element 28: {\"index\": 28, \"text\": \"Arthur Wang\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            294,
+            599,
+            485,
+            590
+        ]
+    },
+    {
+        "ui_description": "UI element 29: {\"index\": 29, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            611,
+            758
+        ]
+    },
+    {
+        "ui_description": "UI element 30: {\"index\": 30, \"text\": \"M\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            147,
+            611,
+            758
+        ]
+    },
+    {
+        "ui_description": "UI element 31: {\"index\": 31, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            147,
+            1038,
+            611,
+            758
+        ]
+    },
+    {
+        "ui_description": "UI element 32: {\"index\": 32, \"content_description\": \"Quick contact for Mariam Pereira\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            294,
+            632,
+            737
+        ]
+    },
+    {
+        "ui_description": "UI element 33: {\"index\": 33, \"text\": \"Mariam Pereira\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            294,
+            645,
+            632,
+            737
+        ]
+    },
+    {
+        "ui_description": "UI element 34: {\"index\": 34, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            147,
+            296,
+            443
+        ]
+    },
+    {
+        "ui_description": "UI element 35: {\"index\": 35, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            296,
+            2122
+        ]
+    },
+    {
+        "ui_description": "UI element 36: {\"index\": 36, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            807,
+            1080,
+            1849,
+            2122
+        ]
+    },
+    {
+        "ui_description": "UI element 37: {\"index\": 37, \"content_description\": \"key pad\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            870,
+            1017,
+            1912,
+            2059
+        ]
+    },
+    {
+        "ui_description": "UI element 38: {\"index\": 38, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            2122,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 39: {\"index\": 39, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            2122,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 40: {\"index\": 40, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            2127,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 41: {\"index\": 41, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            2127,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 42: {\"index\": 42, \"content_description\": \"Favorites\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            360,
+            2127,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 43: {\"index\": 43, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            96,
+            264,
+            2159,
+            2243
+        ]
+    },
+    {
+        "ui_description": "UI element 44: {\"index\": 44, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            148,
+            211,
+            2169,
+            2232
+        ]
+    },
+    {
+        "ui_description": "UI element 45: {\"index\": 45, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            110,
+            249,
+            2259,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 46: {\"index\": 46, \"text\": \"Favorites\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            110,
+            249,
+            2259,
+            2305
+        ]
+    },
+    {
+        "ui_description": "UI element 47: {\"index\": 47, \"content_description\": \"Recents\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            360,
+            720,
+            2127,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 48: {\"index\": 48, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            456,
+            624,
+            2159,
+            2243
+        ]
+    },
+    {
+        "ui_description": "UI element 49: {\"index\": 49, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            508,
+            571,
+            2169,
+            2232
+        ]
+    },
+    {
+        "ui_description": "UI element 50: {\"index\": 50, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            478,
+            601,
+            2259,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 51: {\"index\": 51, \"text\": \"Recents\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            478,
+            601,
+            2259,
+            2305
+        ]
+    },
+    {
+        "ui_description": "UI element 52: {\"index\": 52, \"content_description\": \"Contacts\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            720,
+            1080,
+            2127,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 53: {\"index\": 53, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            816,
+            984,
+            2159,
+            2243
+        ]
+    },
+    {
+        "ui_description": "UI element 54: {\"index\": 54, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            816,
+            984,
+            2159,
+            2243
+        ]
+    },
+    {
+        "ui_description": "UI element 55: {\"index\": 55, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            868,
+            931,
+            2169,
+            2232
+        ]
+    },
+    {
+        "ui_description": "UI element 56: {\"index\": 56, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            831,
+            969,
+            2259,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 57: {\"index\": 57, \"text\": \"Contacts\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            831,
+            969,
+            2259,
+            2305
+        ]
+    },
+    {
+        "ui_description": "UI element 58: {\"index\": 58, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            2337,
+            2400
+        ]
+    }
+]

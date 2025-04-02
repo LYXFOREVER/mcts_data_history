@@ -1,0 +1,11 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Phone"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to search for a contact and initiate a call. The phone app is on the home screen, so I should open it.{\"action_type\": \"open_app\", \"app_name\": \"Phone\"}"
+    ]
+}

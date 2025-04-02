@@ -1,0 +1,4 @@
+{
+    "score": 1,
+    "reason": "The agent opens the Phone app, then scrolls down, and then navigates back. The initial instruction was to browse contacts in the Phone app after initially opening the Contacts app, then returning to the home screen. The agent opens the Phone app instead of the Contacts app. The agent does not browse contacts."
+}

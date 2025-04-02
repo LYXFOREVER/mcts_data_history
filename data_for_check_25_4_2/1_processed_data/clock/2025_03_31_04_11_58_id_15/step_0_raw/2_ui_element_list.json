@@ -1,0 +1,749 @@
+[
+    {
+        "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2400
+        ]
+    },
+    {
+        "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2400
+        ]
+    },
+    {
+        "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2400
+        ]
+    },
+    {
+        "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2400
+        ]
+    },
+    {
+        "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2400
+        ]
+    },
+    {
+        "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2400
+        ]
+    },
+    {
+        "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2400
+        ]
+    },
+    {
+        "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            296
+        ]
+    },
+    {
+        "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            296
+        ]
+    },
+    {
+        "ui_description": "UI element 9: {\"index\": 9, \"text\": \"Alarm\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            63,
+            218,
+            175,
+            248
+        ]
+    },
+    {
+        "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            975,
+            1080,
+            138,
+            285
+        ]
+    },
+    {
+        "ui_description": "UI element 11: {\"index\": 11, \"content_description\": \"More options\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            975,
+            1080,
+            148,
+            274
+        ]
+    },
+    {
+        "ui_description": "UI element 12: {\"index\": 12, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            296,
+            2127
+        ]
+    },
+    {
+        "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            296,
+            2127
+        ]
+    },
+    {
+        "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            296,
+            2127
+        ]
+    },
+    {
+        "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            296,
+            2127
+        ]
+    },
+    {
+        "ui_description": "UI element 16: {\"index\": 16, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            296,
+            2127
+        ]
+    },
+    {
+        "ui_description": "UI element 17: {\"index\": 17, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            296,
+            2127
+        ]
+    },
+    {
+        "ui_description": "UI element 18: {\"index\": 18, \"content_description\": \"14:00 Alarm\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            317,
+            1505
+        ]
+    },
+    {
+        "ui_description": "UI element 19: {\"index\": 19, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            317,
+            1505
+        ]
+    },
+    {
+        "ui_description": "UI element 20: {\"index\": 20, \"text\": \"Add label\", \"content_description\": \"No label specified\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            84,
+            891,
+            317,
+            443
+        ]
+    },
+    {
+        "ui_description": "UI element 21: {\"index\": 21, \"content_description\": \"Collapse alarm\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            891,
+            996,
+            317,
+            443
+        ]
+    },
+    {
+        "ui_description": "UI element 22: {\"index\": 22, \"text\": \"14:00\", \"content_description\": \"14:00\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            84,
+            450,
+            443,
+            602
+        ]
+    },
+    {
+        "ui_description": "UI element 23: {\"index\": 23, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            84,
+            850,
+            602,
+            728
+        ]
+    },
+    {
+        "ui_description": "UI element 24: {\"index\": 24, \"text\": \"Sunday\", \"content_description\": \"Sunday\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            84,
+            229,
+            641,
+            688
+        ]
+    },
+    {
+        "ui_description": "UI element 25: {\"index\": 25, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": True}",
+        "ui_bbox": [
+            850,
+            996,
+            602,
+            728
+        ]
+    },
+    {
+        "ui_description": "UI element 26: {\"index\": 26, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            74,
+            1006,
+            728,
+            854
+        ]
+    },
+    {
+        "ui_description": "UI element 27: {\"index\": 27, \"text\": \"S\", \"content_description\": \"Sunday\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": True}",
+        "ui_bbox": [
+            74,
+            200,
+            728,
+            854
+        ]
+    },
+    {
+        "ui_description": "UI element 28: {\"index\": 28, \"text\": \"M\", \"content_description\": \"Monday\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            208,
+            334,
+            728,
+            854
+        ]
+    },
+    {
+        "ui_description": "UI element 29: {\"index\": 29, \"text\": \"T\", \"content_description\": \"Tuesday\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            343,
+            469,
+            728,
+            854
+        ]
+    },
+    {
+        "ui_description": "UI element 30: {\"index\": 30, \"text\": \"W\", \"content_description\": \"Wednesday\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            477,
+            603,
+            728,
+            854
+        ]
+    },
+    {
+        "ui_description": "UI element 31: {\"index\": 31, \"text\": \"T\", \"content_description\": \"Thursday\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            611,
+            737,
+            728,
+            854
+        ]
+    },
+    {
+        "ui_description": "UI element 32: {\"index\": 32, \"text\": \"F\", \"content_description\": \"Friday\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            746,
+            872,
+            728,
+            854
+        ]
+    },
+    {
+        "ui_description": "UI element 33: {\"index\": 33, \"text\": \"S\", \"content_description\": \"Saturday\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            880,
+            1006,
+            728,
+            854
+        ]
+    },
+    {
+        "ui_description": "UI element 34: {\"index\": 34, \"text\": \"Pause alarm\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            84,
+            996,
+            854,
+            980
+        ]
+    },
+    {
+        "ui_description": "UI element 35: {\"index\": 35, \"text\": \"Default (Cesium)\", \"content_description\": \"Ringtone Default (Cesium)\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            84,
+            996,
+            980,
+            1106
+        ]
+    },
+    {
+        "ui_description": "UI element 36: {\"index\": 36, \"text\": \"Vibrate\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            84,
+            996,
+            1106,
+            1232
+        ]
+    },
+    {
+        "ui_description": "UI element 37: {\"index\": 37, \"text\": \"Google Assistant Routine\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            84,
+            996,
+            1232,
+            1358
+        ]
+    },
+    {
+        "ui_description": "UI element 38: {\"index\": 38, \"text\": \"Delete\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            84,
+            351,
+            1358,
+            1484
+        ]
+    },
+    {
+        "ui_description": "UI element 39: {\"index\": 39, \"content_description\": \"15:25 Alarm\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            1526,
+            1853
+        ]
+    },
+    {
+        "ui_description": "UI element 40: {\"index\": 40, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            1526,
+            1853
+        ]
+    },
+    {
+        "ui_description": "UI element 41: {\"index\": 41, \"text\": \"15:25\", \"content_description\": \"15:25\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            84,
+            450,
+            1568,
+            1727
+        ]
+    },
+    {
+        "ui_description": "UI element 42: {\"index\": 42, \"content_description\": \"Expand alarm\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            891,
+            996,
+            1526,
+            1652
+        ]
+    },
+    {
+        "ui_description": "UI element 43: {\"index\": 43, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            84,
+            850,
+            1727,
+            1853
+        ]
+    },
+    {
+        "ui_description": "UI element 44: {\"index\": 44, \"text\": \"Tue, Fri\", \"content_description\": \"Tuesday, Friday\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            84,
+            225,
+            1727,
+            1853
+        ]
+    },
+    {
+        "ui_description": "UI element 45: {\"index\": 45, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": True}",
+        "ui_bbox": [
+            850,
+            996,
+            1727,
+            1853
+        ]
+    },
+    {
+        "ui_description": "UI element 46: {\"index\": 46, \"content_description\": \"10:00 Alarm\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            1874,
+            2127
+        ]
+    },
+    {
+        "ui_description": "UI element 47: {\"index\": 47, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            1874,
+            2127
+        ]
+    },
+    {
+        "ui_description": "UI element 48: {\"index\": 48, \"text\": \"16:00\", \"content_description\": \"16:00\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            84,
+            450,
+            1916,
+            2075
+        ]
+    },
+    {
+        "ui_description": "UI element 49: {\"index\": 49, \"content_description\": \"Expand alarm\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            891,
+            996,
+            1874,
+            2000
+        ]
+    },
+    {
+        "ui_description": "UI element 50: {\"index\": 50, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            84,
+            850,
+            2075,
+            2127
+        ]
+    },
+    {
+        "ui_description": "UI element 51: {\"index\": 51, \"text\": \"Sunday\", \"content_description\": \"Sunday\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            84,
+            229,
+            2075,
+            2127
+        ]
+    },
+    {
+        "ui_description": "UI element 52: {\"index\": 52, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": True}",
+        "ui_bbox": [
+            850,
+            996,
+            2075,
+            2127
+        ]
+    },
+    {
+        "ui_description": "UI element 53: {\"index\": 53, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1791,
+            2127
+        ]
+    },
+    {
+        "ui_description": "UI element 54: {\"index\": 54, \"content_description\": \"Add alarm\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            414,
+            666,
+            1833,
+            2085
+        ]
+    },
+    {
+        "ui_description": "UI element 55: {\"index\": 55, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            2127,
+            2400
+        ]
+    },
+    {
+        "ui_description": "UI element 56: {\"index\": 56, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            2127,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 57: {\"index\": 57, \"content_description\": \"Alarm\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            216,
+            2127,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 58: {\"index\": 58, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            24,
+            192,
+            2159,
+            2243
+        ]
+    },
+    {
+        "ui_description": "UI element 59: {\"index\": 59, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            24,
+            192,
+            2159,
+            2243
+        ]
+    },
+    {
+        "ui_description": "UI element 60: {\"index\": 60, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            76,
+            139,
+            2169,
+            2232
+        ]
+    },
+    {
+        "ui_description": "UI element 61: {\"index\": 61, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            57,
+            159,
+            2253,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 62: {\"index\": 62, \"text\": \"Alarm\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+        "ui_bbox": [
+            57,
+            159,
+            2253,
+            2306
+        ]
+    },
+    {
+        "ui_description": "UI element 63: {\"index\": 63, \"content_description\": \"Clock\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            216,
+            432,
+            2127,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 64: {\"index\": 64, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            240,
+            408,
+            2159,
+            2243
+        ]
+    },
+    {
+        "ui_description": "UI element 65: {\"index\": 65, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            292,
+            355,
+            2169,
+            2232
+        ]
+    },
+    {
+        "ui_description": "UI element 66: {\"index\": 66, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            274,
+            373,
+            2253,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 67: {\"index\": 67, \"text\": \"Clock\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            274,
+            373,
+            2253,
+            2306
+        ]
+    },
+    {
+        "ui_description": "UI element 68: {\"index\": 68, \"content_description\": \"Timer\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            432,
+            648,
+            2127,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 69: {\"index\": 69, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            456,
+            624,
+            2159,
+            2243
+        ]
+    },
+    {
+        "ui_description": "UI element 70: {\"index\": 70, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            508,
+            571,
+            2169,
+            2232
+        ]
+    },
+    {
+        "ui_description": "UI element 71: {\"index\": 71, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            490,
+            589,
+            2253,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 72: {\"index\": 72, \"text\": \"Timer\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            490,
+            589,
+            2253,
+            2306
+        ]
+    },
+    {
+        "ui_description": "UI element 73: {\"index\": 73, \"content_description\": \"Stopwatch\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            648,
+            864,
+            2127,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 74: {\"index\": 74, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            672,
+            840,
+            2159,
+            2243
+        ]
+    },
+    {
+        "ui_description": "UI element 75: {\"index\": 75, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            724,
+            787,
+            2169,
+            2232
+        ]
+    },
+    {
+        "ui_description": "UI element 76: {\"index\": 76, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            663,
+            849,
+            2253,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 77: {\"index\": 77, \"text\": \"Stopwatch\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            663,
+            849,
+            2253,
+            2306
+        ]
+    },
+    {
+        "ui_description": "UI element 78: {\"index\": 78, \"content_description\": \"Bedtime\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            864,
+            1080,
+            2127,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 79: {\"index\": 79, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            888,
+            1056,
+            2159,
+            2243
+        ]
+    },
+    {
+        "ui_description": "UI element 80: {\"index\": 80, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            940,
+            1003,
+            2169,
+            2232
+        ]
+    },
+    {
+        "ui_description": "UI element 81: {\"index\": 81, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            899,
+            1044,
+            2253,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 82: {\"index\": 82, \"text\": \"Bedtime\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            899,
+            1044,
+            2253,
+            2306
+        ]
+    }
+]

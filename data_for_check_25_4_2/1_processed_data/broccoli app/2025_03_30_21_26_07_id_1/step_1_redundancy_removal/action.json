@@ -1,0 +1,11 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Broccoli"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new recipe in the Broccoli app. To do this, I need to open the Broccoli app first.{\"action_type\": \"open_app\", \"app_name\": \"Broccoli\"}"
+    ]
+}

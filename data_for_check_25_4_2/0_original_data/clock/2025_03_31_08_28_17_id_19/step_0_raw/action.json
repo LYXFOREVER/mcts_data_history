@@ -1,0 +1,81 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Clock"
+        },
+        {
+            "action_type": "click",
+            "index": 47
+        },
+        {
+            "action_type": "click",
+            "index": 11
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 10,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 10,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 10,
+            "direction": "up"
+        },
+        {
+            "action_type": "scroll",
+            "index": 10,
+            "direction": "up"
+        },
+        {
+            "action_type": "scroll",
+            "index": 10,
+            "direction": "up"
+        },
+        {
+            "action_type": "scroll",
+            "index": 10,
+            "direction": "up"
+        },
+        {
+            "action_type": "scroll",
+            "index": 10,
+            "direction": "up"
+        }
+    ],
+    "action_output_list": [
+        "To set an alarm, I need to open the Clock app.{\"action_type\": \"open_app\", \"app_name\": \"Clock\"}",
+        "The user wants to set an alarm for 10:25 AM. The current screen shows existing alarms. To create a new alarm, I should click the \"Add alarm\" button.{\"action_type\": \"click\", \"index\": 47}",
+        "The user wants to set the alarm for 10:25 AM. The current screen shows the time selection interface. I need to set the hour to 10.{\"action_type\": \"click\", \"index\": 11}",
+        "The user wants to set the hour to 10. I need to find the number 10 on the screen and click it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 11}",
+        "The user wants to set the hour to 10. The current screen shows the hour selection interface. I need to scroll down to find the number 10.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 10}",
+        "The user wants to set the hour to 10. The current screen shows the hour selection interface. I need to scroll down to find the number 10.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 11}",
+        "The user wants to set the hour to 10. The current screen shows the hour selection interface, and I need to scroll to find the number 10.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 11}",
+        "I need to scroll down to find the number 10 for the hour.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 10}",
+        "The user wants to set the hour to 10. The current screen shows the hour selection interface. I need to scroll up to find the number 10.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 10}",
+        "The user wants to set the hour to 10. The current screen shows the hour selection interface, and the number 23 is currently displayed. I need to scroll up to find the number 10.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 10}",
+        "The user wants to set the hour to 10. The current screen shows the hour selection interface. I need to scroll to find the number 10.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 10}",
+        "The user wants to set the hour to 10. The current screen shows the hour selection interface. I need to scroll up to find the number 10.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 10}",
+        "The user wants to set the hour to 10. The current screen shows the hour selection interface. I need to scroll to find the number 10.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 10}"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Phone"
+        },
+        {
+            "action_type": "click",
+            "index": 32
+        }
+    ],
+    "action_output_list": [
+        "The user wants to search for nearby restaurants in the dialer app. First, I need to open the dialer app.{\"action_type\": \"open_app\", \"app_name\": \"Phone\"}",
+        "To search for nearby restaurants, I need to click on the search bar.{\"action_type\": \"click\", \"index\": 32}"
+    ]
+}

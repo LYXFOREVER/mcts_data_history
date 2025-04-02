@@ -1,0 +1,20 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Chrome"
+        },
+        {
+            "action_type": "click",
+            "index": 69
+        },
+        {
+            "action_type": "wait"
+        }
+    ],
+    "action_output_list": [
+        "To enable Chrome sync, I need to open the Chrome app first.{\"action_type\": \"open_app\", \"app_name\": \"Chrome\"}",
+        "The user wants to enable Chrome sync. The current screen shows a \"Turn on sync\" button.{\"action_type\": \"click\", \"index\": 69}",
+        "The screen is showing \"Checking info…\", indicating that the sync process has started. I should wait for the screen to update.{\"action_type\": \"wait\"}"
+    ]
+}

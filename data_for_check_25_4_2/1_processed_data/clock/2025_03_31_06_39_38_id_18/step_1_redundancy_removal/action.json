@@ -1,0 +1,16 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Clock"
+        },
+        {
+            "action_type": "click",
+            "index": 18
+        }
+    ],
+    "action_output_list": [
+        "The user wants to set an alarm in the clock app.{\"action_type\": \"open_app\", \"app_name\": \"Clock\"}",
+        "The user wants to set the 15:25 alarm to ring only on Tuesdays and Fridays. The alarm is already set to ring on Tuesdays and Fridays, so I need to change the alarm sound to 'Echo'. To do this, I need to click on the alarm to expand it.{\"action_type\": \"click\", \"index\": 18}"
+    ]
+}

@@ -1,0 +1,488 @@
+[
+    {
+        "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2400
+        ]
+    },
+    {
+        "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            275
+        ]
+    },
+    {
+        "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            128,
+            275
+        ]
+    },
+    {
+        "ui_description": "UI element 9: {\"index\": 9, \"content_description\": \"Open navigation drawer\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            147,
+            128,
+            275
+        ]
+    },
+    {
+        "ui_description": "UI element 10: {\"index\": 10, \"text\": \"Settings\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            392,
+            166,
+            237
+        ]
+    },
+    {
+        "ui_description": "UI element 11: {\"index\": 11, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            275,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 12: {\"index\": 12, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            275,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            275,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            275,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            275,
+            2337
+        ]
+    },
+    {
+        "ui_description": "UI element 16: {\"index\": 16, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            317,
+            410
+        ]
+    },
+    {
+        "ui_description": "UI element 17: {\"index\": 17, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            317,
+            410
+        ]
+    },
+    {
+        "ui_description": "UI element 18: {\"index\": 18, \"text\": \"General settings\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            338,
+            389
+        ]
+    },
+    {
+        "ui_description": "UI element 19: {\"index\": 19, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            410,
+            602
+        ]
+    },
+    {
+        "ui_description": "UI element 20: {\"index\": 20, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            189,
+            463,
+            548
+        ]
+    },
+    {
+        "ui_description": "UI element 21: {\"index\": 21, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            105,
+            474,
+            537
+        ]
+    },
+    {
+        "ui_description": "UI element 22: {\"index\": 22, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            1038,
+            410,
+            602
+        ]
+    },
+    {
+        "ui_description": "UI element 23: {\"index\": 23, \"text\": \"Preferred category\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            536,
+            452,
+            509
+        ]
+    },
+    {
+        "ui_description": "UI element 24: {\"index\": 24, \"text\": \"Not set\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            308,
+            509,
+            560
+        ]
+    },
+    {
+        "ui_description": "UI element 25: {\"index\": 25, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            602,
+            794
+        ]
+    },
+    {
+        "ui_description": "UI element 26: {\"index\": 26, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            189,
+            655,
+            740
+        ]
+    },
+    {
+        "ui_description": "UI element 27: {\"index\": 27, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            105,
+            666,
+            729
+        ]
+    },
+    {
+        "ui_description": "UI element 28: {\"index\": 28, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            1038,
+            602,
+            794
+        ]
+    },
+    {
+        "ui_description": "UI element 29: {\"index\": 29, \"text\": \"Theme\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            318,
+            644,
+            701
+        ]
+    },
+    {
+        "ui_description": "UI element 30: {\"index\": 30, \"text\": \"System default\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            436,
+            701,
+            752
+        ]
+    },
+    {
+        "ui_description": "UI element 31: {\"index\": 31, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            836,
+            929
+        ]
+    },
+    {
+        "ui_description": "UI element 32: {\"index\": 32, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            836,
+            929
+        ]
+    },
+    {
+        "ui_description": "UI element 33: {\"index\": 33, \"text\": \"Seasonal calendar\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            1038,
+            857,
+            908
+        ]
+    },
+    {
+        "ui_description": "UI element 34: {\"index\": 34, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            929,
+            1121
+        ]
+    },
+    {
+        "ui_description": "UI element 35: {\"index\": 35, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            189,
+            982,
+            1067
+        ]
+    },
+    {
+        "ui_description": "UI element 36: {\"index\": 36, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            105,
+            993,
+            1056
+        ]
+    },
+    {
+        "ui_description": "UI element 37: {\"index\": 37, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            1038,
+            929,
+            1121
+        ]
+    },
+    {
+        "ui_description": "UI element 38: {\"index\": 38, \"text\": \"Region\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            318,
+            971,
+            1028
+        ]
+    },
+    {
+        "ui_description": "UI element 39: {\"index\": 39, \"text\": \"Not set\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            308,
+            1028,
+            1079
+        ]
+    },
+    {
+        "ui_description": "UI element 40: {\"index\": 40, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1121,
+            1356
+        ]
+    },
+    {
+        "ui_description": "UI element 41: {\"index\": 41, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            189,
+            1196,
+            1281
+        ]
+    },
+    {
+        "ui_description": "UI element 42: {\"index\": 42, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            105,
+            1207,
+            1270
+        ]
+    },
+    {
+        "ui_description": "UI element 43: {\"index\": 43, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            1038,
+            1121,
+            1356
+        ]
+    },
+    {
+        "ui_description": "UI element 44: {\"index\": 44, \"text\": \"Languages of recipes\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            591,
+            1163,
+            1220
+        ]
+    },
+    {
+        "ui_description": "UI element 45: {\"index\": 45, \"text\": \"In which languages do you create your recipes? Choose at least one language.\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            1038,
+            1220,
+            1314
+        ]
+    },
+    {
+        "ui_description": "UI element 46: {\"index\": 46, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            1356,
+            1591
+        ]
+    },
+    {
+        "ui_description": "UI element 47: {\"index\": 47, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            189,
+            1431,
+            1516
+        ]
+    },
+    {
+        "ui_description": "UI element 48: {\"index\": 48, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            42,
+            105,
+            1442,
+            1505
+        ]
+    },
+    {
+        "ui_description": "UI element 49: {\"index\": 49, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            1038,
+            1356,
+            1591
+        ]
+    },
+    {
+        "ui_description": "UI element 50: {\"index\": 50, \"text\": \"Send feedback\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            466,
+            1398,
+            1455
+        ]
+    },
+    {
+        "ui_description": "UI element 51: {\"index\": 51, \"text\": \"Do you miss your region, language or favorite ingredient?\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            189,
+            1038,
+            1455,
+            1549
+        ]
+    },
+    {
+        "ui_description": "UI element 52: {\"index\": 52, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            0,
+            128
+        ]
+    },
+    {
+        "ui_description": "UI element 53: {\"index\": 53, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+        "ui_bbox": [
+            0,
+            1080,
+            2337,
+            2400
+        ]
+    }
+]

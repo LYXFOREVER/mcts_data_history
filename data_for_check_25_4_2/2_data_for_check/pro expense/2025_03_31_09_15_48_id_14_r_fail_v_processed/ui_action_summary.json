@@ -1,0 +1,604 @@
+[
+    {
+        "id": 0,
+        "task_goal": "The user goal is to \"check current expense totals and weekly expenses using the Pro Expense application.\"\n",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    29,
+                    1051,
+                    195,
+                    1779
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    223,
+                    1751
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    223,
+                    495
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    224,
+                    495
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"is_clickable\": False, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    224,
+                    495
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    224,
+                    495
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    292,
+                    427
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"text\": \"Sun, Mar 30\", \"content_description\": \"Sun, Mar 30\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    292,
+                    354
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    78,
+                    378,
+                    427
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"Gmail\", \"content_description\": \"Gmail\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    309,
+                    519,
+                    1479,
+                    1751
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"Photos\", \"content_description\": \"Photos\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    561,
+                    771,
+                    1479,
+                    1751
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"text\": \"YouTube\", \"content_description\": \"YouTube\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    813,
+                    1023,
+                    1479,
+                    1751
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"content_description\": \"Home\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1810,
+                    1873
+                ]
+            },
+            {
+                "ui_description": "UI element 21: {\"index\": 21, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1873,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 22: {\"index\": 22, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    76,
+                    1004,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 23: {\"index\": 23, \"text\": \"Phone\", \"content_description\": \"Phone\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    76,
+                    249,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 24: {\"index\": 24, \"text\": \"Messages\", \"content_description\": \"Messages\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    328,
+                    501,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 25: {\"index\": 25, \"text\": \"Chrome\", \"content_description\": \"Chrome\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    580,
+                    753,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 26: {\"index\": 26, \"text\": \"Files\", \"content_description\": \"Predicted app: Files\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    832,
+                    1004,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 27: {\"index\": 27, \"content_description\": \"Search\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    75,
+                    1004,
+                    2125,
+                    2290
+                ]
+            },
+            {
+                "ui_description": "UI element 28: {\"index\": 28, \"content_description\": \"Google app\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    86,
+                    212,
+                    2144,
+                    2270
+                ]
+            },
+            {
+                "ui_description": "UI element 29: {\"index\": 29, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    741,
+                    993,
+                    2125,
+                    2290
+                ]
+            },
+            {
+                "ui_description": "UI element 30: {\"index\": 30, \"content_description\": \"Voice search\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    741,
+                    867,
+                    2125,
+                    2290
+                ]
+            },
+            {
+                "ui_description": "UI element 31: {\"index\": 31, \"content_description\": \"Google Lens\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    867,
+                    993,
+                    2125,
+                    2290
+                ]
+            },
+            {
+                "ui_description": "UI element 32: {\"index\": 32, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    2006,
+                    2400
+                ]
+            }
+        ],
+        "action": null,
+        "action_output": null
+    },
+    {
+        "id": 1,
+        "task_goal": "The user goal is to \"check current expense totals and weekly expenses using the Pro Expense application.\"\n",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    275
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    275
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    147,
+                    128,
+                    275
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \"Home\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    334,
+                    166,
+                    237
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    275,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    21,
+                    1059,
+                    296,
+                    898
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    21,
+                    1059,
+                    296,
+                    898
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"Totals\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    63,
+                    193,
+                    338,
+                    401
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"MAR 30 - APR 6\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    63,
+                    342,
+                    412,
+                    480
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"text\": \"INCOME\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    105,
+                    230,
+                    522,
+                    558
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"text\": \"0\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    105,
+                    140,
+                    558,
+                    647
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"USD\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    140,
+                    210,
+                    576,
+                    627
+                ]
+            },
+            {
+                "ui_description": "UI element 21: {\"index\": 21, \"text\": \"OUTCOME\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    105,
+                    259,
+                    689,
+                    725
+                ]
+            },
+            {
+                "ui_description": "UI element 22: {\"index\": 22, \"text\": \"0\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    105,
+                    140,
+                    725,
+                    814
+                ]
+            },
+            {
+                "ui_description": "UI element 23: {\"index\": 23, \"text\": \"USD\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    140,
+                    210,
+                    743,
+                    794
+                ]
+            },
+            {
+                "ui_description": "UI element 24: {\"index\": 24, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    21,
+                    1059,
+                    919,
+                    1565
+                ]
+            },
+            {
+                "ui_description": "UI element 25: {\"index\": 25, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    21,
+                    1059,
+                    919,
+                    1565
+                ]
+            },
+            {
+                "ui_description": "UI element 26: {\"index\": 26, \"text\": \"Expenses in this Week\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    63,
+                    532,
+                    961,
+                    1024
+                ]
+            },
+            {
+                "ui_description": "UI element 27: {\"index\": 27, \"text\": \"MAR 30 - APR 6\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    63,
+                    342,
+                    1035,
+                    1103
+                ]
+            },
+            {
+                "ui_description": "UI element 28: {\"index\": 28, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    21,
+                    1059,
+                    1103,
+                    1523
+                ]
+            },
+            {
+                "ui_description": "UI element 29: {\"index\": 29, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    891,
+                    1038,
+                    2106,
+                    2253
+                ]
+            },
+            {
+                "ui_description": "UI element 30: {\"index\": 30, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    128
+                ]
+            },
+            {
+                "ui_description": "UI element 31: {\"index\": 31, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    2337,
+                    2400
+                ]
+            }
+        ],
+        "action": "{'action_type': 'open_app', 'app_name': 'Pro Expense'}",
+        "action_output": "{'action_type': 'open_app', 'app_name': 'Pro Expense'}",
+        "summary": "Open the Pro Expense application to access the home screen displaying 'Totals' and 'Expenses in this Week'."
+    }
+]

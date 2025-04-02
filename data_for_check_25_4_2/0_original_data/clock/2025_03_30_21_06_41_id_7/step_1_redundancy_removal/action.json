@@ -1,0 +1,16 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Clock"
+        },
+        {
+            "action_type": "click",
+            "index": 10
+        }
+    ],
+    "action_output_list": [
+        "The user wants to set an alarm. The clock app is the correct app to open to achieve this goal.{\"action_type\": \"open_app\", \"app_name\": \"Clock\"}",
+        "The user wants to set the alarm for 16:30. The current screen shows the alarm setting interface. I need to set the hour to 16.{\"action_type\": \"click\", \"index\": 10}"
+    ]
+}
