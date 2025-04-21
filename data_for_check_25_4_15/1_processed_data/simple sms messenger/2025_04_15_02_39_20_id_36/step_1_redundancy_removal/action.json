@@ -1,0 +1,11 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        }
+    ],
+    "action_output_list": [
+        "The first step is to open the messages app.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}"
+    ]
+}

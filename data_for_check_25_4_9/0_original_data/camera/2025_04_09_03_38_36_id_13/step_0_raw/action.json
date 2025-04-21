@@ -1,0 +1,69 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Camera"
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Camera"
+        },
+        {
+            "action_type": "click",
+            "index": 19
+        },
+        {
+            "action_type": "navigate_home"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Photos"
+        },
+        {
+            "action_type": "click",
+            "index": 7
+        },
+        {
+            "action_type": "click",
+            "index": 7
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to share a photo from the camera app to a specific location. I need to first open the camera app.{\"action_type\": \"open_app\", \"app_name\": \"Camera\"}",
+        "The user wants to share the photo. I need to find a share button or icon on the screen. Since I don't see an obvious share button, I will try clicking the options button to see if there is a share option there.{\"action_type\": \"click\", \"index\": 15}",
+        "The options menu doesn't seem to have a share option. I will try to navigate back to the main camera screen to see if there's a share option there.{\"action_type\": \"navigate_back\"}",
+        "The current screen is the home screen. I need to open the camera app to share the photo.{\"action_type\": \"open_app\", \"app_name\": \"Camera\"}",
+        "The user wants to share a photo from the camera app to a specific location. I need to take a photo first.{\"action_type\": \"click\", \"index\": 19}",
+        "The user wants to share the photo. I need to find the photo in the gallery and then find the share option. I will start by navigating to the home screen.{\"action_type\": \"navigate_home\"}",
+        "The user wants to share a photo to a specific location. Since I'm on the home screen, I need to open the Photos app to access the photo I just took.{\"action_type\": \"open_app\", \"app_name\": \"Photos\"}",
+        "The user wants to share a photo to a specific location. I need to find the photo I just took. The current screen is the main screen of the Photos app. I can click on the photo to view it.{\"action_type\": \"click\", \"index\": 7}",
+        "The user wants to share the photo to a specific location. The current screen shows the photo in the Photos app. I need to find a share button to share the photo.{\"action_type\": \"click\", \"index\": 7}",
+        "The user wants to share the photo to a specific location. The current screen shows options related to backing up photos. I need to find an app that allows sharing to a specific location. I will scroll down to see if there are other share options.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to share the photo to a specific location. The current screen shows options related to backing up photos, which is not what the user wants. I need to scroll down to find an app that allows sharing to a specific location.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to share the photo to a specific location. I need to find an app that allows location sharing. I will scroll down to see if there are more apps available.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to share a photo to a specific location. I have scrolled down the share options and haven't found a suitable app. I will try scrolling down again to see if there are more options.{\"action_type\": \"scroll\", \"direction\": \"down\"}"
+    ]
+}

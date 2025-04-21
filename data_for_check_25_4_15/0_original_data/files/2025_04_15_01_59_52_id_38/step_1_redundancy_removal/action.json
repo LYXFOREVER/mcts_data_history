@@ -1,0 +1,22 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Files"
+        },
+        {
+            "action_type": "click",
+            "index": 21
+        },
+        {
+            "action_type": "scroll",
+            "index": 7,
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to copy a file using the Files app. I should open the Files app first.{\"action_type\": \"open_app\", \"app_name\": \"Files\"}",
+        "The user wants to copy a file from the Documents folder. The current screen shows the main Files app screen, and the Documents folder is visible and clickable.{\"action_type\": \"click\", \"index\": 21}",
+        "The user wants to copy 'report.pdf' from the current directory. I need to find 'report.pdf' and long press it to bring up the context menu. Since I don't see it, I need to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 7}"
+    ]
+}

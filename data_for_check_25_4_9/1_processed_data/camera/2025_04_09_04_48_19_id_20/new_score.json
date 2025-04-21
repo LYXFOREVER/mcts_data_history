@@ -1,0 +1,4 @@
+{
+    "score": 2,
+    "reason": "The agent successfully opens the camera app. However, the agent is trying to switch to video mode by scrolling left and right, which is not the correct way to switch modes in the camera app. The task is to view and browse images in the device's gallery using the camera application, but the agent is trying to switch to video mode instead. The agent is not making progress towards the goal."
+}

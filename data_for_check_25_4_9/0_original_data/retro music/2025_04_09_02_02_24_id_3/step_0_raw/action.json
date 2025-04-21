@@ -1,0 +1,72 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Retro Music Player"
+        },
+        {
+            "action_type": "click",
+            "index": 40
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "input_text",
+            "index": 14,
+            "text": "Workout"
+        },
+        {
+            "action_type": "click",
+            "index": 18
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a playlist in Retro Music. I need to open the app first.{\"action_type\": \"open_app\", \"app_name\": \"Retro Music Player\"}",
+        "The user wants to create a new playlist. The current screen shows the songs list. To create a playlist, I need to navigate to the playlists section.{\"action_type\": \"click\", \"index\": 40}",
+        "To create a new playlist, I need to tap on the \"More options\" button.{\"action_type\": \"click\", \"index\": 14}",
+        "The user wants to create a new playlist. The current screen shows a menu with options like \"New playlist\", \"Import playlist\", and \"Settings\". To create a new playlist, the \"New playlist\" option should be clicked.{\"action_type\": \"click\", \"index\": 16}",
+        "The user needs to input the name of the playlist. The text field for the playlist name is at index 14.{\"action_type\": \"input_text\", \"text\": \"Workout\", \"index\": 14}",
+        "The user has finished typing the playlist name and needs to create the playlist. The \"Create\" button is visible and clickable.{\"action_type\": \"click\", \"index\": 18}",
+        "To add songs to the playlist, I need to click on the playlist \"Workout\".{\"action_type\": \"click\", \"index\": 27}",
+        "The current screen shows the \"Workout\" playlist, which is currently empty. To add songs, I need to click the \"Add songs\" button.{\"action_type\": \"click\", \"index\": 16}",
+        "To add songs to the playlist, I need to click on the \"Add songs\" button.{\"action_type\": \"click\", \"index\": 15}",
+        "The goal is to add at least three songs to the playlist. The current screen shows the \"Workout\" playlist, and the next step is to add songs to it. The \"Add songs\" button is visible and clickable.{\"action_type\": \"click\", \"index\": 15}",
+        "The current screen shows the \"Workout\" playlist, which is empty. The goal is to add at least three songs to it. The \"Add songs\" button (index 15) is visible and clickable, and it should lead to a screen where I can select songs to add.{\"action_type\": \"click\", \"index\": 15}",
+        "The current screen shows \"You have no songs\" and an \"Add songs\" button. I need to click the \"Add songs\" button to add songs to the playlist.{\"action_type\": \"click\", \"index\": 16}",
+        "The current screen shows \"You have no songs\" and an \"Add songs\" button. I need to click the \"Add songs\" button to add songs to the playlist.{\"action_type\": \"click\", \"index\": 15}"
+    ]
+}

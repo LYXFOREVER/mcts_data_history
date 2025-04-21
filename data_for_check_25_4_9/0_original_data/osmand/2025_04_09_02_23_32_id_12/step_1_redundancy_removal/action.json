@@ -1,0 +1,16 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "OsmAnd"
+        },
+        {
+            "action_type": "click",
+            "index": 30
+        }
+    ],
+    "action_output_list": [
+        "The user wants to search for 'Paris' in OsmAnd. To do this, I need to open the OsmAnd app first.{\"action_type\": \"open_app\", \"app_name\": \"OsmAnd\"}",
+        "The user wants to search for 'Paris'. The search icon is available on the screen.{\"action_type\": \"click\", \"index\": 30}"
+    ]
+}

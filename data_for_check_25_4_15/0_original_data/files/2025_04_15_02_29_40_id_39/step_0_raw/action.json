@@ -1,0 +1,71 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Files"
+        },
+        {
+            "action_type": "click",
+            "index": 84
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 84
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 20
+        },
+        {
+            "action_type": "input_text",
+            "index": 16,
+            "text": "song.mp3"
+        },
+        {
+            "action_type": "long_press",
+            "index": 29
+        },
+        {
+            "action_type": "wait"
+        },
+        {
+            "action_type": "scroll",
+            "index": 7,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 7,
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to rename a file in the Files app. The first step is to open the Files app.{\"action_type\": \"open_app\", \"app_name\": \"Files\"}",
+        "The user wants to rename a file in the Music folder. I should first navigate to the Music folder.{\"action_type\": \"click\", \"index\": 84}",
+        "The current screen is empty, which means there are no files in the Music folder. I need to navigate back to the previous screen to find the 'song.mp3' file.{\"action_type\": \"navigate_back\"}",
+        "The user wants to rename a file. The current screen shows the files app. The next step is to find the file 'song.mp3'. I can scroll down to see if it's visible.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to rename a file. I need to find the file first. I can scroll down to see if the file is visible.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to rename a file in the Music folder. The current screen shows a list of folders, including Music. I should click on the Music folder to open it.{\"action_type\": \"click\", \"index\": 84}",
+        "The current screen shows the contents of the \"Music\" folder, which is empty. To rename the file 'song.mp3' to 'favorite_song.mp3', I need to first locate the file. Since it's not in the \"Music\" folder, I should navigate back to the previous screen to look for it in other locations.{\"action_type\": \"navigate_back\"}",
+        "The user wants to rename a file. I need to find the file first. I will try to use the search function to find the file 'song.mp3'.{\"action_type\": \"click\", \"index\": 20}",
+        "The user wants to search for the file 'song.mp3'. The search bar is currently open, so the next step is to input the filename.{\"action_type\": \"input_text\", \"text\": \"song.mp3\", \"index\": 16}",
+        "The file 'song.mp3' was searched for, and the result 'song.mp3' is visible on the screen. To rename the file, I need to long press on it to bring up the options menu.{\"action_type\": \"long_press\", \"index\": 29}",
+        "The user long-pressed on the 'song.mp3' file, and now I need to click on the 'Rename' option to rename the file. However, the current screen does not show the options after long pressing. I need to wait for the screen to update.{\"action_type\": \"wait\"}",
+        "The user wants to rename the file. The current screen shows the file 'song.mp3' after searching for it. The next step is to click the \"Rename\" option in the context menu. However, the context menu is not visible. I will scroll down to see if the rename option is available.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 7}",
+        "The user wants to rename the file 'song.mp3'. The current screen shows the search results for 'song.mp3', and the file is visible. I need to scroll down to find the \"Rename\" option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 7}"
+    ]
+}

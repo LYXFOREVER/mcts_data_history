@@ -1,0 +1,22 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Retro Music"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "scroll",
+            "index": 8,
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to dismiss the 'Permission error' dialog and then enable the 'Keep the screen on' feature. Since the app is Retro Music, I should open the app first.{\"action_type\": \"open_app\", \"app_name\": \"Retro Music\"}",
+        "The first step is to dismiss the 'Permission error' dialog. Since there is no dialog visible on the screen, I will navigate to the settings to enable the 'Keep the screen on' feature.{\"action_type\": \"click\", \"index\": 14}",
+        "To enable the 'Keep the screen on' feature, I need to scroll down to find the 'Other' section.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 8}"
+    ]
+}

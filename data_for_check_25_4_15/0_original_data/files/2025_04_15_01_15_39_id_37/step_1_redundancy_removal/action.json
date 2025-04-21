@@ -1,0 +1,20 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Files"
+        },
+        {
+            "action_type": "click",
+            "index": 80
+        },
+        {
+            "action_type": "navigate_back"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to browse and open the 'Downloads' folder in the Files app. To achieve this, I need to first open the Files app.{\"action_type\": \"open_app\", \"app_name\": \"Files\"}",
+        "The current screen shows the main view of the Files app. The 'Downloads' folder is likely to be among the listed folders. I will click on the 'Download' folder to open it.{\"action_type\": \"click\", \"index\": 80}",
+        "The user's goal is to browse and open the 'Downloads' folder in the Files app. The current screen shows the contents of the 'Movies' folder. To navigate to the 'Downloads' folder, I need to go back to the previous screen.{\"action_type\": \"navigate_back\"}"
+    ]
+}

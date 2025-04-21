@@ -1,0 +1,16 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Files"
+        },
+        {
+            "action_type": "click",
+            "index": 30
+        }
+    ],
+    "action_output_list": [
+        "The user wants to search for files with the extension '.txt' in the entire device storage. To do this, I need to open the Files app.{\"action_type\": \"open_app\", \"app_name\": \"Files\"}",
+        "To search for files, I need to click on the search icon.{\"action_type\": \"click\", \"index\": 30}"
+    ]
+}

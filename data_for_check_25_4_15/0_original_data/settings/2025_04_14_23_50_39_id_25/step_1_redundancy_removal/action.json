@@ -1,0 +1,25 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Settings"
+        },
+        {
+            "action_type": "click",
+            "index": 26
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "navigate_back"
+        }
+    ],
+    "action_output_list": [
+        "To navigate to the settings, I need to open the settings app.{\"action_type\": \"open_app\", \"app_name\": \"Settings\"}",
+        "The goal is to navigate to 'Network & internet'. The current screen is the settings menu, and 'Network & internet' is visible and clickable.{\"action_type\": \"click\", \"index\": 26}",
+        "The next step is to tap on 'Wi-Fi' to configure Wi-Fi settings.{\"action_type\": \"click\", \"index\": 15}",
+        "The current screen is \"Connected devices\" which is not the correct screen. I need to navigate back to the \"Network & internet\" screen.{\"action_type\": \"navigate_back\"}"
+    ]
+}

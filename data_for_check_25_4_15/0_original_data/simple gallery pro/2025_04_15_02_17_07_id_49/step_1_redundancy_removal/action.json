@@ -1,0 +1,21 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Simple Gallery Pro"
+        },
+        {
+            "action_type": "click",
+            "index": 20
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        }
+    ],
+    "action_output_list": [
+        "The user wants to rotate an image in Simple Gallery Pro. First, I need to open the app.{\"action_type\": \"open_app\", \"app_name\": \"Simple Gallery Pro\"}",
+        "The first step is to select an image to rotate. I will click on the first image to open it.{\"action_type\": \"click\", \"index\": 20}",
+        "To rotate the image, I need to find the edit options. The \"More options\" button might contain the rotate function.{\"action_type\": \"click\", \"index\": 15}"
+    ]
+}

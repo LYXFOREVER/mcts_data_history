@@ -1,0 +1,4 @@
+{
+    "score": 3,
+    "reason": "The user wants to view photos stored on their device. The agent opens the camera app. While the camera app can be used to take photos, it is not the primary way to view existing photos. A more appropriate action would be to open the \"Photos\" app. However, the agent did take an action that could potentially lead to the desired outcome (taking a photo and then viewing it), so it's not a complete failure."
+}

@@ -1,0 +1,67 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Camera"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Camera"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Camera"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Camera"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to change the camera resolution. First, I need to open the camera app.{\"action_type\": \"open_app\", \"app_name\": \"Camera\"}",
+        "The current screen shows a photo, and to access camera settings, I need to navigate back to the camera app's main screen.{\"action_type\": \"navigate_back\"}",
+        "The user wants to access camera settings. The \"Options\" button (UI element 14) might lead to the settings.{\"action_type\": \"click\", \"index\": 14}",
+        "The current screen shows the camera view with options like countdown timer, grid lines, and flash. To access camera settings and change the resolution, I need to find the settings menu, which is likely not visible on the current screen. I should try scrolling down to reveal more options.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The options menu doesn't seem to have the resolution settings. I need to navigate back to the main camera screen to find the settings.{\"action_type\": \"navigate_back\"}",
+        "The current screen is the home screen. To change camera resolution, I need to open the camera app first.{\"action_type\": \"open_app\", \"app_name\": \"Camera\"}",
+        "The user wants to change the camera resolution. I need to find the settings menu. I will try scrolling down to see if there are more options.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to find the camera settings to change the resolution. Since scrolling down didn't reveal any settings, I will try clicking the \"Options\" button again to see if there are any hidden settings within the options menu.{\"action_type\": \"click\", \"index\": 14}",
+        "The current screen shows the camera view with options like countdown timer, grid lines, and flash. I need to find the camera settings to change the resolution. Since the options menu doesn't have the resolution settings, I will try to navigate back to the main camera screen and look for a settings icon or menu.{\"action_type\": \"navigate_back\"}",
+        "The current screen is the home screen. To achieve the goal of changing camera resolution, I need to open the camera app first.{\"action_type\": \"open_app\", \"app_name\": \"Camera\"}",
+        "I need to find the camera settings to change the resolution. Since scrolling down didn't reveal any settings, I will try clicking the \"Options\" button again to see if I missed something.{\"action_type\": \"click\", \"index\": 14}",
+        "The current screen shows the camera view with options like countdown timer, grid lines, and flash. I need to find the camera settings to change the resolution. Since the resolution settings are not visible on this screen, I will try to navigate back to the main camera screen to see if there are any other options.{\"action_type\": \"navigate_back\"}",
+        "The current screen shows the home screen. To change the camera resolution, I need to open the camera app first.{\"action_type\": \"open_app\", \"app_name\": \"Camera\"}"
+    ]
+}

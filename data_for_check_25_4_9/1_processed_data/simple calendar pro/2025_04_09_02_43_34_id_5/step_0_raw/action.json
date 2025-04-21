@@ -1,0 +1,74 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Simple Calendar Pro"
+        },
+        {
+            "action_type": "click",
+            "index": 69
+        },
+        {
+            "action_type": "input_text",
+            "index": 8,
+            "text": "Meeting"
+        },
+        {
+            "action_type": "click",
+            "index": 18
+        },
+        {
+            "action_type": "input_text",
+            "index": 17,
+            "text": "Conference Room"
+        },
+        {
+            "action_type": "click",
+            "index": 19
+        },
+        {
+            "action_type": "input_text",
+            "index": 19,
+            "text": "Discuss project progress"
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 49
+        },
+        {
+            "action_type": "click",
+            "index": 48
+        },
+        {
+            "action_type": "click",
+            "index": 49
+        },
+        {
+            "action_type": "click",
+            "index": 49
+        },
+        {
+            "action_type": "click",
+            "index": 47
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new event in Simple Calendar Pro. The first step is to open the app.{\"action_type\": \"open_app\", \"app_name\": \"Simple Calendar Pro\"}",
+        "The user wants to create a new event. The \"New Event\" button is visible and clickable.{\"action_type\": \"click\", \"index\": 69}",
+        "The user wants to create a new event with the title 'Meeting'. The current screen is the event creation screen. The next step is to input the title of the event.{\"action_type\": \"input_text\", \"text\": \"Meeting\", \"index\": 8}",
+        "The next step is to input the location of the event.{\"action_type\": \"click\", \"index\": 18}",
+        "The user needs to input the location of the event. The location field is currently selected, so the next step is to input the location \"Conference Room\".{\"action_type\": \"input_text\", \"text\": \"Conference Room\", \"index\": 17}",
+        "The next step is to input the description of the event. The description field is visible on the screen.{\"action_type\": \"click\", \"index\": 19}",
+        "The user has clicked on the description field and now needs to input the description 'Discuss project progress'.{\"action_type\": \"input_text\", \"text\": \"Discuss project progress\", \"index\": 19}",
+        "The user needs to set the date to March 31 (Mon). The current date is October 21 2023 (Sat). So, I need to click on the date field to change the date.{\"action_type\": \"click\", \"index\": 24}",
+        "The current screen shows the calendar view. To navigate to March 2024, I need to click the \"Next month\" button multiple times.{\"action_type\": \"click\", \"index\": 49}",
+        "The current screen shows the calendar for November 2023. To reach March 2024, I need to click the \"Next month\" button multiple times.{\"action_type\": \"click\", \"index\": 48}",
+        "The current screen shows the calendar for December 2023. To reach March 2024, I need to navigate forward by multiple months. Clicking the \"Next month\" button will advance the calendar to the next month.{\"action_type\": \"click\", \"index\": 49}",
+        "The current screen shows the calendar for January 2024. To reach March 2024, I need to click the \"Next month\" button twice.{\"action_type\": \"click\", \"index\": 49}",
+        "The current screen shows the calendar for February 2024. To reach March 31, 2024, I need to click the \"Next month\" button to advance to March.{\"action_type\": \"click\", \"index\": 47}"
+    ]
+}

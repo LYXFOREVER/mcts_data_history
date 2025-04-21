@@ -1,0 +1,21 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Simple Calendar Pro"
+        },
+        {
+            "action_type": "click",
+            "index": 23
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new event in Simple Calendar Pro. The first step is to open the app.{\"action_type\": \"open_app\", \"app_name\": \"Simple Calendar Pro\"}",
+        "The current screen shows the calendar. The goal is to create a new event on February 8, 2025. First, I need to navigate to February 8, 2025. I can start by clicking on the current month, \"April\", to change the month and year.{\"action_type\": \"click\", \"index\": 23}",
+        "The current screen shows the month and year selection dialog. I need to select February 2025. First, I will click on 2024 to change the year to 2025.{\"action_type\": \"click\", \"index\": 16}"
+    ]
+}

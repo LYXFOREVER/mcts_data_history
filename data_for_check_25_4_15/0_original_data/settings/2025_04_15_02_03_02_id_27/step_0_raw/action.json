@@ -1,0 +1,81 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Settings"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to adjust display settings. I need to open the settings app first.{\"action_type\": \"open_app\", \"app_name\": \"Settings\"}",
+        "The user wants to adjust the screen brightness level, which is usually found under the 'Display' settings. I need to scroll down to find the 'Display' option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to adjust the screen brightness level, and the current screen is the settings menu. I need to find the 'Display' option to proceed. Since it's not visible on the screen, I need to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to adjust the screen brightness level, which is usually found under the 'Display' settings. I need to find the 'Display' option on the screen. Since it's not immediately visible, I should scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "The user wants to adjust the screen brightness level, and I need to find the 'Display' settings. I will scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "The user wants to adjust the screen brightness level, which is typically found in the 'Display' settings. I need to scroll down to find the 'Display' option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "The user wants to adjust the screen brightness level. I need to find the 'Display' settings to do that. The current screen shows a list of settings, and I need to scroll down to find the 'Display' option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "The user wants to adjust the screen brightness level. I need to find the 'Display' settings to do that. The current screen shows a list of settings, and I need to scroll down to find the 'Display' option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "The 'Display' option is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "The 'Display' option is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "The 'Display' option is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "The user wants to adjust the screen brightness level, and I need to find the 'Display' settings to do that. The 'Display' option is not currently visible on the screen, so I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "The 'Display' option is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}"
+    ]
+}

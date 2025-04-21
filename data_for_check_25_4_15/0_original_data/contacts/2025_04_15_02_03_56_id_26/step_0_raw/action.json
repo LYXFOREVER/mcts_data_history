@@ -1,0 +1,70 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Contacts"
+        },
+        {
+            "action_type": "click",
+            "index": 37
+        },
+        {
+            "action_type": "click",
+            "index": 22
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 18
+        },
+        {
+            "action_type": "scroll",
+            "index": 30,
+            "direction": "down"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 51
+        },
+        {
+            "action_type": "click",
+            "index": 65
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 17
+        },
+        {
+            "action_type": "click",
+            "index": 35
+        },
+        {
+            "action_type": "input_text",
+            "index": 24,
+            "text": "group"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new group in contacts. I should open the contacts app first.{\"action_type\": \"open_app\", \"app_name\": \"Contacts\"}",
+        "The current screen shows the contacts list. To create a new group, I need to open the navigation drawer.{\"action_type\": \"click\", \"index\": 37}",
+        "The current screen shows the contacts list. To create a new group, I need to navigate to the settings or a similar option within the Contacts app. Since I don't see an obvious \"create group\" option, I will try clicking the \"More options\" button to see if it contains the desired functionality.{\"action_type\": \"click\", \"index\": 22}",
+        "The \"More options\" menu did not contain the option to create a new group. I need to navigate back to the main contacts screen to find another way to create a group.{\"action_type\": \"navigate_back\"}",
+        "I need to find a way to create a new group. Since the \"More options\" menu didn't have the option, I will try clicking on the navigation drawer again to see if there's a \"Groups\" option there.{\"action_type\": \"click\", \"index\": 18}",
+        "The navigation drawer is open. I can scroll down to see if there is an option to create a new group or label.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 30}",
+        "I have scrolled down the navigation drawer, but I still don't see an option to create a new group. I will try navigating back to the main screen and look for a \"create group\" option there.{\"action_type\": \"navigate_back\"}",
+        "I have been trying to find a \"create group\" option in the navigation drawer and the \"more options\" menu, but I haven't found it. I will now try to create a contact and then add it to a new group. I will start by clicking the \"Create contact\" button.{\"action_type\": \"click\", \"index\": 51}",
+        "I have been trying to create a new contact instead of a group. I need to find a way to create a group directly. I will try clicking on the \"Fix & manage\" option to see if there is an option to create a group there.{\"action_type\": \"click\", \"index\": 65}",
+        "The current screen is \"Fix & manage\" which has options to import/export contacts, block numbers, etc. There is no option to create a group here. I need to navigate back to the main screen to find a way to create a group.{\"action_type\": \"navigate_back\"}",
+        "I have been trying to find a \"create group\" option in the Contacts app without success. I will now try searching for \"create group\" in the app's search bar.{\"action_type\": \"click\", \"index\": 17}",
+        "The user is currently in the search contacts screen, and has previously searched for \"create group\" without success. The next logical step is to clear the search bar and try searching for \"group\" instead.{\"action_type\": \"click\", \"index\": 35}",
+        "The user wants to create a group named 'Family' and add the contact 'Jane Doe' to this group. I have cleared the search bar and now I will try to search for \"group\" to see if there is an option to create a group.{\"action_type\": \"input_text\", \"text\": \"group\", \"index\": 24}"
+    ]
+}

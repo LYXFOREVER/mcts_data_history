@@ -1,0 +1,74 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Contacts"
+        },
+        {
+            "action_type": "click",
+            "index": 4
+        },
+        {
+            "action_type": "click",
+            "index": 47
+        },
+        {
+            "action_type": "click",
+            "index": 33
+        },
+        {
+            "action_type": "input_text",
+            "index": 33,
+            "text": "Jane"
+        },
+        {
+            "action_type": "click",
+            "index": 36
+        },
+        {
+            "action_type": "click",
+            "index": 36
+        },
+        {
+            "action_type": "click",
+            "index": 36
+        },
+        {
+            "action_type": "click",
+            "index": 36
+        },
+        {
+            "action_type": "click",
+            "index": 36
+        },
+        {
+            "action_type": "input_text",
+            "index": 36,
+            "text": "Doe"
+        },
+        {
+            "action_type": "click",
+            "index": 56
+        },
+        {
+            "action_type": "input_text",
+            "index": 59,
+            "text": "555-123-4567"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to add a new contact. I should open the contacts app to do this.{\"action_type\": \"open_app\", \"app_name\": \"Contacts\"}",
+        "The current screen is the main screen of the Contacts app. To add a new contact, I need to find and click the \"add contact\" button, which is usually represented by a plus icon or a \"create\" button. I will try clicking the plus icon at index 4.{\"action_type\": \"click\", \"index\": 4}",
+        "The previous attempt to create a contact by clicking the plus icon failed. I will now try clicking the \"Create contact\" button to create a new contact.{\"action_type\": \"click\", \"index\": 47}",
+        "The user wants to add a new contact with the first name 'Jane'. The 'First name' field is visible and clickable.{\"action_type\": \"click\", \"index\": 33}",
+        "The user wants to add the first name 'Jane' to the contact. The 'First name' field is visible and clickable, so I should input the text 'Jane' into it.{\"action_type\": \"input_text\", \"text\": \"Jane\", \"index\": 33}",
+        "The next step is to input the last name. The 'Last name' field (index 36) is clickable and will allow me to input the last name.{\"action_type\": \"click\", \"index\": 36}",
+        "The user wants to input the last name of the contact. The 'Last name' field (index 36) is clickable and will allow the user to input the last name.{\"action_type\": \"click\", \"index\": 36}",
+        "The user wants to input the last name. The 'Last name' field (index 36) is clickable and will open the text field for input.{\"action_type\": \"click\", \"index\": 36}",
+        "The user wants to input the last name. The 'Last name' field (index 36) is clickable and will open the text field for input.{\"action_type\": \"click\", \"index\": 36}",
+        "The user wants to input the last name. The 'Last name' field (index 36) is clickable and will open the text field for input.{\"action_type\": \"click\", \"index\": 36}",
+        "The user has clicked on the 'Last name' field multiple times, but the text field has not opened for input. I will try to input the last name \"Doe\" into the 'Last name' field.{\"action_type\": \"input_text\", \"text\": \"Doe\", \"index\": 36}",
+        "The user wants to add a phone number to the contact. The next step is to click on the 'Phone' field to input the phone number.{\"action_type\": \"click\", \"index\": 56}",
+        "The user clicked on the 'Phone' field in the previous step. Now I need to input the phone number '555-123-4567' into the phone number field.{\"action_type\": \"input_text\", \"text\": \"555-123-4567\", \"index\": 59}"
+    ]
+}

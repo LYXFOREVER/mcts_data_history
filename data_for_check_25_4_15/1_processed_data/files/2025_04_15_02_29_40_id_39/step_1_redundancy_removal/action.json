@@ -1,0 +1,30 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Files"
+        },
+        {
+            "action_type": "click",
+            "index": 84
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to rename a file in the Files app. The first step is to open the Files app.{\"action_type\": \"open_app\", \"app_name\": \"Files\"}",
+        "The user wants to rename a file in the Music folder. I should first navigate to the Music folder.{\"action_type\": \"click\", \"index\": 84}",
+        "The current screen is empty, which means there are no files in the Music folder. I need to navigate back to the previous screen to find the 'song.mp3' file.{\"action_type\": \"navigate_back\"}",
+        "The user wants to rename a file. The current screen shows the files app. The next step is to find the file 'song.mp3'. I can scroll down to see if it's visible.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to rename a file. I need to find the file first. I can scroll down to see if the file is visible.{\"action_type\": \"scroll\", \"direction\": \"down\"}"
+    ]
+}

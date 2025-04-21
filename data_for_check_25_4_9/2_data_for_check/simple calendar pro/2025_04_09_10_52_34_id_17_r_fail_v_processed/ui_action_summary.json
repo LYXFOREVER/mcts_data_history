@@ -1,0 +1,1396 @@
+[
+    {
+        "id": 0,
+        "task_goal": "The user's goal is to \"change the year displayed in the Simple Calendar Pro application to 2023.\"\n",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    29,
+                    1051,
+                    195,
+                    1779
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    223,
+                    1751
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    223,
+                    495
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    99,
+                    1023,
+                    224,
+                    495
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"is_clickable\": False, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    99,
+                    1023,
+                    224,
+                    495
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    99,
+                    1023,
+                    224,
+                    495
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    99,
+                    1023,
+                    292,
+                    427
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"text\": \"Wed, Apr 9\", \"content_description\": \"Wed, Apr 9\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    99,
+                    1023,
+                    292,
+                    354
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    99,
+                    120,
+                    378,
+                    427
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"Gmail\", \"content_description\": \"Gmail\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    309,
+                    519,
+                    1479,
+                    1751
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"Photos\", \"content_description\": \"Photos\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    561,
+                    771,
+                    1479,
+                    1751
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"text\": \"YouTube\", \"content_description\": \"YouTube\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    813,
+                    1023,
+                    1479,
+                    1751
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"content_description\": \"Home\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1810,
+                    1873
+                ]
+            },
+            {
+                "ui_description": "UI element 21: {\"index\": 21, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1873,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 22: {\"index\": 22, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    76,
+                    1004,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 23: {\"index\": 23, \"text\": \"Phone\", \"content_description\": \"Phone\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    76,
+                    249,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 24: {\"index\": 24, \"text\": \"Messages\", \"content_description\": \"Messages\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    328,
+                    501,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 25: {\"index\": 25, \"text\": \"Chrome\", \"content_description\": \"Chrome\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    580,
+                    753,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 26: {\"index\": 26, \"text\": \"Calendar\", \"content_description\": \"Predicted app: Calendar\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    832,
+                    1004,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 27: {\"index\": 27, \"content_description\": \"Search\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    75,
+                    1004,
+                    2125,
+                    2290
+                ]
+            },
+            {
+                "ui_description": "UI element 28: {\"index\": 28, \"content_description\": \"Google app\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    86,
+                    212,
+                    2144,
+                    2270
+                ]
+            },
+            {
+                "ui_description": "UI element 29: {\"index\": 29, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    741,
+                    993,
+                    2125,
+                    2290
+                ]
+            },
+            {
+                "ui_description": "UI element 30: {\"index\": 30, \"content_description\": \"Voice search\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    741,
+                    867,
+                    2125,
+                    2290
+                ]
+            },
+            {
+                "ui_description": "UI element 31: {\"index\": 31, \"content_description\": \"Google Lens\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    867,
+                    993,
+                    2125,
+                    2290
+                ]
+            },
+            {
+                "ui_description": "UI element 32: {\"index\": 32, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    2006,
+                    2400
+                ]
+            }
+        ],
+        "action": null,
+        "action_output": null
+    },
+    {
+        "id": 1,
+        "task_goal": "The user's goal is to \"change the year displayed in the Simple Calendar Pro application to 2023.\"\n",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    296
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    42,
+                    1038,
+                    128,
+                    296
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    42,
+                    1038,
+                    149,
+                    275
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    42,
+                    147,
+                    149,
+                    275
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"text\": \"Search\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    147,
+                    626,
+                    149,
+                    275
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    626,
+                    1027,
+                    149,
+                    275
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    668,
+                    1027,
+                    149,
+                    275
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"content_description\": \"Change view\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    668,
+                    795,
+                    149,
+                    275
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"content_description\": \"Settings\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    795,
+                    922,
+                    149,
+                    275
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"content_description\": \"More options\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    922,
+                    1027,
+                    149,
+                    275
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    296,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    296,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    296,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    296,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    296,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 21: {\"index\": 21, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    296,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 22: {\"index\": 22, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    147,
+                    296,
+                    438
+                ]
+            },
+            {
+                "ui_description": "UI element 23: {\"index\": 23, \"text\": \"April\", \"content_description\": \"April\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    147,
+                    933,
+                    296,
+                    438
+                ]
+            },
+            {
+                "ui_description": "UI element 24: {\"index\": 24, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    933,
+                    1080,
+                    296,
+                    438
+                ]
+            },
+            {
+                "ui_description": "UI element 25: {\"index\": 25, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    438,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 26: {\"index\": 26, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    438,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 27: {\"index\": 27, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    154,
+                    512,
+                    816
+                ]
+            },
+            {
+                "ui_description": "UI element 28: {\"index\": 28, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    154,
+                    308,
+                    512,
+                    816
+                ]
+            },
+            {
+                "ui_description": "UI element 29: {\"index\": 29, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    309,
+                    463,
+                    512,
+                    816
+                ]
+            },
+            {
+                "ui_description": "UI element 30: {\"index\": 30, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    463,
+                    617,
+                    512,
+                    816
+                ]
+            },
+            {
+                "ui_description": "UI element 31: {\"index\": 31, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    617,
+                    771,
+                    512,
+                    816
+                ]
+            },
+            {
+                "ui_description": "UI element 32: {\"index\": 32, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    771,
+                    925,
+                    512,
+                    816
+                ]
+            },
+            {
+                "ui_description": "UI element 33: {\"index\": 33, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    926,
+                    1080,
+                    512,
+                    816
+                ]
+            },
+            {
+                "ui_description": "UI element 34: {\"index\": 34, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    154,
+                    816,
+                    1120
+                ]
+            },
+            {
+                "ui_description": "UI element 35: {\"index\": 35, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    154,
+                    308,
+                    816,
+                    1120
+                ]
+            },
+            {
+                "ui_description": "UI element 36: {\"index\": 36, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    309,
+                    463,
+                    816,
+                    1120
+                ]
+            },
+            {
+                "ui_description": "UI element 37: {\"index\": 37, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    463,
+                    617,
+                    816,
+                    1120
+                ]
+            },
+            {
+                "ui_description": "UI element 38: {\"index\": 38, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    617,
+                    771,
+                    816,
+                    1120
+                ]
+            },
+            {
+                "ui_description": "UI element 39: {\"index\": 39, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    771,
+                    925,
+                    816,
+                    1120
+                ]
+            },
+            {
+                "ui_description": "UI element 40: {\"index\": 40, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    926,
+                    1080,
+                    816,
+                    1120
+                ]
+            },
+            {
+                "ui_description": "UI element 41: {\"index\": 41, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    154,
+                    1120,
+                    1424
+                ]
+            },
+            {
+                "ui_description": "UI element 42: {\"index\": 42, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    154,
+                    308,
+                    1120,
+                    1424
+                ]
+            },
+            {
+                "ui_description": "UI element 43: {\"index\": 43, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    309,
+                    463,
+                    1120,
+                    1424
+                ]
+            },
+            {
+                "ui_description": "UI element 44: {\"index\": 44, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    463,
+                    617,
+                    1120,
+                    1424
+                ]
+            },
+            {
+                "ui_description": "UI element 45: {\"index\": 45, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    617,
+                    771,
+                    1120,
+                    1424
+                ]
+            },
+            {
+                "ui_description": "UI element 46: {\"index\": 46, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    771,
+                    925,
+                    1120,
+                    1424
+                ]
+            },
+            {
+                "ui_description": "UI element 47: {\"index\": 47, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    926,
+                    1080,
+                    1120,
+                    1424
+                ]
+            },
+            {
+                "ui_description": "UI element 48: {\"index\": 48, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    154,
+                    1425,
+                    1729
+                ]
+            },
+            {
+                "ui_description": "UI element 49: {\"index\": 49, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    154,
+                    308,
+                    1425,
+                    1729
+                ]
+            },
+            {
+                "ui_description": "UI element 50: {\"index\": 50, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    309,
+                    463,
+                    1425,
+                    1729
+                ]
+            },
+            {
+                "ui_description": "UI element 51: {\"index\": 51, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    463,
+                    617,
+                    1425,
+                    1729
+                ]
+            },
+            {
+                "ui_description": "UI element 52: {\"index\": 52, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    617,
+                    771,
+                    1425,
+                    1729
+                ]
+            },
+            {
+                "ui_description": "UI element 53: {\"index\": 53, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    771,
+                    925,
+                    1425,
+                    1729
+                ]
+            },
+            {
+                "ui_description": "UI element 54: {\"index\": 54, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    926,
+                    1080,
+                    1425,
+                    1729
+                ]
+            },
+            {
+                "ui_description": "UI element 55: {\"index\": 55, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    154,
+                    1729,
+                    2033
+                ]
+            },
+            {
+                "ui_description": "UI element 56: {\"index\": 56, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    154,
+                    308,
+                    1729,
+                    2033
+                ]
+            },
+            {
+                "ui_description": "UI element 57: {\"index\": 57, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    309,
+                    463,
+                    1729,
+                    2033
+                ]
+            },
+            {
+                "ui_description": "UI element 58: {\"index\": 58, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    463,
+                    617,
+                    1729,
+                    2033
+                ]
+            },
+            {
+                "ui_description": "UI element 59: {\"index\": 59, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    617,
+                    771,
+                    1729,
+                    2033
+                ]
+            },
+            {
+                "ui_description": "UI element 60: {\"index\": 60, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    771,
+                    925,
+                    1729,
+                    2033
+                ]
+            },
+            {
+                "ui_description": "UI element 61: {\"index\": 61, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    926,
+                    1080,
+                    1729,
+                    2033
+                ]
+            },
+            {
+                "ui_description": "UI element 62: {\"index\": 62, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    154,
+                    2033,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 63: {\"index\": 63, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    154,
+                    308,
+                    2033,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 64: {\"index\": 64, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    309,
+                    463,
+                    2033,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 65: {\"index\": 65, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    463,
+                    617,
+                    2033,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 66: {\"index\": 66, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    617,
+                    771,
+                    2033,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 67: {\"index\": 67, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    771,
+                    925,
+                    2033,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 68: {\"index\": 68, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    926,
+                    1080,
+                    2033,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 69: {\"index\": 69, \"content_description\": \"New Event\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    891,
+                    1038,
+                    2148,
+                    2295
+                ]
+            },
+            {
+                "ui_description": "UI element 70: {\"index\": 70, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    128
+                ]
+            },
+            {
+                "ui_description": "UI element 71: {\"index\": 71, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    2337,
+                    2400
+                ]
+            }
+        ],
+        "action": "{\"action_type\": \"open_app\", \"app_name\": \"Simple Calendar Pro\"}",
+        "action_output": "{\"action_type\": \"open_app\", \"app_name\": \"Simple Calendar Pro\"}",
+        "summary": "Open the \"Simple Calendar Pro\" application, displaying the calendar view for April with the 9th highlighted."
+    },
+    {
+        "id": 2,
+        "task_goal": "The user's goal is to \"change the year displayed in the Simple Calendar Pro application to 2023.\"\n",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    28,
+                    1052,
+                    644,
+                    1821
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    854,
+                    1611
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    854,
+                    1611
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    854,
+                    1611
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    854,
+                    1611
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    854,
+                    1611
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    854,
+                    1411
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    854,
+                    1411
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    854,
+                    1411
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    319,
+                    760,
+                    854,
+                    1411
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    319,
+                    760,
+                    854,
+                    1411
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    340,
+                    508,
+                    896,
+                    1369
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \"Mar\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    340,
+                    508,
+                    896,
+                    1069
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"text\": \"Apr\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    340,
+                    508,
+                    1069,
+                    1195
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"text\": \"May\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    340,
+                    508,
+                    1195,
+                    1369
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    550,
+                    718,
+                    896,
+                    1369
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"2024\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    550,
+                    718,
+                    896,
+                    1069
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"2025\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    550,
+                    718,
+                    1069,
+                    1195
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"text\": \"2026\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    550,
+                    718,
+                    1195,
+                    1369
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    1411,
+                    1611
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    1411,
+                    1611
+                ]
+            },
+            {
+                "ui_description": "UI element 21: {\"index\": 21, \"text\": \"Cancel\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    558,
+                    737,
+                    1448,
+                    1574
+                ]
+            },
+            {
+                "ui_description": "UI element 22: {\"index\": 22, \"text\": \"OK\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    758,
+                    926,
+                    1448,
+                    1574
+                ]
+            }
+        ],
+        "action": "{\"action_type\": \"click\", \"index\": 23}",
+        "action_output": "{\"action_type\": \"click\", \"index\": 23}",
+        "summary": "Click on \"April\" to open the month selection dialog.\n"
+    },
+    {
+        "id": 3,
+        "task_goal": "The user's goal is to \"change the year displayed in the Simple Calendar Pro application to 2023.\"\n",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    28,
+                    1052,
+                    644,
+                    1821
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    854,
+                    1611
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    854,
+                    1611
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    854,
+                    1611
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    854,
+                    1611
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    854,
+                    1611
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    854,
+                    1411
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    854,
+                    1411
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    854,
+                    1411
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    319,
+                    760,
+                    854,
+                    1411
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    319,
+                    760,
+                    854,
+                    1411
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    340,
+                    508,
+                    896,
+                    1369
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \"Mar\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    340,
+                    508,
+                    896,
+                    1069
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"text\": \"Apr\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    340,
+                    508,
+                    1069,
+                    1195
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"text\": \"May\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    340,
+                    508,
+                    1195,
+                    1369
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    550,
+                    718,
+                    896,
+                    1369
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"2023\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    550,
+                    718,
+                    896,
+                    1069
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"2024\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    550,
+                    718,
+                    1069,
+                    1195
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"text\": \"2025\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    550,
+                    718,
+                    1195,
+                    1369
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    1411,
+                    1611
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    91,
+                    989,
+                    1411,
+                    1611
+                ]
+            },
+            {
+                "ui_description": "UI element 21: {\"index\": 21, \"text\": \"Cancel\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    558,
+                    737,
+                    1448,
+                    1574
+                ]
+            },
+            {
+                "ui_description": "UI element 22: {\"index\": 22, \"text\": \"OK\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    758,
+                    926,
+                    1448,
+                    1574
+                ]
+            }
+        ],
+        "action": "{\"action_type\": \"click\", \"index\": 16}",
+        "action_output": "{\"action_type\": \"click\", \"index\": 16}",
+        "summary": "Click '2023' to select the year.\n"
+    }
+]

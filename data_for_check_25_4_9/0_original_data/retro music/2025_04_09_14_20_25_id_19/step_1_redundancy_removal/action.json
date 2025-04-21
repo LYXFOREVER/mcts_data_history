@@ -1,0 +1,27 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Retro Music"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "scroll",
+            "index": 8,
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "To start, I need to open the Retro Music app.{\"action_type\": \"open_app\", \"app_name\": \"Retro Music\"}",
+        "The current screen shows the playlists. To enable the 'Whitelist music' feature, I need to navigate to the settings. I can try to open the settings by clicking the \"More options\" button.{\"action_type\": \"click\", \"index\": 14}",
+        "The current screen shows the options after clicking the \"More options\" button. The goal is to enable the 'Whitelist music' feature. To do this, I need to go to the settings screen. The \"Settings\" option is available on the current screen.{\"action_type\": \"click\", \"index\": 24}",
+        "The current screen is the settings screen. I need to scroll down to find the \"Whitelist music folders\" option.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 8}"
+    ]
+}

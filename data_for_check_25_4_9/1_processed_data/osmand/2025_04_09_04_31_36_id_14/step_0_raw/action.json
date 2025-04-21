@@ -1,0 +1,71 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "OsmAnd"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to scroll down the map to locate Namibia and then zoom in to Windhoek. To do this, I need to open the OsmAnd app first.{\"action_type\": \"open_app\", \"app_name\": \"OsmAnd\"}",
+        "The goal is to scroll down the map to locate Namibia. I can scroll the map by dragging it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to scroll down the map to locate Namibia. The current screen shows the map, so I should scroll down to find Namibia.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants me to scroll down the map to locate Namibia. I will continue scrolling down.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to continue scrolling down the map to find Namibia.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to continue scrolling down the map to find Namibia.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to continue scrolling down the map to find Namibia.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to continue scrolling down the map to find Namibia.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to find Namibia and Windhoek. I have been scrolling down the map, but I haven't found it yet. I will continue scrolling down to find Namibia.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to continue scrolling down the map to find Namibia.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to continue scrolling down the map to find Namibia.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to continue scrolling down the map to find Namibia.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to continue scrolling down the map to find Namibia.{\"action_type\": \"scroll\", \"direction\": \"down\"}"
+    ]
+}

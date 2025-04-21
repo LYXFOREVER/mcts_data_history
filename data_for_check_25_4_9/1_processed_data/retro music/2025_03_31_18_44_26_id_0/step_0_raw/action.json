@@ -1,0 +1,74 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Retro Music Player"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "scroll",
+            "index": 8,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 8,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 8,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 8,
+            "direction": "up"
+        },
+        {
+            "action_type": "scroll",
+            "index": 8,
+            "direction": "down"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "navigate_home"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Retro Music Player"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to change the language of the Retro Music app to Vietnamese. To do this, I need to open the app first.{\"action_type\": \"open_app\", \"app_name\": \"Retro Music Player\"}",
+        "To change the language, I need to find the settings option in the app. The settings icon is visible on the screen.{\"action_type\": \"click\", \"index\": 14}",
+        "The current screen displays the settings of the Retro Music app. To find the language settings, I need to scroll down the screen to see if the option is available.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 8}",
+        "I need to scroll down further to find the language settings.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 8}",
+        "I need to scroll down to find the language settings.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 8}",
+        "I have scrolled down multiple times and still haven't found the language settings. I will try scrolling up to see if it's located at the top of the settings menu.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 8}",
+        "I have scrolled up and down multiple times and still can't find the language settings. I will try to scroll down again to see if I missed it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 8}",
+        "I have been scrolling down and up in the settings menu but I haven't found the language settings. I will try to navigate back to the main screen and try to find the language settings in the main screen.{\"action_type\": \"navigate_back\"}",
+        "I have tried to find the language settings in the settings menu, but I was unable to locate it. I will now try to scroll the main screen to see if there are any language settings available.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I have tried scrolling down and up on both the settings screen and the main screen, but I haven't found the language settings. I will now try clicking on the settings icon again to see if I missed something.{\"action_type\": \"click\", \"index\": 14}",
+        "I have been unable to find the language settings in the settings menu. I will try scrolling the main screen to see if the language settings are available there.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I have been trying to find the language settings in the settings menu and on the main screen, but I haven't been able to find it. I will now try to navigate back to the home screen and open the app again to see if that helps.{\"action_type\": \"navigate_home\"}",
+        "I have tried multiple times to find the language settings in the app's settings menu and on the main screen, but I haven't been successful. I will now try opening the app again to see if it helps in finding the language settings.{\"action_type\": \"open_app\", \"app_name\": \"Retro Music Player\"}"
+    ]
+}

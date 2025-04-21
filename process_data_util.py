@@ -213,7 +213,7 @@ def plot_bar_chart(score_count_dic, output_path):
     绘制柱状图，显示每个数字的出现次数，并保存到指定路径。
     
     参数:
-        score_count_dic (dict): 一个字典，其中的键是数字（"1", "2", "3", "4", "5"），值是这些数字出现的次数。
+        score_count_dic (dict): 一个字典，其中的键是数字（字符串形式），值是这些数字出现的次数。
         output_path (str): 保存柱状图的路径。
     """
     # 提取数字和对应的出现次数

@@ -1,0 +1,71 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Simple Calendar Pro"
+        },
+        {
+            "action_type": "click",
+            "index": 69
+        },
+        {
+            "action_type": "input_text",
+            "index": 8,
+            "text": "New Event Title"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new event in Simple Calendar Pro. To do this, I need to open the app.{\"action_type\": \"open_app\", \"app_name\": \"Simple Calendar Pro\"}",
+        "The goal is to create a new event. The \"New Event\" button is visible and clickable.{\"action_type\": \"click\", \"index\": 69}",
+        "The user wants to create a new event with a title, location, and description. The current screen is the event creation screen. The next step is to input the title of the event. The title field is at index 8.{\"action_type\": \"input_text\", \"text\": \"New Event Title\", \"index\": 8}",
+        "The next step is to input the location of the event. The location field is likely located below the title field.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The location and description fields are not visible on the screen. I need to scroll down to find them.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The location and description fields are not visible. I need to scroll down further to find them.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find the location and description fields.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find the location and description fields.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to scroll down to find the location and description fields.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I have been scrolling down repeatedly and still haven't found the location and description fields. It's possible they are not visible on this screen or are located in a different section. I will try clicking on the \"More options\" button to see if it reveals additional settings, including location and description.{\"action_type\": \"click\", \"index\": 15}",
+        "The location and description fields are not visible. I will scroll down to find them.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I have scrolled down multiple times and clicked on \"More options\", but I still cannot find the location and description fields. I will try navigating back to the main screen to see if they are located there.{\"action_type\": \"navigate_back\"}",
+        "I have navigated back to the main event creation screen. I will now scroll down to find the location and description fields.{\"action_type\": \"scroll\", \"direction\": \"down\"}"
+    ]
+}

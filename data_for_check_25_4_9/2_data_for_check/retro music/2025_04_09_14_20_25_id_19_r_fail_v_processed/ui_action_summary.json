@@ -1,0 +1,2233 @@
+[
+    {
+        "id": 0,
+        "task_goal": "The user goal is to \"access and explore the settings menu within the Retro Music application.\"\n",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    29,
+                    1051,
+                    195,
+                    1779
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    223,
+                    1751
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    57,
+                    1023,
+                    223,
+                    495
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    99,
+                    1023,
+                    224,
+                    495
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"is_clickable\": False, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    99,
+                    1023,
+                    224,
+                    495
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    99,
+                    1023,
+                    224,
+                    495
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    99,
+                    1023,
+                    292,
+                    427
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"text\": \"Wed, Apr 9\", \"content_description\": \"Wed, Apr 9\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    99,
+                    1023,
+                    292,
+                    354
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    99,
+                    120,
+                    378,
+                    427
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"Gmail\", \"content_description\": \"Gmail\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    309,
+                    519,
+                    1479,
+                    1751
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"text\": \"Photos\", \"content_description\": \"Photos\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    561,
+                    771,
+                    1479,
+                    1751
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"text\": \"YouTube\", \"content_description\": \"YouTube\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    813,
+                    1023,
+                    1479,
+                    1751
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"content_description\": \"Home\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1810,
+                    1873
+                ]
+            },
+            {
+                "ui_description": "UI element 21: {\"index\": 21, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1873,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 22: {\"index\": 22, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    76,
+                    1004,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 23: {\"index\": 23, \"text\": \"Phone\", \"content_description\": \"Phone\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    76,
+                    249,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 24: {\"index\": 24, \"text\": \"Messages\", \"content_description\": \"Messages\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    328,
+                    501,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 25: {\"index\": 25, \"text\": \"Chrome\", \"content_description\": \"Chrome\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    580,
+                    753,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 26: {\"index\": 26, \"text\": \"Retro Music\", \"content_description\": \"Predicted app: Retro Music\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    832,
+                    1004,
+                    1873,
+                    2068
+                ]
+            },
+            {
+                "ui_description": "UI element 27: {\"index\": 27, \"content_description\": \"Search\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    75,
+                    1004,
+                    2125,
+                    2290
+                ]
+            },
+            {
+                "ui_description": "UI element 28: {\"index\": 28, \"content_description\": \"Google app\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    86,
+                    212,
+                    2144,
+                    2270
+                ]
+            },
+            {
+                "ui_description": "UI element 29: {\"index\": 29, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    741,
+                    993,
+                    2125,
+                    2290
+                ]
+            },
+            {
+                "ui_description": "UI element 30: {\"index\": 30, \"content_description\": \"Voice search\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    741,
+                    867,
+                    2125,
+                    2290
+                ]
+            },
+            {
+                "ui_description": "UI element 31: {\"index\": 31, \"content_description\": \"Google Lens\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    867,
+                    993,
+                    2125,
+                    2290
+                ]
+            },
+            {
+                "ui_description": "UI element 32: {\"index\": 32, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    2006,
+                    2400
+                ]
+            }
+        ],
+        "action": null,
+        "action_output": null
+    },
+    {
+        "id": 1,
+        "task_goal": "The user goal is to \"access and explore the settings menu within the Retro Music application.\"\n",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    296
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    296
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"content_description\": \"Navigate up\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    147,
+                    138,
+                    285
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \"Playlists\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    432,
+                    649,
+                    173,
+                    251
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    975,
+                    1080,
+                    138,
+                    285
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"content_description\": \"More options\", \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    975,
+                    1080,
+                    148,
+                    274
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    296,
+                    2358
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    535,
+                    301,
+                    1014
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    16,
+                    524,
+                    312,
+                    820
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    16,
+                    524,
+                    312,
+                    820
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    16,
+                    398,
+                    820,
+                    1003
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"My Favorites\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    48,
+                    295,
+                    852,
+                    909
+                ]
+            },
+            {
+                "ui_description": "UI element 21: {\"index\": 21, \"text\": \"0 Songs  •  00:00\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    48,
+                    322,
+                    909,
+                    971
+                ]
+            },
+            {
+                "ui_description": "UI element 22: {\"index\": 22, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    398,
+                    524,
+                    849,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 23: {\"index\": 23, \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    545,
+                    1075,
+                    301,
+                    1014
+                ]
+            },
+            {
+                "ui_description": "UI element 24: {\"index\": 24, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    556,
+                    1064,
+                    312,
+                    820
+                ]
+            },
+            {
+                "ui_description": "UI element 25: {\"index\": 25, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    556,
+                    1064,
+                    312,
+                    820
+                ]
+            },
+            {
+                "ui_description": "UI element 26: {\"index\": 26, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    556,
+                    938,
+                    820,
+                    1003
+                ]
+            },
+            {
+                "ui_description": "UI element 27: {\"index\": 27, \"text\": \"My Playlist\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    588,
+                    800,
+                    852,
+                    909
+                ]
+            },
+            {
+                "ui_description": "UI element 28: {\"index\": 28, \"text\": \"0 Songs  •  00:00\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    588,
+                    862,
+                    909,
+                    971
+                ]
+            },
+            {
+                "ui_description": "UI element 29: {\"index\": 29, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    938,
+                    1064,
+                    849,
+                    975
+                ]
+            },
+            {
+                "ui_description": "UI element 30: {\"index\": 30, \"is_clickable\": True, \"is_long_clickable\": True, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    535,
+                    1024,
+                    1737
+                ]
+            },
+            {
+                "ui_description": "UI element 31: {\"index\": 31, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    16,
+                    524,
+                    1035,
+                    1543
+                ]
+            },
+            {
+                "ui_description": "UI element 32: {\"index\": 32, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    16,
+                    524,
+                    1035,
+                    1543
+                ]
+            },
+            {
+                "ui_description": "UI element 33: {\"index\": 33, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    16,
+                    398,
+                    1543,
+                    1726
+                ]
+            },
+            {
+                "ui_description": "UI element 34: {\"index\": 34, \"text\": \"Workout\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    48,
+                    211,
+                    1575,
+                    1632
+                ]
+            },
+            {
+                "ui_description": "UI element 35: {\"index\": 35, \"text\": \"0 Songs  •  00:00\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    48,
+                    322,
+                    1632,
+                    1694
+                ]
+            },
+            {
+                "ui_description": "UI element 36: {\"index\": 36, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    398,
+                    524,
+                    1572,
+                    1698
+                ]
+            },
+            {
+                "ui_description": "UI element 37: {\"index\": 37, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    2127,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 38: {\"index\": 38, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    2127,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 39: {\"index\": 39, \"content_description\": \"For you\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    216,
+                    2127,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 40: {\"index\": 40, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    24,
+                    192,
+                    2190,
+                    2274
+                ]
+            },
+            {
+                "ui_description": "UI element 41: {\"index\": 41, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    76,
+                    139,
+                    2200,
+                    2263
+                ]
+            },
+            {
+                "ui_description": "UI element 42: {\"index\": 42, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    49,
+                    166,
+                    2294,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 43: {\"index\": 43, \"content_description\": \"Songs\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    216,
+                    432,
+                    2127,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 44: {\"index\": 44, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    240,
+                    408,
+                    2190,
+                    2274
+                ]
+            },
+            {
+                "ui_description": "UI element 45: {\"index\": 45, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    292,
+                    355,
+                    2200,
+                    2263
+                ]
+            },
+            {
+                "ui_description": "UI element 46: {\"index\": 46, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    275,
+                    372,
+                    2294,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 47: {\"index\": 47, \"content_description\": \"Albums\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    432,
+                    648,
+                    2127,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 48: {\"index\": 48, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    456,
+                    624,
+                    2190,
+                    2274
+                ]
+            },
+            {
+                "ui_description": "UI element 49: {\"index\": 49, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    508,
+                    571,
+                    2200,
+                    2263
+                ]
+            },
+            {
+                "ui_description": "UI element 50: {\"index\": 50, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    480,
+                    599,
+                    2294,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 51: {\"index\": 51, \"content_description\": \"Artists\", \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    648,
+                    864,
+                    2127,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 52: {\"index\": 52, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    672,
+                    840,
+                    2190,
+                    2274
+                ]
+            },
+            {
+                "ui_description": "UI element 53: {\"index\": 53, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    724,
+                    787,
+                    2200,
+                    2263
+                ]
+            },
+            {
+                "ui_description": "UI element 54: {\"index\": 54, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    702,
+                    810,
+                    2294,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 55: {\"index\": 55, \"content_description\": \"Playlists\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": True, \"is_checked\": False}",
+                "ui_bbox": [
+                    864,
+                    1080,
+                    2127,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 56: {\"index\": 56, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+                "ui_bbox": [
+                    888,
+                    1056,
+                    2159,
+                    2243
+                ]
+            },
+            {
+                "ui_description": "UI element 57: {\"index\": 57, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+                "ui_bbox": [
+                    888,
+                    1056,
+                    2159,
+                    2243
+                ]
+            },
+            {
+                "ui_description": "UI element 58: {\"index\": 58, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+                "ui_bbox": [
+                    940,
+                    1003,
+                    2169,
+                    2232
+                ]
+            },
+            {
+                "ui_description": "UI element 59: {\"index\": 59, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+                "ui_bbox": [
+                    904,
+                    1040,
+                    2261,
+                    2337
+                ]
+            },
+            {
+                "ui_description": "UI element 60: {\"index\": 60, \"text\": \"Playlists\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": True, \"is_checked\": False}",
+                "ui_bbox": [
+                    904,
+                    1040,
+                    2261,
+                    2304
+                ]
+            }
+        ],
+        "action": "{\"action_type\": \"open_app\", \"app_name\": \"Retro Music\"}",
+        "action_output": "{\"action_type\": \"open_app\", \"app_name\": \"Retro Music\"}",
+        "summary": "Open the \"Retro Music\" application, displaying the playlists interface with options like \"My Favorites\", \"My Playlist\", and \"Workout\"."
+    },
+    {
+        "id": 2,
+        "task_goal": "The user goal is to \"access and explore the settings menu within the Retro Music application.\"\n",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    555,
+                    1070,
+                    149,
+                    831
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    555,
+                    1070,
+                    149,
+                    831
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    555,
+                    1070,
+                    175,
+                    805
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    555,
+                    1070,
+                    175,
+                    301
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    555,
+                    1070,
+                    175,
+                    301
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    597,
+                    944,
+                    209,
+                    266
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"text\": \"Grid size\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    597,
+                    944,
+                    209,
+                    266
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    965,
+                    1028,
+                    206,
+                    269
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    555,
+                    1070,
+                    301,
+                    427
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    555,
+                    1070,
+                    301,
+                    427
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    597,
+                    944,
+                    335,
+                    392
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"text\": \"Sort order\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    597,
+                    944,
+                    335,
+                    392
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    965,
+                    1028,
+                    332,
+                    395
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    555,
+                    1070,
+                    427,
+                    553
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    555,
+                    1070,
+                    427,
+                    553
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    597,
+                    1028,
+                    461,
+                    518
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"text\": \"New playlist\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    597,
+                    1028,
+                    461,
+                    518
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    555,
+                    1070,
+                    553,
+                    679
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    555,
+                    1070,
+                    553,
+                    679
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    597,
+                    1028,
+                    587,
+                    644
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"Import playlist\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    597,
+                    1028,
+                    587,
+                    644
+                ]
+            },
+            {
+                "ui_description": "UI element 21: {\"index\": 21, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    555,
+                    1070,
+                    679,
+                    805
+                ]
+            },
+            {
+                "ui_description": "UI element 22: {\"index\": 22, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    555,
+                    1070,
+                    679,
+                    805
+                ]
+            },
+            {
+                "ui_description": "UI element 23: {\"index\": 23, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    597,
+                    1028,
+                    713,
+                    770
+                ]
+            },
+            {
+                "ui_description": "UI element 24: {\"index\": 24, \"text\": \"Settings\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    597,
+                    1028,
+                    713,
+                    770
+                ]
+            }
+        ],
+        "action": "{\"action_type\": \"click\", \"index\": 14}",
+        "action_output": "{\"action_type\": \"click\", \"index\": 14}",
+        "summary": "Click the three dots icon at the top right corner to open the menu.\n"
+    },
+    {
+        "id": 3,
+        "task_goal": "The user goal is to \"access and explore the settings menu within the Retro Music application.\"\n",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    296
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    296
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    147,
+                    138,
+                    285
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \"Settings\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    157,
+                    369,
+                    173,
+                    251
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    296,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    296,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    296,
+                    2322
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    296,
+                    2322
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    296,
+                    493
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    296,
+                    493
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    338,
+                    459
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"Look and feel\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    338,
+                    395
+                ]
+            },
+            {
+                "ui_description": "UI element 21: {\"index\": 21, \"text\": \"Change the theme and colors of the app\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    400,
+                    451
+                ]
+            },
+            {
+                "ui_description": "UI element 22: {\"index\": 22, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    493,
+                    690
+                ]
+            },
+            {
+                "ui_description": "UI element 23: {\"index\": 23, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    493,
+                    690
+                ]
+            },
+            {
+                "ui_description": "UI element 24: {\"index\": 24, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    535,
+                    656
+                ]
+            },
+            {
+                "ui_description": "UI element 25: {\"index\": 25, \"text\": \"Now playing\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    535,
+                    592
+                ]
+            },
+            {
+                "ui_description": "UI element 26: {\"index\": 26, \"text\": \"Customize the now playing screen\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    597,
+                    648
+                ]
+            },
+            {
+                "ui_description": "UI element 27: {\"index\": 27, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    690,
+                    930
+                ]
+            },
+            {
+                "ui_description": "UI element 28: {\"index\": 28, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    690,
+                    930
+                ]
+            },
+            {
+                "ui_description": "UI element 29: {\"index\": 29, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    732,
+                    853
+                ]
+            },
+            {
+                "ui_description": "UI element 30: {\"index\": 30, \"text\": \"Audio\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    732,
+                    789
+                ]
+            },
+            {
+                "ui_description": "UI element 31: {\"index\": 31, \"text\": \"Change the sound settings and adjust the equalizer controls\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    794,
+                    888
+                ]
+            },
+            {
+                "ui_description": "UI element 32: {\"index\": 32, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    930,
+                    1127
+                ]
+            },
+            {
+                "ui_description": "UI element 33: {\"index\": 33, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    930,
+                    1127
+                ]
+            },
+            {
+                "ui_description": "UI element 34: {\"index\": 34, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    972,
+                    1093
+                ]
+            },
+            {
+                "ui_description": "UI element 35: {\"index\": 35, \"text\": \"Personalize\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    972,
+                    1029
+                ]
+            },
+            {
+                "ui_description": "UI element 36: {\"index\": 36, \"text\": \"Customize your now playing and UI controls\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1034,
+                    1085
+                ]
+            },
+            {
+                "ui_description": "UI element 37: {\"index\": 37, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1127,
+                    1324
+                ]
+            },
+            {
+                "ui_description": "UI element 38: {\"index\": 38, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    1127,
+                    1324
+                ]
+            },
+            {
+                "ui_description": "UI element 39: {\"index\": 39, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    1169,
+                    1290
+                ]
+            },
+            {
+                "ui_description": "UI element 40: {\"index\": 40, \"text\": \"Images\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1169,
+                    1226
+                ]
+            },
+            {
+                "ui_description": "UI element 41: {\"index\": 41, \"text\": \"Change artist image download settings\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1231,
+                    1282
+                ]
+            },
+            {
+                "ui_description": "UI element 42: {\"index\": 42, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1324,
+                    1521
+                ]
+            },
+            {
+                "ui_description": "UI element 43: {\"index\": 43, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    1324,
+                    1521
+                ]
+            },
+            {
+                "ui_description": "UI element 44: {\"index\": 44, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    1366,
+                    1487
+                ]
+            },
+            {
+                "ui_description": "UI element 45: {\"index\": 45, \"text\": \"Notification\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1366,
+                    1423
+                ]
+            },
+            {
+                "ui_description": "UI element 46: {\"index\": 46, \"text\": \"Customize the notification style\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1428,
+                    1479
+                ]
+            },
+            {
+                "ui_description": "UI element 47: {\"index\": 47, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1521,
+                    1718
+                ]
+            },
+            {
+                "ui_description": "UI element 48: {\"index\": 48, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    1521,
+                    1718
+                ]
+            },
+            {
+                "ui_description": "UI element 49: {\"index\": 49, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    1563,
+                    1684
+                ]
+            },
+            {
+                "ui_description": "UI element 50: {\"index\": 50, \"text\": \"Other\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1563,
+                    1620
+                ]
+            },
+            {
+                "ui_description": "UI element 51: {\"index\": 51, \"text\": \"Advanced testing features\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1625,
+                    1676
+                ]
+            },
+            {
+                "ui_description": "UI element 52: {\"index\": 52, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1718,
+                    1915
+                ]
+            },
+            {
+                "ui_description": "UI element 53: {\"index\": 53, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    1718,
+                    1915
+                ]
+            },
+            {
+                "ui_description": "UI element 54: {\"index\": 54, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    1760,
+                    1881
+                ]
+            },
+            {
+                "ui_description": "UI element 55: {\"index\": 55, \"text\": \"Backup & Restore\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1760,
+                    1817
+                ]
+            },
+            {
+                "ui_description": "UI element 56: {\"index\": 56, \"text\": \"Backup and restore your settings, playlists\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1822,
+                    1873
+                ]
+            },
+            {
+                "ui_description": "UI element 57: {\"index\": 57, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1915,
+                    2112
+                ]
+            },
+            {
+                "ui_description": "UI element 58: {\"index\": 58, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    1915,
+                    2112
+                ]
+            },
+            {
+                "ui_description": "UI element 59: {\"index\": 59, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    1957,
+                    2078
+                ]
+            },
+            {
+                "ui_description": "UI element 60: {\"index\": 60, \"text\": \"About\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1957,
+                    2014
+                ]
+            },
+            {
+                "ui_description": "UI element 61: {\"index\": 61, \"text\": \"Team, social links\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    2019,
+                    2070
+                ]
+            }
+        ],
+        "action": "{\"action_type\": \"click\", \"index\": 24}",
+        "action_output": "{\"action_type\": \"click\", \"index\": 24}",
+        "summary": "Click \"Settings\" to access the application's configuration options.\n"
+    },
+    {
+        "id": 4,
+        "task_goal": "The user goal is to \"access and explore the settings menu within the Retro Music application.\"\n",
+        "ui_list_description": [
+            {
+                "ui_description": "UI element 0: {\"index\": 0, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 1: {\"index\": 1, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 2: {\"index\": 2, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 3: {\"index\": 3, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 4: {\"index\": 4, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 5: {\"index\": 5, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 6: {\"index\": 6, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 7: {\"index\": 7, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 8: {\"index\": 8, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_scrollable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 9: {\"index\": 9, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    128
+                ]
+            },
+            {
+                "ui_description": "UI element 10: {\"index\": 10, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    0,
+                    128
+                ]
+            },
+            {
+                "ui_description": "UI element 11: {\"index\": 11, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    147,
+                    0,
+                    117
+                ]
+            },
+            {
+                "ui_description": "UI element 12: {\"index\": 12, \"text\": \"Settings\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    157,
+                    369,
+                    5,
+                    83
+                ]
+            },
+            {
+                "ui_description": "UI element 13: {\"index\": 13, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 14: {\"index\": 14, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2400
+                ]
+            },
+            {
+                "ui_description": "UI element 15: {\"index\": 15, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2154
+                ]
+            },
+            {
+                "ui_description": "UI element 16: {\"index\": 16, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    2154
+                ]
+            },
+            {
+                "ui_description": "UI element 17: {\"index\": 17, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    128,
+                    325
+                ]
+            },
+            {
+                "ui_description": "UI element 18: {\"index\": 18, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    128,
+                    325
+                ]
+            },
+            {
+                "ui_description": "UI element 19: {\"index\": 19, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    170,
+                    291
+                ]
+            },
+            {
+                "ui_description": "UI element 20: {\"index\": 20, \"text\": \"Look and feel\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    170,
+                    227
+                ]
+            },
+            {
+                "ui_description": "UI element 21: {\"index\": 21, \"text\": \"Change the theme and colors of the app\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    232,
+                    283
+                ]
+            },
+            {
+                "ui_description": "UI element 22: {\"index\": 22, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    325,
+                    522
+                ]
+            },
+            {
+                "ui_description": "UI element 23: {\"index\": 23, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    325,
+                    522
+                ]
+            },
+            {
+                "ui_description": "UI element 24: {\"index\": 24, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    367,
+                    488
+                ]
+            },
+            {
+                "ui_description": "UI element 25: {\"index\": 25, \"text\": \"Now playing\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    367,
+                    424
+                ]
+            },
+            {
+                "ui_description": "UI element 26: {\"index\": 26, \"text\": \"Customize the now playing screen\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    429,
+                    480
+                ]
+            },
+            {
+                "ui_description": "UI element 27: {\"index\": 27, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    522,
+                    762
+                ]
+            },
+            {
+                "ui_description": "UI element 28: {\"index\": 28, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    522,
+                    762
+                ]
+            },
+            {
+                "ui_description": "UI element 29: {\"index\": 29, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    564,
+                    685
+                ]
+            },
+            {
+                "ui_description": "UI element 30: {\"index\": 30, \"text\": \"Audio\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    564,
+                    621
+                ]
+            },
+            {
+                "ui_description": "UI element 31: {\"index\": 31, \"text\": \"Change the sound settings and adjust the equalizer controls\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    626,
+                    720
+                ]
+            },
+            {
+                "ui_description": "UI element 32: {\"index\": 32, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    762,
+                    959
+                ]
+            },
+            {
+                "ui_description": "UI element 33: {\"index\": 33, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    762,
+                    959
+                ]
+            },
+            {
+                "ui_description": "UI element 34: {\"index\": 34, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    804,
+                    925
+                ]
+            },
+            {
+                "ui_description": "UI element 35: {\"index\": 35, \"text\": \"Personalize\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    804,
+                    861
+                ]
+            },
+            {
+                "ui_description": "UI element 36: {\"index\": 36, \"text\": \"Customize your now playing and UI controls\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    866,
+                    917
+                ]
+            },
+            {
+                "ui_description": "UI element 37: {\"index\": 37, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    959,
+                    1156
+                ]
+            },
+            {
+                "ui_description": "UI element 38: {\"index\": 38, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    959,
+                    1156
+                ]
+            },
+            {
+                "ui_description": "UI element 39: {\"index\": 39, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    1001,
+                    1122
+                ]
+            },
+            {
+                "ui_description": "UI element 40: {\"index\": 40, \"text\": \"Images\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1001,
+                    1058
+                ]
+            },
+            {
+                "ui_description": "UI element 41: {\"index\": 41, \"text\": \"Change artist image download settings\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1063,
+                    1114
+                ]
+            },
+            {
+                "ui_description": "UI element 42: {\"index\": 42, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1156,
+                    1353
+                ]
+            },
+            {
+                "ui_description": "UI element 43: {\"index\": 43, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    1156,
+                    1353
+                ]
+            },
+            {
+                "ui_description": "UI element 44: {\"index\": 44, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    1198,
+                    1319
+                ]
+            },
+            {
+                "ui_description": "UI element 45: {\"index\": 45, \"text\": \"Notification\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1198,
+                    1255
+                ]
+            },
+            {
+                "ui_description": "UI element 46: {\"index\": 46, \"text\": \"Customize the notification style\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1260,
+                    1311
+                ]
+            },
+            {
+                "ui_description": "UI element 47: {\"index\": 47, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1353,
+                    1550
+                ]
+            },
+            {
+                "ui_description": "UI element 48: {\"index\": 48, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    1353,
+                    1550
+                ]
+            },
+            {
+                "ui_description": "UI element 49: {\"index\": 49, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    1395,
+                    1516
+                ]
+            },
+            {
+                "ui_description": "UI element 50: {\"index\": 50, \"text\": \"Other\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1395,
+                    1452
+                ]
+            },
+            {
+                "ui_description": "UI element 51: {\"index\": 51, \"text\": \"Advanced testing features\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1457,
+                    1508
+                ]
+            },
+            {
+                "ui_description": "UI element 52: {\"index\": 52, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1550,
+                    1747
+                ]
+            },
+            {
+                "ui_description": "UI element 53: {\"index\": 53, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    1550,
+                    1747
+                ]
+            },
+            {
+                "ui_description": "UI element 54: {\"index\": 54, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    1592,
+                    1713
+                ]
+            },
+            {
+                "ui_description": "UI element 55: {\"index\": 55, \"text\": \"Backup & Restore\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1592,
+                    1649
+                ]
+            },
+            {
+                "ui_description": "UI element 56: {\"index\": 56, \"text\": \"Backup and restore your settings, playlists\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1654,
+                    1705
+                ]
+            },
+            {
+                "ui_description": "UI element 57: {\"index\": 57, \"is_clickable\": True, \"is_long_clickable\": False, \"is_editable\": False, \"is_focusable\": True, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    0,
+                    1080,
+                    1747,
+                    1944
+                ]
+            },
+            {
+                "ui_description": "UI element 58: {\"index\": 58, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    5,
+                    1075,
+                    1747,
+                    1944
+                ]
+            },
+            {
+                "ui_description": "UI element 59: {\"index\": 59, \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    26,
+                    147,
+                    1789,
+                    1910
+                ]
+            },
+            {
+                "ui_description": "UI element 60: {\"index\": 60, \"text\": \"About\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1789,
+                    1846
+                ]
+            },
+            {
+                "ui_description": "UI element 61: {\"index\": 61, \"text\": \"Team, social links\", \"is_clickable\": False, \"is_long_clickable\": False, \"is_editable\": False, \"is_selected\": False, \"is_checked\": False}",
+                "ui_bbox": [
+                    189,
+                    1033,
+                    1851,
+                    1902
+                ]
+            }
+        ],
+        "action": "{\"action_type\": \"scroll\", \"index\": 8, \"direction\": \"down\"}",
+        "action_output": "{\"action_type\": \"scroll\", \"index\": 8, \"direction\": \"down\"}",
+        "summary": "Scroll down to view more settings options, including \"Look and feel\", \"Now playing\", \"Audio\", \"Personalize\", \"Images\", \"Notification\", \"Other\", \"Backup & Restore\", and \"About\".\n"
+    }
+]

@@ -1,0 +1,72 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        },
+        {
+            "action_type": "click",
+            "index": 26
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "up"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_home"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        },
+        {
+            "action_type": "click",
+            "index": 26
+        }
+    ],
+    "action_output_list": [
+        "The user wants to compose a new SMS message. The Messages app is on the home screen.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}",
+        "The current screen is asking to set Messages as the default SMS app. To proceed with composing a new SMS message, I need to either set it as default or cancel. I will choose to cancel for now.{\"action_type\": \"click\", \"index\": 26}",
+        "To compose a new SMS message, I need to find the compose button, which is usually a plus sign or a similar icon. I will scroll down to see if there is one.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 14}",
+        "I need to find the compose button to start a new SMS message. Since I scrolled down in the previous step, I should try scrolling up to see if the compose button is there.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 14}",
+        "I have scrolled up and down and still can't find the compose button. I will try to open the app again to see if it resets the screen.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}",
+        "The current screen shows the main Messages app interface. To compose a new SMS message, I need to find and click the compose button. I don't see it on the screen, so I will try scrolling down to see if it's located at the bottom.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "I need to find the compose button to start a new message. Since it's not visible, I will try scrolling down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 14}",
+        "I have been scrolling and still haven't found the compose button. I will try clicking the search button to see if I can find a compose option there.{\"action_type\": \"click\", \"index\": 16}",
+        "I have been trying to find the compose button by scrolling and searching, but it's not visible. I will try to navigate back to the main screen of the Messages app to see if the compose button is there.{\"action_type\": \"navigate_back\"}",
+        "I have been trying to find the compose button for a while and haven't been able to locate it. I will try to navigate home and open the Messages app again to see if that helps.{\"action_type\": \"navigate_home\"}",
+        "I have tried multiple times to find the compose button in the Messages app without success. I will try opening the app again to see if it helps.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}",
+        "I have been trying to find the compose button in the Messages app without success. I will try to close the app and open it again to see if it resolves the issue.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}",
+        "I have been trying to find the compose button in the Messages app without success. I will try to cancel the \"Set Messages as your default SMS app?\" prompt to see if it reveals the compose button.{\"action_type\": \"click\", \"index\": 26}"
+    ]
+}

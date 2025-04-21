@@ -1,0 +1,4 @@
+{
+    "score": 3,
+    "reason": "The agent initially opens the camera app, then navigates to the home screen and opens the photos app, and then gets stuck in a loop of navigating back and forth between the camera and photos apps. It eventually takes a picture and clicks on the gallery view, then clicks the share button. The agent did not click the 'Post' button as instructed."
+}

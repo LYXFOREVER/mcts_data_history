@@ -1,0 +1,16 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Retro Music"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        }
+    ],
+    "action_output_list": [
+        "To change the language, I need to open the Retro Music app first.{\"action_type\": \"open_app\", \"app_name\": \"Retro Music\"}",
+        "To change the language, I need to find the settings menu. I will start by looking for a \"More options\" button, which is often represented by three dots.{\"action_type\": \"click\", \"index\": 14}"
+    ]
+}

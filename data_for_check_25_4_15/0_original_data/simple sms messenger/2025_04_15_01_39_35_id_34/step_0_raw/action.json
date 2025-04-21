@@ -1,0 +1,82 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 14,
+            "direction": "up"
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "input_text",
+            "index": 18,
+            "text": "Jane"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to delete a specific SMS message from the conversation with Jane. First, I need to open the Messages app.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}",
+        "The current screen shows a list of conversations. To proceed, I need to find the conversation with Jane. Since the list might be long, I will scroll down to see if it's there.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 14}",
+        "The current screen shows a list of conversations. I need to find the conversation with Jane. If it's not on the screen, I need to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 14}",
+        "The conversation with Jane is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 14}",
+        "I need to find the conversation with Jane. The current screen shows a list of conversations, but I don't see Jane's conversation. I should scroll down to see if it's further down the list.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 14}",
+        "I need to find the conversation with Jane. The current screen shows a list of conversations, but I haven't found Jane yet. I should scroll down to see more conversations.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 14}",
+        "I need to find the conversation with Jane. The current screen shows a list of conversations, but I haven't found Jane's conversation yet. I should scroll down to see more conversations.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 14}",
+        "I need to find the conversation with Jane before I can delete a message. The conversation is not visible on the screen, so I need to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 14}",
+        "I need to find the conversation with Jane before I can delete a message. The current screen shows a list of conversations, and I have been scrolling down to find Jane's conversation. I will continue scrolling down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 14}",
+        "I need to find the conversation with Jane before I can delete a message from it. The current screen shows a list of conversations, and I have been scrolling down to find Jane's conversation. I will continue scrolling down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 14}",
+        "I have been scrolling down for a while and still haven't found the conversation with Jane. I will try scrolling up to see if it is higher up in the list.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 14}",
+        "I have been scrolling and still haven't found the conversation with Jane. I will try searching for it.{\"action_type\": \"click\", \"index\": 16}",
+        "The user wants to delete a message from Jane. I need to find the conversation with Jane first. Since scrolling didn't work, and I clicked on the search bar, I should now type \"Jane\" in the search bar.{\"action_type\": \"input_text\", \"text\": \"Jane\", \"index\": 18}"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Retro Music Player"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        }
+    ],
+    "action_output_list": [
+        "The user wants to configure audio focus control settings in Retro Music. First, I need to open the Retro Music app.{\"action_type\": \"open_app\", \"app_name\": \"Retro Music Player\"}",
+        "The user wants to configure audio focus control settings. I need to find the settings menu. The \"More options\" button might lead to the settings.{\"action_type\": \"click\", \"index\": 14}"
+    ]
+}

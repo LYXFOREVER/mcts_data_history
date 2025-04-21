@@ -1,0 +1,16 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Simple Calendar Pro"
+        },
+        {
+            "action_type": "click",
+            "index": 22
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new event in Simple Calendar Pro. The first step is to open the app.{\"action_type\": \"open_app\", \"app_name\": \"Simple Calendar Pro\"}",
+        "The user wants to create a new event. The screen shows a \"Create a new event\" button.{\"action_type\": \"click\", \"index\": 22}"
+    ]
+}

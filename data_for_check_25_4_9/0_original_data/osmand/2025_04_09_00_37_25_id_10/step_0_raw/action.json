@@ -1,0 +1,67 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "OsmAnd"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "OsmAnd"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "OsmAnd"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "OsmAnd"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "OsmAnd"
+        },
+        {
+            "action_type": "click",
+            "index": 34
+        },
+        {
+            "action_type": "click",
+            "index": 34
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to open a file in OsmAnd. I should first open the OsmAnd app.{\"action_type\": \"open_app\", \"app_name\": \"OsmAnd\"}",
+        "The current screen does not show any file selection or filtering options. I need to navigate back to the main menu to find the file selection option.{\"action_type\": \"navigate_back\"}",
+        "The current screen is the home screen, and the OsmAnd app needs to be opened to access the file.{\"action_type\": \"open_app\", \"app_name\": \"OsmAnd\"}",
+        "The current screen is the main map view of OsmAnd. To open a specific file, I need to navigate to the settings or a file management section within the app. I will try to go back to the main menu first.{\"action_type\": \"navigate_back\"}",
+        "The current screen is the home screen. I need to open OsmAnd to find the file.{\"action_type\": \"open_app\", \"app_name\": \"OsmAnd\"}",
+        "The current screen is the map view. I need to navigate back to the main menu to find file management options.{\"action_type\": \"navigate_back\"}",
+        "The current screen is the home screen. To open the file in OsmAnd, I need to open the OsmAnd app first.{\"action_type\": \"open_app\", \"app_name\": \"OsmAnd\"}",
+        "The current screen shows the map view. To open a file, I need to go back to the main menu.{\"action_type\": \"navigate_back\"}",
+        "The current screen is the home screen. To open the file in OsmAnd, I need to open the OsmAnd app first.{\"action_type\": \"open_app\", \"app_name\": \"OsmAnd\"}",
+        "The current screen is the map view in OsmAnd. To open a file, I need to navigate to the main menu. The back button (UI element 34) should take me there.{\"action_type\": \"click\", \"index\": 34}",
+        "The current screen is the map view in OsmAnd. To open a file, I need to navigate to the main menu. The \"Back to menu\" button (34) should take me there.{\"action_type\": \"click\", \"index\": 34}",
+        "The current screen is the main menu of OsmAnd. I need to find the option to open a file. I will scroll down to see if there is a file management option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to open a specific file in OsmAnd. The current screen is the main menu. I need to find an option to open or import files. Since I don't see an obvious option, I will scroll down to see if there are more options.{\"action_type\": \"scroll\", \"direction\": \"down\"}"
+    ]
+}

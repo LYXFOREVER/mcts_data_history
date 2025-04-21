@@ -34,7 +34,7 @@ def extract_trajectory_results(excel_path):
         list: 包含各个轨迹执行结果（数字）的列表。
     """
     # 读取 Excel 文件
-    df = pd.read_excel(excel_path)
+    df = pd.read_excel(excel_path, header=None)
     
     results = []
     
@@ -59,7 +59,7 @@ def extract_first_non_empty_string(excel_path):
         list: 包含每个轨迹的第一个非空字符串的列表。
     """
     # 读取 Excel 文件
-    df = pd.read_excel(excel_path)
+    df = pd.read_excel(excel_path, header=None)
     
     results = []
     
@@ -250,8 +250,10 @@ def calculate_positive_negative_ratio(numbers):
 ################################################
 
 if __name__ == "__main__":
-    folder = '25_2_25_data_for_check_result'
-    expert_list = ['liu_zi_yang', 'zhang_ling_sen', 'zhang_ren_shan'] # 负责统计数据质量的三位专家
+    #folder = '25_2_25_data_for_check_result'
+    #expert_list = ['liu_zi_yang', 'zhang_ling_sen', 'zhang_ren_shan'] # 负责统计数据质量的三位专家
+    folder = 'data_for_check_25_3_31/data_for_check_result'
+    expert_list = ['hu_bing', 'li_yi_xing', 'shen_le_yang']
 
     """
     下面这个字典存储了全部的统计结果。结构如下:

@@ -1,0 +1,16 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Retro Music"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        }
+    ],
+    "action_output_list": [
+        "The user wants to configure image settings in Retro Music. First, I need to open the Retro Music app.{\"action_type\": \"open_app\", \"app_name\": \"Retro Music\"}",
+        "The current screen shows the main screen of the Retro Music app. To configure image settings, I need to open the settings menu. I will look for a \"Settings\" option in the \"More options\" menu.{\"action_type\": \"click\", \"index\": 14}"
+    ]
+}

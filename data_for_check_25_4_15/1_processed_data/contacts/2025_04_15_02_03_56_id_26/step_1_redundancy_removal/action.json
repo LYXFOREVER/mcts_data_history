@@ -1,0 +1,21 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Contacts"
+        },
+        {
+            "action_type": "click",
+            "index": 37
+        },
+        {
+            "action_type": "click",
+            "index": 22
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new group in contacts. I should open the contacts app first.{\"action_type\": \"open_app\", \"app_name\": \"Contacts\"}",
+        "The current screen shows the contacts list. To create a new group, I need to open the navigation drawer.{\"action_type\": \"click\", \"index\": 37}",
+        "The current screen shows the contacts list. To create a new group, I need to navigate to the settings or a similar option within the Contacts app. Since I don't see an obvious \"create group\" option, I will try clicking the \"More options\" button to see if it contains the desired functionality.{\"action_type\": \"click\", \"index\": 22}"
+    ]
+}

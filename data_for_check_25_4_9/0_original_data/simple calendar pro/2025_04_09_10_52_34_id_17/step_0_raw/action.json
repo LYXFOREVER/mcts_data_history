@@ -1,0 +1,80 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Simple Calendar Pro"
+        },
+        {
+            "action_type": "click",
+            "index": 23
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "click",
+            "index": 18
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "left"
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "left"
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "left"
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "left"
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "left"
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "left"
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "left"
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "left"
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "left"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new event in Simple Calendar Pro. The first step is to open the app.{\"action_type\": \"open_app\", \"app_name\": \"Simple Calendar Pro\"}",
+        "The current screen shows the calendar. The goal is to create a new event on February 8, 2025. First, I need to navigate to February 8, 2025. I can start by clicking on the current month, \"April\", to change the month and year.{\"action_type\": \"click\", \"index\": 23}",
+        "The current screen shows the month and year selection dialog. I need to select February 2025. First, I will click on 2024 to change the year to 2025.{\"action_type\": \"click\", \"index\": 16}",
+        "The goal is to set the year to 2025. The current screen shows a list of years, and 2025 is visible and clickable.{\"action_type\": \"click\", \"index\": 18}",
+        "The year 2025 has been selected. Now I need to select the month February.{\"action_type\": \"scroll\", \"direction\": \"left\", \"index\": 11}",
+        "The goal is to set the month to February. The current screen shows the months in a scrollable list. I need to scroll left to find February.{\"action_type\": \"scroll\", \"direction\": \"left\", \"index\": 11}",
+        "The goal is to set the date to February 8, 2025. The year has been set to 2025. Now I need to select the month February. I can scroll left to find February.{\"action_type\": \"scroll\", \"direction\": \"left\", \"index\": 11}",
+        "The goal is to set the month to February. The current screen shows the months, and I need to click on \"Feb\" to select it. However, \"Feb\" is not visible, so I need to scroll left to find it.{\"action_type\": \"scroll\", \"direction\": \"left\", \"index\": 11}",
+        "The goal is to set the date to February 8, 2025. I have already set the year to 2025. Now I need to select the month February. The current screen shows a list of months, and I need to scroll to the left to find February.{\"action_type\": \"scroll\", \"direction\": \"left\", \"index\": 11}",
+        "The goal is to set the date to February 8, 2025. I have already set the year to 2025. Now I need to select the month February. The current screen shows a list of months, and I need to scroll to find February.{\"action_type\": \"scroll\", \"direction\": \"left\", \"index\": 11}",
+        "The current screen shows the month selection, and I need to select February. Since February is not visible, I need to scroll to the left to find it.{\"action_type\": \"scroll\", \"direction\": \"left\", \"index\": 11}",
+        "The current screen shows the month selection, but February is not visible. I need to scroll to the left to find February.{\"action_type\": \"scroll\", \"direction\": \"left\", \"index\": 11}",
+        "The goal is to set the month to February. The current screen shows the month selection, and I need to scroll to find February.{\"action_type\": \"scroll\", \"direction\": \"left\", \"index\": 11}"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Simple Calendar Pro"
+        },
+        {
+            "action_type": "click",
+            "index": 22
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "click",
+            "index": 13
+        },
+        {
+            "action_type": "input_text",
+            "index": 13,
+            "text": "Meeting with John"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "input_text",
+            "index": 14,
+            "text": "Conference Room A"
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "input_text",
+            "index": 16,
+            "text": "Discuss project progress"
+        },
+        {
+            "action_type": "click",
+            "index": 21
+        },
+        {
+            "action_type": "scroll",
+            "index": 15,
+            "direction": "left"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new event in Simple Calendar Pro. The first step is to open the app.{\"action_type\": \"open_app\", \"app_name\": \"Simple Calendar Pro\"}",
+        "The user wants to create a new event. The screen shows a \"Create a new event\" button.{\"action_type\": \"click\", \"index\": 22}",
+        "The user wants to set the title of the event. The \"Title\" field is clickable and editable.{\"action_type\": \"click\", \"index\": 13}",
+        "The user wants to set the title of the event. The \"Title\" field is clickable, so I should click it to open the text input field.{\"action_type\": \"click\", \"index\": 13}",
+        "The user needs to input the title of the event, which is 'Meeting with John'. The 'Title' field is already selected, so I should input the text.{\"action_type\": \"input_text\", \"text\": \"Meeting with John\", \"index\": 13}",
+        "The next step is to set the location of the event. The user wants to set the location to 'Conference Room A', so I should click on the \"Location\" field to input the location.{\"action_type\": \"click\", \"index\": 14}",
+        "The user wants to input the location of the event. The \"Location\" field is clickable, so I should click it.{\"action_type\": \"click\", \"index\": 14}",
+        "The user wants to input the location of the event, which is 'Conference Room A'. The current screen shows the \"Location\" field, so I should input the location into the text field.{\"action_type\": \"input_text\", \"text\": \"Conference Room A\", \"index\": 14}",
+        "The next step is to input the description of the event. The \"Description\" field is clickable and will allow the user to input the description.{\"action_type\": \"click\", \"index\": 16}",
+        "The next step is to input the description of the event. The \"Description\" field is clickable and will open a text field for input.{\"action_type\": \"click\", \"index\": 16}",
+        "The user has clicked on the \"Description\" field and the next step is to input the description \"Discuss project progress\" into the description field.{\"action_type\": \"input_text\", \"text\": \"Discuss project progress\", \"index\": 16}",
+        "The user has finished inputting all the event details (title, location, description). The next step is to set the date and time of the event. The user wants to set the date to February 13, 2025, and the time to 10:00 AM. The current date displayed is \"April 8 (Tue)\". Clicking on this will allow the user to change the date.{\"action_type\": \"click\", \"index\": 21}",
+        "The current screen shows the date selection. The year is currently 2025, so I need to select the month as February. I can scroll left to go to previous months.{\"action_type\": \"scroll\", \"direction\": \"left\", \"index\": 15}"
+    ]
+}

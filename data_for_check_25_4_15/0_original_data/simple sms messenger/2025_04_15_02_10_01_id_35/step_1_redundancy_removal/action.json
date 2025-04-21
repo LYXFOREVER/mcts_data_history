@@ -1,0 +1,16 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        },
+        {
+            "action_type": "click",
+            "index": 26
+        }
+    ],
+    "action_output_list": [
+        "The user wants to compose a new SMS message. The Messages app is on the home screen.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}",
+        "The current screen is asking to set Messages as the default SMS app. To proceed with composing a new SMS message, I need to either set it as default or cancel. I will choose to cancel for now.{\"action_type\": \"click\", \"index\": 26}"
+    ]
+}

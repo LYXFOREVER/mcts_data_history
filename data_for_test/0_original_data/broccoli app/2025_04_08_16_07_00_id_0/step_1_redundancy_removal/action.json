@@ -1,0 +1,32 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Broccoli"
+        },
+        {
+            "action_type": "click",
+            "index": 26
+        },
+        {
+            "action_type": "click",
+            "index": 19
+        },
+        {
+            "action_type": "input_text",
+            "index": 19,
+            "text": "Broccoli Salad"
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new recipe in the Broccoli app. To do this, I need to open the Broccoli app first.{\"action_type\": \"open_app\", \"app_name\": \"Broccoli\"}",
+        "The user wants to create a new recipe. The current screen shows the main page of the Broccoli app. The \"New Recipe\" button is visible and clickable, so I should click it to start creating a new recipe.{\"action_type\": \"click\", \"index\": 26}",
+        "The user wants to create a recipe with the title 'Broccoli Salad'. The current screen is the \"New Recipe\" screen. The first step is to input the title of the recipe.{\"action_type\": \"click\", \"index\": 19}",
+        "The user wants to input the title of the recipe, which is 'Broccoli Salad'. The current screen shows the \"Title\" field, so the agent should input the text into the field.{\"action_type\": \"input_text\", \"text\": \"Broccoli Salad\", \"index\": 19}",
+        "The next step is to input the category.{\"action_type\": \"click\", \"index\": 24}"
+    ]
+}

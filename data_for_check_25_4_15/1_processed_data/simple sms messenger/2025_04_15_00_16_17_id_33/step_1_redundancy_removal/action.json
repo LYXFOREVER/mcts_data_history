@@ -1,0 +1,16 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Messages"
+        },
+        {
+            "action_type": "click",
+            "index": 25
+        }
+    ],
+    "action_output_list": [
+        "The user wants to search for the word 'hello' within the current message thread with John. To do this, I need to first open the Messages app.{\"action_type\": \"open_app\", \"app_name\": \"Messages\"}",
+        "The current screen is showing a prompt to set Messages as the default SMS app. I need to dismiss this prompt to proceed to the main screen of the Messages app.{\"action_type\": \"click\", \"index\": 25}"
+    ]
+}

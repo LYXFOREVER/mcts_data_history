@@ -1,0 +1,11 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Settings"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to navigate to Wi-Fi settings. I need to open the settings app first.{\"action_type\": \"open_app\", \"app_name\": \"Settings\"}"
+    ]
+}

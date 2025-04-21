@@ -1,0 +1,4 @@
+{
+    "score": 2,
+    "reason": "The agent successfully opened the camera application. However, it got stuck trying to find a map within the camera app, which is not part of the original task. The agent did not exit the camera app and return to the home screen as instructed."
+}

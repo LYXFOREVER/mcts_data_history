@@ -1,0 +1,73 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Contacts"
+        },
+        {
+            "action_type": "click",
+            "index": 26
+        },
+        {
+            "action_type": "input_text",
+            "index": 9,
+            "text": "Jane Doe"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "input_text",
+            "index": 24,
+            "text": "Jane Doe"
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 49,
+            "direction": "up"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to search for a contact in the contacts app. I should open the contacts app first.{\"action_type\": \"open_app\", \"app_name\": \"Contacts\"}",
+        "The current screen is the main screen of the Contacts app. To search for a contact, I need to click on the search icon.{\"action_type\": \"click\", \"index\": 26}",
+        "I need to input the contact name \"Jane Doe\" into the search field to find the contact. The search field is at index 9.{\"action_type\": \"input_text\", \"text\": \"Jane Doe\", \"index\": 9}",
+        "The current screen shows a sign-in page, which is not what I expect after searching for \"Jane Doe\" in the Contacts app. It seems like the app is trying to sign in to a Google account. I need to navigate back to the Contacts app.{\"action_type\": \"navigate_back\"}",
+        "The previous attempt to search for \"Jane Doe\" might have been interrupted. I will try again by clicking the search bar to initiate a search.{\"action_type\": \"click\", \"index\": 16}",
+        "The current screen shows the contacts list. I need to search for 'Jane Doe' to proceed. The search bar is visible and clickable.{\"action_type\": \"click\", \"index\": 24}",
+        "The goal is to search for 'Jane Doe' in contacts. The search bar is visible and clickable, so I should click it to start the search.{\"action_type\": \"click\", \"index\": 24}",
+        "The goal is to search for 'Jane Doe' and the current screen shows the search bar. I should input the name 'Jane Doe' into the search bar.{\"action_type\": \"input_text\", \"text\": \"Jane Doe\", \"index\": 24}",
+        "The contact 'Jane Doe' is displayed in the search results. I need to click on the contact to view the contact details and then edit it.{\"action_type\": \"click\", \"index\": 24}",
+        "The user wants to edit the contact to add an email address. Since the contact 'Jane Doe' is displayed, I need to find the edit button to modify the contact details. I will scroll down to see if the edit button is visible.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The current screen shows the contact details for Jane Doe. To edit the contact, I need to find and click the edit button. Since it's not immediately visible, I'll try scrolling down to see if it's located further down the page.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The goal is to edit the contact 'Jane Doe' to add an email address. I need to find the edit button to proceed. Since I have already scrolled down once, I will try scrolling down again to see if the edit button is visible.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The goal is to edit the contact 'Jane Doe' to add an email address. I need to find the edit button to proceed. Since scrolling down didn't reveal the edit button, I will try scrolling up to see if it's located at the top of the contact details.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 49}"
+    ]
+}

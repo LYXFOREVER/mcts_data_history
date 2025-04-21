@@ -1,0 +1,16 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Camera"
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        }
+    ],
+    "action_output_list": [
+        "The user wants to share a photo from the camera app to a specific location. I need to first open the camera app.{\"action_type\": \"open_app\", \"app_name\": \"Camera\"}",
+        "The user wants to share the photo. I need to find a share button or icon on the screen. Since I don't see an obvious share button, I will try clicking the options button to see if there is a share option there.{\"action_type\": \"click\", \"index\": 15}"
+    ]
+}

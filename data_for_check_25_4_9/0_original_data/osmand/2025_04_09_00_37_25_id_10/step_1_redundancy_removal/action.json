@@ -1,0 +1,11 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "OsmAnd"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to open a file in OsmAnd. I should first open the OsmAnd app.{\"action_type\": \"open_app\", \"app_name\": \"OsmAnd\"}"
+    ]
+}

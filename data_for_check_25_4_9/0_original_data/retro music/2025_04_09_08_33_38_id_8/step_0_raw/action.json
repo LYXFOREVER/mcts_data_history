@@ -1,0 +1,75 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Retro Music"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "scroll",
+            "index": 8,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 8,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 8,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 8,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 8,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 8,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 8,
+            "direction": "up"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Retro Music"
+        },
+        {
+            "action_type": "navigate_back"
+        }
+    ],
+    "action_output_list": [
+        "To change the app language, I need to open the Retro Music app first.{\"action_type\": \"open_app\", \"app_name\": \"Retro Music\"}",
+        "The user wants to change the language in the app. To do this, we need to go to the settings menu. The settings icon is visible on the screen.{\"action_type\": \"click\", \"index\": 14}",
+        "The current screen shows the settings menu. I need to scroll down to find the language settings.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 8}",
+        "I need to scroll down to find the language settings.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 8}",
+        "The language setting is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 8}",
+        "I need to scroll down to find the language settings.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 8}",
+        "I need to scroll down to find the language settings.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 8}",
+        "I need to scroll down to find the language settings.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 8}",
+        "I have been scrolling down repeatedly and still haven't found the language settings. It's possible that the language settings are located at the top of the settings menu. Therefore, I will try scrolling up to see if I can find it.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 8}",
+        "I have scrolled up and down multiple times and still cannot find the language settings. It is possible that the language settings are not directly available in the settings menu. I will try navigating back to the main screen of the app to see if there are any other options to change the language.{\"action_type\": \"navigate_back\"}",
+        "The user wants to change the language of the app. Since the settings menu didn't have the option, I will try to navigate back to the home screen and look for a language option there.{\"action_type\": \"navigate_back\"}",
+        "I have tried navigating back to the home screen, but I am still on the home screen. I will try opening the app again to see if I missed something.{\"action_type\": \"open_app\", \"app_name\": \"Retro Music\"}",
+        "The user wants to change the language of the app. I have tried to find the language settings in the settings menu, but it was not there. I will now try to navigate back to the home screen and see if there is a language option there.{\"action_type\": \"navigate_back\"}"
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Simple Calendar Pro"
+        },
+        {
+            "action_type": "click",
+            "index": 69
+        },
+        {
+            "action_type": "click",
+            "index": 23
+        },
+        {
+            "action_type": "click",
+            "index": 22
+        },
+        {
+            "action_type": "click",
+            "index": 61
+        },
+        {
+            "action_type": "click",
+            "index": 8
+        },
+        {
+            "action_type": "input_text",
+            "index": 8,
+            "text": "Meeting with John"
+        },
+        {
+            "action_type": "click",
+            "index": 9
+        },
+        {
+            "action_type": "scroll",
+            "index": 20,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 20,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 20,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 20,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 20,
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new event in Simple Calendar Pro. The first step is to open the app.{\"action_type\": \"open_app\", \"app_name\": \"Simple Calendar Pro\"}",
+        "The goal is to create a new event. The \"New Event\" button is visible and clickable.{\"action_type\": \"click\", \"index\": 69}",
+        "The user wants to create an event for March 31. The current screen shows the calendar for April. I need to navigate to March. I can click the back arrow to go to the previous month.{\"action_type\": \"click\", \"index\": 23}",
+        "The current screen displays April, but the target date is March 31. I need to navigate to March by clicking the back arrow.{\"action_type\": \"click\", \"index\": 22}",
+        "The current screen shows the calendar for March. The 31st of March is visible and clickable. I should click on the 31st to select the date for the event.{\"action_type\": \"click\", \"index\": 61}",
+        "The next step is to input the event title. I will click on the text field to input the event title.{\"action_type\": \"click\", \"index\": 8}",
+        "The user wants to input the event title. The text field with index 8 is the event title field.{\"action_type\": \"input_text\", \"text\": \"Meeting with John\", \"index\": 8}",
+        "The next step is to set the start time to 10:00 AM. I can click on the start time field (index 9) to set the time.{\"action_type\": \"click\", \"index\": 9}",
+        "The user wants to set the start time to 10:00 AM. The current screen shows the time picker, and the next step is to set the hour and minute.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 20}",
+        "The goal is to set the start time to 10:00 AM. The current screen shows a time picker. I should scroll down to find 10:00 AM.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 20}",
+        "The goal is to set the start time to 10:00 AM. I have scrolled down the time picker (index 20) in the previous step, but I don't know if 10:00 AM is visible. I will scroll down again to see if it appears.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 20}",
+        "The current screen shows the time picker, but it's not clear if 10:00 AM is visible. I will scroll down again to ensure 10:00 AM is visible.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 20}",
+        "The goal is to set the start time to 10:00 AM. I have been scrolling down the time picker, but I haven't reached 10:00 AM yet. I will continue to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 20}"
+    ]
+}

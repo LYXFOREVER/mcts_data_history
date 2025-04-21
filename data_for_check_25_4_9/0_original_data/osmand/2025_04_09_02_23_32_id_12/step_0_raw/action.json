@@ -1,0 +1,72 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "OsmAnd"
+        },
+        {
+            "action_type": "click",
+            "index": 30
+        },
+        {
+            "action_type": "click",
+            "index": 9
+        },
+        {
+            "action_type": "input_text",
+            "index": 9,
+            "text": "Paris"
+        },
+        {
+            "action_type": "click",
+            "index": 9
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 55
+        },
+        {
+            "action_type": "click",
+            "index": 55
+        },
+        {
+            "action_type": "click",
+            "index": 55
+        },
+        {
+            "action_type": "click",
+            "index": 55
+        },
+        {
+            "action_type": "click",
+            "index": 55
+        },
+        {
+            "action_type": "click",
+            "index": 55
+        }
+    ],
+    "action_output_list": [
+        "The user wants to search for 'Paris' in OsmAnd. To do this, I need to open the OsmAnd app first.{\"action_type\": \"open_app\", \"app_name\": \"OsmAnd\"}",
+        "The user wants to search for 'Paris'. The search icon is available on the screen.{\"action_type\": \"click\", \"index\": 30}",
+        "The user wants to search for 'Paris'. The text field 'Type to search all' is visible and clickable, so I should click on it to start typing the search query.{\"action_type\": \"click\", \"index\": 9}",
+        "The user wants to search for 'Paris', and the current screen shows the search bar. I need to input the text \"Paris\" into the search bar.{\"action_type\": \"input_text\", \"text\": \"Paris\", \"index\": 9}",
+        "The user has typed \"Paris\" and now needs to select the correct search result. The first result, \"Paris\", seems like the most likely candidate.{\"action_type\": \"click\", \"index\": 9}",
+        "The user wants to zoom in to street level to view the Eiffel Tower. I can zoom in by clicking on the map.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to zoom in to street level to view the Eiffel Tower. Since I am already on the map of Paris, I can try clicking on the map to zoom in.{\"action_type\": \"click\", \"index\": 15}",
+        "To zoom in and view the Eiffel Tower, I can use the zoom in button.{\"action_type\": \"click\", \"index\": 55}",
+        "The user wants to zoom in to street level to view the Eiffel Tower. The zoom in button is available on the screen.{\"action_type\": \"click\", \"index\": 55}",
+        "The user wants to zoom in to street level to view the Eiffel Tower. I can click the zoom in button to zoom in on the map.{\"action_type\": \"click\", \"index\": 55}",
+        "The user wants to zoom in to street level to view the Eiffel Tower. I can click the zoom in button to zoom in on the map.{\"action_type\": \"click\", \"index\": 55}",
+        "The user wants to zoom in to street level to view the Eiffel Tower. I can click the zoom in button to zoom in on the map.{\"action_type\": \"click\", \"index\": 55}",
+        "The user wants to zoom in to street level to view the Eiffel Tower. The current screen shows the map of Paris. I should click the zoom in button to zoom in on the map.{\"action_type\": \"click\", \"index\": 55}"
+    ]
+}

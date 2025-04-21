@@ -1,0 +1,69 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "OsmAnd"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "OsmAnd"
+        },
+        {
+            "action_type": "click",
+            "index": 29
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 112
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "OsmAnd"
+        },
+        {
+            "action_type": "click",
+            "index": 34
+        },
+        {
+            "action_type": "click",
+            "index": 34
+        },
+        {
+            "action_type": "click",
+            "index": 34
+        },
+        {
+            "action_type": "click",
+            "index": 34
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to check for track files in OsmAnd. I need to open the OsmAnd app first.{\"action_type\": \"open_app\", \"app_name\": \"OsmAnd\"}",
+        "The current screen is the home screen. To check for track files in OsmAnd, I need to open the OsmAnd app.{\"action_type\": \"open_app\", \"app_name\": \"OsmAnd\"}",
+        "To check for track files, I need to access the settings or menu within the OsmAnd app. The \"Configure map\" icon might lead to settings related to track files.{\"action_type\": \"click\", \"index\": 29}",
+        "The user wants to check for track files. The current screen is \"Configure map\". I should navigate back to the map screen and then find the option to import tracks.{\"action_type\": \"navigate_back\"}",
+        "The user wants to check for and import track files. The current screen is \"Configure map\". The \"Back to map\" button (index 15) will take us back to the main map view.{\"action_type\": \"click\", \"index\": 15}",
+        "To check for track files, I should navigate to the settings or menu where track files can be accessed. The \"Configure map\" option might contain settings related to track files.{\"action_type\": \"click\", \"index\": 112}",
+        "The user wants to check for and import track files. The current screen is \"Configure map\". I should navigate back to the main map view to find the track files option.{\"action_type\": \"navigate_back\"}",
+        "The current screen is the home screen. To check for track files in OsmAnd, I need to open the OsmAnd app again.{\"action_type\": \"open_app\", \"app_name\": \"OsmAnd\"}",
+        "To find track files, I should open the menu.{\"action_type\": \"click\", \"index\": 34}",
+        "The current screen shows the main map view. To find track files, I need to open the menu. The \"Back to menu\" button is visible and clickable.{\"action_type\": \"click\", \"index\": 34}",
+        "The user wants to check for and import track files. The current screen shows the main map view. I need to find the option to import track files, which is usually located in the menu.{\"action_type\": \"click\", \"index\": 34}",
+        "The user wants to check for and import track files. The current screen shows the main map view. I need to open the menu to find the import option. The \"Back to menu\" button is available.{\"action_type\": \"click\", \"index\": 34}",
+        "The user wants to check for and import track files. I need to find the option to import track files in the menu.{\"action_type\": \"scroll\", \"direction\": \"down\"}"
+    ]
+}

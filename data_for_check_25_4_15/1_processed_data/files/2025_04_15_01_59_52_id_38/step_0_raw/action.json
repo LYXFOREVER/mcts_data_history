@@ -1,0 +1,76 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Files"
+        },
+        {
+            "action_type": "click",
+            "index": 21
+        },
+        {
+            "action_type": "scroll",
+            "index": 7,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 7,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 7,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 7,
+            "direction": "up"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "open_app",
+            "app_name": "Files"
+        },
+        {
+            "action_type": "click",
+            "index": 18
+        },
+        {
+            "action_type": "scroll",
+            "index": 7,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 7,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 7,
+            "direction": "up"
+        },
+        {
+            "action_type": "navigate_back"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to copy a file using the Files app. I should open the Files app first.{\"action_type\": \"open_app\", \"app_name\": \"Files\"}",
+        "The user wants to copy a file from the Documents folder. The current screen shows the main Files app screen, and the Documents folder is visible and clickable.{\"action_type\": \"click\", \"index\": 21}",
+        "The user wants to copy 'report.pdf' from the current directory. I need to find 'report.pdf' and long press it to bring up the context menu. Since I don't see it, I need to scroll down.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 7}",
+        "The file 'report.pdf' is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 7}",
+        "The file 'report.pdf' might be at the bottom of the list, so I should scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 7}",
+        "I have scrolled down multiple times and still haven't found 'report.pdf'. It's possible that the file is not in this folder, or I missed it. I will try to scroll up to check again.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 7}",
+        "I have scrolled up and down multiple times and still cannot find the file 'report.pdf'. It is possible that the file is not in this folder. I will navigate back to the previous screen to check if I am in the correct folder.{\"action_type\": \"navigate_back\"}",
+        "I am currently on the home screen. I need to open the Files app to complete the task.{\"action_type\": \"open_app\", \"app_name\": \"Files\"}",
+        "The user wants to copy a file from the 'Documents' folder. I need to navigate to the 'Documents' folder first.{\"action_type\": \"click\", \"index\": 18}",
+        "I need to find the 'report.pdf' file in the 'Documents' folder. I will scroll down to see if it is visible.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 7}",
+        "I need to scroll down to find the 'report.pdf' file.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 7}",
+        "I have scrolled down and still can't find the file. I will try scrolling up to see if I missed it.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 7}",
+        "I have been scrolling up and down in the 'Documents' folder and still can't find the 'report.pdf' file. It's possible that the file is not in this folder, or the file name is different. I will navigate back to the previous screen to double-check the source folder.{\"action_type\": \"navigate_back\"}"
+    ]
+}

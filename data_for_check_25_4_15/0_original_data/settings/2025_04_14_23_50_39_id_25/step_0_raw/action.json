@@ -1,0 +1,68 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Settings"
+        },
+        {
+            "action_type": "click",
+            "index": 26
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 26
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        }
+    ],
+    "action_output_list": [
+        "To navigate to the settings, I need to open the settings app.{\"action_type\": \"open_app\", \"app_name\": \"Settings\"}",
+        "The goal is to navigate to 'Network & internet'. The current screen is the settings menu, and 'Network & internet' is visible and clickable.{\"action_type\": \"click\", \"index\": 26}",
+        "The next step is to tap on 'Wi-Fi' to configure Wi-Fi settings.{\"action_type\": \"click\", \"index\": 15}",
+        "The current screen is \"Connected devices\" which is not the correct screen. I need to navigate back to the \"Network & internet\" screen.{\"action_type\": \"navigate_back\"}",
+        "The goal is to navigate to 'Network & internet'. The current screen is the settings screen, and 'Network & internet' is a clickable option.{\"action_type\": \"click\", \"index\": 15}",
+        "The current screen is \"Connected devices\", which is not the \"Network & internet\" settings. I need to navigate back to the previous screen to find \"Network & internet\".{\"action_type\": \"navigate_back\"}",
+        "The current screen is \"Connected devices\". I need to go back to the \"Settings\" screen to find \"Network & internet\".{\"action_type\": \"navigate_back\"}",
+        "The user wants to navigate to 'Network & internet' in settings. The 'Network & internet' option is visible on the screen.{\"action_type\": \"click\", \"index\": 26}",
+        "The user wants to navigate to Wi-Fi settings. The current screen is \"Network & internet\" settings. The next step is to click on \"Wi-Fi\".{\"action_type\": \"click\", \"index\": 15}",
+        "The current screen shows available Wi-Fi networks. To forget the currently connected network, I need to find the settings for the connected network. I can try clicking on the connected network to see if it shows the settings.{\"action_type\": \"click\", \"index\": 15}",
+        "The current screen shows the details of the connected Wi-Fi network \"sdk_gphone64_x86_64\". To forget the network, I need to find a \"forget\" option. Since it's not immediately visible, I should scroll down to see if it's there.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The goal is to forget the currently connected Wi-Fi network. The screen shows the details of the connected Wi-Fi network, and I have already scrolled down. The next step is to click the \"Forget\" button to forget the network.{\"action_type\": \"click\", \"index\": 15}",
+        "The user accidentally clicked \"Cancel\" instead of \"Forget\" in the previous step. The goal is to forget the Wi-Fi network, so I should now click the \"Rename\" button, which is the \"Forget\" button.{\"action_type\": \"click\", \"index\": 16}"
+    ]
+}

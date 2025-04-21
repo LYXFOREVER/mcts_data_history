@@ -570,7 +570,8 @@
                 ]
             }
         ],
-        "action": "{'action_type': 'open_app', 'app_name': 'Broccoli'}",
-        "action_output": "Open the Broccoli app, displaying the \"Recipes\" screen with the message \"No recipes found.\"{'action_type': 'open_app', 'app_name': 'Broccoli'}"
+        "action": "{\"action_type\": \"open_app\", \"app_name\": \"Broccoli\"}",
+        "action_output": "{\"action_type\": \"open_app\", \"app_name\": \"Broccoli\"}",
+        "summary": "Open the Broccoli app, displaying the \"Recipes\" screen with the message \"No recipes found.\""
     }
 ]

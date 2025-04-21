@@ -1,0 +1,42 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Retro Music Player"
+        },
+        {
+            "action_type": "click",
+            "index": 40
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "input_text",
+            "index": 14,
+            "text": "Workout"
+        },
+        {
+            "action_type": "click",
+            "index": 18
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a playlist in Retro Music. I need to open the app first.{\"action_type\": \"open_app\", \"app_name\": \"Retro Music Player\"}",
+        "The user wants to create a new playlist. The current screen shows the songs list. To create a playlist, I need to navigate to the playlists section.{\"action_type\": \"click\", \"index\": 40}",
+        "To create a new playlist, I need to tap on the \"More options\" button.{\"action_type\": \"click\", \"index\": 14}",
+        "The user wants to create a new playlist. The current screen shows a menu with options like \"New playlist\", \"Import playlist\", and \"Settings\". To create a new playlist, the \"New playlist\" option should be clicked.{\"action_type\": \"click\", \"index\": 16}",
+        "The user needs to input the name of the playlist. The text field for the playlist name is at index 14.{\"action_type\": \"input_text\", \"text\": \"Workout\", \"index\": 14}",
+        "The user has finished typing the playlist name and needs to create the playlist. The \"Create\" button is visible and clickable.{\"action_type\": \"click\", \"index\": 18}",
+        "To add songs to the playlist, I need to click on the playlist \"Workout\".{\"action_type\": \"click\", \"index\": 27}"
+    ]
+}

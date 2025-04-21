@@ -1,0 +1,16 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Camera"
+        },
+        {
+            "action_type": "click",
+            "index": 15
+        }
+    ],
+    "action_output_list": [
+        "The user wants to access the camera app to change the photo resolution. The first step is to open the camera app.{\"action_type\": \"open_app\", \"app_name\": \"Camera\"}",
+        "The user wants to access the settings menu in the camera app. The \"Options\" button (index 15) seems like it would lead to the settings menu.{\"action_type\": \"click\", \"index\": 15}"
+    ]
+}

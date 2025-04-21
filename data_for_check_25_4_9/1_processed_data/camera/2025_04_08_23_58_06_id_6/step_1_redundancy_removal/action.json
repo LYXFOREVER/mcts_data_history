@@ -1,0 +1,20 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Camera"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 14
+        }
+    ],
+    "action_output_list": [
+        "The user wants to change the camera resolution. First, I need to open the camera app.{\"action_type\": \"open_app\", \"app_name\": \"Camera\"}",
+        "The current screen shows a photo, and to access camera settings, I need to navigate back to the camera app's main screen.{\"action_type\": \"navigate_back\"}",
+        "The user wants to access camera settings. The \"Options\" button (UI element 14) might lead to the settings.{\"action_type\": \"click\", \"index\": 14}"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Settings"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "down"
+        },
+        {
+            "action_type": "scroll",
+            "index": 13,
+            "direction": "up"
+        },
+        {
+            "action_type": "click",
+            "index": 33
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 33
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 33
+        }
+    ],
+    "action_output_list": [
+        "The user wants to open the battery settings. I should open the settings app first.{\"action_type\": \"open_app\", \"app_name\": \"Settings\"}",
+        "The current screen shows the main settings menu. To find the battery settings, I need to scroll down to find the 'Battery' option.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The current screen doesn't have the battery option. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The battery option is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "The 'Battery' option is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "The 'Battery' option is not visible on the screen. I need to scroll down to find it.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "I have been scrolling down and still haven't found the Battery option. I will scroll down again to see if it appears.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 13}",
+        "I have been scrolling down and still haven't found the Battery option. I will try scrolling up to see if I missed it.{\"action_type\": \"scroll\", \"direction\": \"up\", \"index\": 13}",
+        "The 'Battery' option is visible on the screen. Clicking on it will open the battery settings.{\"action_type\": \"click\", \"index\": 33}",
+        "The user has already clicked on the 'Battery' option in the settings menu. The current screen shows storage details, not battery details. I need to navigate back to the settings menu to find the battery option again.{\"action_type\": \"navigate_back\"}",
+        "The goal is to open the Battery settings. The 'Battery' option is visible on the screen.{\"action_type\": \"click\", \"index\": 33}",
+        "The current screen shows Storage settings, not Battery settings. I need to navigate back to the main settings menu to find the Battery option.{\"action_type\": \"navigate_back\"}",
+        "The user wants to open the Battery settings. The 'Battery' option is visible on the screen.{\"action_type\": \"click\", \"index\": 33}"
+    ]
+}

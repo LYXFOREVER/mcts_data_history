@@ -1,0 +1,22 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Simple Calendar Pro"
+        },
+        {
+            "action_type": "click",
+            "index": 69
+        },
+        {
+            "action_type": "input_text",
+            "index": 8,
+            "text": "Meeting"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new event in Simple Calendar Pro. The first step is to open the app.{\"action_type\": \"open_app\", \"app_name\": \"Simple Calendar Pro\"}",
+        "The user wants to create a new event. The current screen shows the calendar view. The \"New Event\" button is visible and clickable.{\"action_type\": \"click\", \"index\": 69}",
+        "The user needs to input the event title. The title field is likely the first editable field on the screen.{\"action_type\": \"input_text\", \"text\": \"Meeting\", \"index\": 8}"
+    ]
+}

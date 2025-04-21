@@ -1,0 +1,11 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "OsmAnd"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to scroll down the map to locate Namibia and then zoom in to Windhoek. To do this, I need to open the OsmAnd app first.{\"action_type\": \"open_app\", \"app_name\": \"OsmAnd\"}"
+    ]
+}

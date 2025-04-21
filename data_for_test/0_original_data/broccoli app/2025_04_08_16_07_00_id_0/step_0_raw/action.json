@@ -1,0 +1,72 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Broccoli"
+        },
+        {
+            "action_type": "click",
+            "index": 26
+        },
+        {
+            "action_type": "click",
+            "index": 19
+        },
+        {
+            "action_type": "input_text",
+            "index": 19,
+            "text": "Broccoli Salad"
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "scroll",
+            "direction": "down"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "scroll",
+            "index": 11,
+            "direction": "down"
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new recipe in the Broccoli app. To do this, I need to open the Broccoli app first.{\"action_type\": \"open_app\", \"app_name\": \"Broccoli\"}",
+        "The user wants to create a new recipe. The current screen shows the main page of the Broccoli app. The \"New Recipe\" button is visible and clickable, so I should click it to start creating a new recipe.{\"action_type\": \"click\", \"index\": 26}",
+        "The user wants to create a recipe with the title 'Broccoli Salad'. The current screen is the \"New Recipe\" screen. The first step is to input the title of the recipe.{\"action_type\": \"click\", \"index\": 19}",
+        "The user wants to input the title of the recipe, which is 'Broccoli Salad'. The current screen shows the \"Title\" field, so the agent should input the text into the field.{\"action_type\": \"input_text\", \"text\": \"Broccoli Salad\", \"index\": 19}",
+        "The next step is to input the category.{\"action_type\": \"click\", \"index\": 24}",
+        "The app indicates that no categories have been created yet. To proceed, I need to create a new category. I will click the \"OK\" button to dismiss the message.{\"action_type\": \"click\", \"index\": 16}",
+        "The user wants to set the category to 'Salad'. Since there are no categories created yet, the next step is to create a new category. I should click on the \"Categories\" field again to bring up the category selection dialog.{\"action_type\": \"click\", \"index\": 24}",
+        "Since no categories have been created yet, I need to create one. I will click the \"OK\" button to dismiss the dialog.{\"action_type\": \"click\", \"index\": 16}",
+        "The current screen is the \"New Recipe\" screen. The user wants to set the category to 'Salad'. Since no categories exist, I need to create a new category first. I can scroll down to reveal the \"Categories\" field.{\"action_type\": \"scroll\", \"direction\": \"down\"}",
+        "The user wants to set the category for the recipe. Since scrolling didn't reveal the \"Categories\" field, I will navigate back to the previous screen and try again.{\"action_type\": \"navigate_back\"}",
+        "The \"Categories\" field needs to be clicked to set the category for the recipe.{\"action_type\": \"click\", \"index\": 24}",
+        "The app indicates that no categories have been created yet. To proceed, I need to create a new category. I will click the \"OK\" button to dismiss the dialog.{\"action_type\": \"click\", \"index\": 16}",
+        "The \"Categories\" field needs to be set to \"Salad\". Since the app indicates that no categories have been created yet, I need to create a new category first. I will scroll down to see if there is an option to create a new category.{\"action_type\": \"scroll\", \"direction\": \"down\", \"index\": 11}"
+    ]
+}

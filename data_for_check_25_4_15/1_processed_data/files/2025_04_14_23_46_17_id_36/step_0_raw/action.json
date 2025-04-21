@@ -1,0 +1,69 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Files"
+        },
+        {
+            "action_type": "click",
+            "index": 30
+        },
+        {
+            "action_type": "click",
+            "index": 16
+        },
+        {
+            "action_type": "input_text",
+            "index": 16,
+            "text": ".txt"
+        },
+        {
+            "action_type": "keyboard_enter"
+        },
+        {
+            "action_type": "wait"
+        },
+        {
+            "action_type": "navigate_back"
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        },
+        {
+            "action_type": "click",
+            "index": 27
+        }
+    ],
+    "action_output_list": [
+        "The user wants to search for files with the extension '.txt' in the entire device storage. To do this, I need to open the Files app.{\"action_type\": \"open_app\", \"app_name\": \"Files\"}",
+        "To search for files, I need to click on the search icon.{\"action_type\": \"click\", \"index\": 30}",
+        "The user needs to input the file extension to search for. The search bar is represented by UI element 16.{\"action_type\": \"click\", \"index\": 16}",
+        "The user needs to input the file extension '.txt' into the search bar. The search bar is at index 16.{\"action_type\": \"input_text\", \"text\": \".txt\", \"index\": 16}",
+        "The search for '.txt' files has been entered. Now, I need to press enter to initiate the search.{\"action_type\": \"keyboard_enter\"}",
+        "The search for '.txt' files has been performed, and the results are displayed on the screen. The user's goal is to find all files with the extension '.txt' in the entire device storage, and the current screen shows the search results.{\"action_type\": \"wait\"}",
+        "The search for '.txt' files has been performed, and the current screen shows the results. The user's goal is to find all '.txt' files in the entire device storage. The current screen shows \"No matches in Downloads\", which means the search was limited to the Downloads folder. To search the entire device, I need to navigate back to the main Files app screen and initiate a new search that covers all storage locations.{\"action_type\": \"navigate_back\"}",
+        "The current screen shows the files in the Downloads folder. To search the entire device, I need to navigate to the main storage view. Clicking the \"Show roots\" button should take me there.{\"action_type\": \"click\", \"index\": 27}",
+        "The current screen shows the contents of the Downloads folder. To search the entire device, I need to navigate to the main storage view. The \"Show roots\" button allows me to do this.{\"action_type\": \"click\", \"index\": 27}",
+        "The current screen shows the files in Downloads. To search the entire device, I need to navigate back to the main storage view. The \"Show roots\" button (index 27) should take me there.{\"action_type\": \"click\", \"index\": 27}",
+        "The current screen shows the files in Downloads. To search the entire device, I need to navigate to the main storage view. The \"Show roots\" button (index 27) should take me there.{\"action_type\": \"click\", \"index\": 27}",
+        "The user wants to search the entire device for '.txt' files. The current screen shows the contents of the Downloads folder. To search the entire device, I need to navigate to the main storage view by clicking \"Show roots\".{\"action_type\": \"click\", \"index\": 27}",
+        "The user wants to search for '.txt' files in the entire device storage. The current screen shows the files in Downloads. To search the entire device, I need to navigate to the main storage view by clicking \"Show roots\".{\"action_type\": \"click\", \"index\": 27}"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "action_list": [
+        {
+            "action_type": "open_app",
+            "app_name": "Simple Calendar Pro"
+        },
+        {
+            "action_type": "click",
+            "index": 26
+        },
+        {
+            "action_type": "input_text",
+            "index": 8,
+            "text": "Meeting with John"
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        },
+        {
+            "action_type": "click",
+            "index": 24
+        }
+    ],
+    "action_output_list": [
+        "The user wants to create a new event in Simple Calendar Pro. I need to open the app first.{\"action_type\": \"open_app\", \"app_name\": \"Simple Calendar Pro\"}",
+        "The user wants to create a new event. The \"New Event\" button is visible and clickable.{\"action_type\": \"click\", \"index\": 26}",
+        "The user wants to create an event named 'Meeting with John'. The current screen is the event creation screen, so I should input the event title.{\"action_type\": \"input_text\", \"text\": \"Meeting with John\", \"index\": 8}",
+        "The next step is to set the date of the event to February 23. I can click on the date field to change the date.{\"action_type\": \"click\", \"index\": 24}",
+        "The current screen shows the event creation screen. The next step is to change the date to February 23. The date field is clickable.{\"action_type\": \"click\", \"index\": 24}",
+        "The current screen shows the event details, and the date is currently set to April 8. To change the date to February 23, I need to click on the date field.{\"action_type\": \"click\", \"index\": 24}",
+        "The current goal is to set the date to February 23. The current screen shows the event details, and the date is currently set to April 8. To change the date, I need to click on the date field.{\"action_type\": \"click\", \"index\": 24}",
+        "The current goal is to set the date to February 23. The current screen shows the event details, and the date field \"April 8 (Tue)\" is clickable. Clicking on it should open a date picker.{\"action_type\": \"click\", \"index\": 24}",
+        "The goal is to set the date to February 23. The current screen shows the event details, and the date field \"April 8 (Tue)\" is clickable. Clicking on it should open a date picker.{\"action_type\": \"click\", \"index\": 24}",
+        "The goal is to set the date to February 23. The current screen shows the event details, and the date is currently set to April 8. To change the date, I need to click on the date field \"April 8 (Tue)\".{\"action_type\": \"click\", \"index\": 24}",
+        "The current goal is to set the date to February 23. The current screen shows the event details, and the date is currently set to April 8. To change the date, I need to click on the date field, which is \"April 8 (Tue)\".{\"action_type\": \"click\", \"index\": 24}",
+        "The goal is to change the date to February 23. The current screen shows the event details, and the date is currently set to April 8. To change the date, I need to click on the date field.{\"action_type\": \"click\", \"index\": 24}",
+        "The goal is to change the date to February 23. The current screen shows the event details, and the date field \"April 8 (Tue)\" is clickable. Clicking it should open a date picker.{\"action_type\": \"click\", \"index\": 24}"
+    ]
+}
